@@ -2,22 +2,22 @@
 """
 Hermes Daily News Podcast — cloud builder (GitHub Actions)
 
-抓 RSS 新聞 → Claude 寫中英文播報稿 → edge-tts 轉語音 → 更新 feed.xml
+抓 RSS 新聞 → Claude 寫中英文播報稿 → macOS say 轉語音（AAC）→ 更新 feed.xml
+需在 macOS runner 執行
 用法: python podcast/build.py <site_dir>
 """
-import asyncio
 import json
 import os
+import re
 import shutil
+import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
 import anthropic
-import edge_tts
 import feedparser
-from mutagen.mp3 import MP3
 
 BASE_URL = "https://ch88chen.github.io/hermes-podcast"
 MODEL = os.environ.get("PODCAST_MODEL", "claude-opus-5-5")
@@ -47,7 +47,7 @@ TOPICS = {
     },
 }
 
-VOICES = {"zh": "zh-TW-HsiaoChenNeural", "en": "en-US-AriaNeural"}
+VOICES = {"zh": "Meijia", "en": "Samantha"}
 
 SCRIPT_SCHEMA = {
     "type": "object",
@@ -125,8 +125,14 @@ def write_scripts(client, topic, items, today):
     return json.loads(text)
 
 
-async def tts(text, voice, path):
-    await edge_tts.Communicate(text, voice).save(path)
+def tts(text, voice, path):
+    """say → AIFF → AAC (.m4a)，回傳秒數"""
+    aiff = path[:-4] + ".aiff"
+    subprocess.run(["say", "-v", voice, "-o", aiff, text], check=True)
+    subprocess.run(["afconvert", "-f", "m4af", "-d", "aac", "-b", "64000", aiff, path], check=True)
+    os.remove(aiff)
+    out = subprocess.run(["afinfo", path], capture_output=True, text=True).stdout
+    return int(float(re.search(r"estimated duration:\s*([\d.]+)", out).group(1)))
 
 
 def build_episode(client, key, topic, site, today):
@@ -141,10 +147,9 @@ def build_episode(client, key, topic, site, today):
     os.makedirs(day_dir, exist_ok=True)
     episodes = []
     for lang in ("zh", "en"):
-        fname = f"{key}_{lang}.mp3"
+        fname = f"{key}_{lang}.m4a"
         path = os.path.join(day_dir, fname)
-        asyncio.run(tts(data[f"script_{lang}"], VOICES[lang], path))
-        dur = int(MP3(path).info.length)
+        dur = tts(data[f"script_{lang}"], VOICES[lang], path)
         log(f"🎙  {fname}：{dur} 秒")
         title = (f"{topic['name_zh']}（繁中）" if lang == "zh" else f"{topic['name_en']} (English)")
         episodes.append({
@@ -188,7 +193,7 @@ def build_feed(site):
       <description>{escape(notes + chr(10) + chr(10) + ep['script'])}</description>
       <pubDate>{format_datetime(pub)}</pubDate>
       <guid isPermaLink="false">hermes-{day}-{ep['file'][:-4]}</guid>
-      <enclosure url="{BASE_URL}/episodes/{day}/{ep['file']}" length="{ep['length']}" type="audio/mpeg"/>
+      <enclosure url="{BASE_URL}/episodes/{day}/{ep['file']}" length="{ep['length']}" type="audio/x-m4a"/>
       <itunes:duration>{ep['duration']}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>"""))

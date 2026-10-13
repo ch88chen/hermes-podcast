@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
@@ -23,7 +23,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install -r requirements.txt
+      - run: |
+          pip install -r requirements.txt
+          say -v "?" | grep -E "^(Meijia|Samantha) " || echo "⚠️ voice missing"
 
       - name: Check out published site
         run: |

@@ -1,4 +1,2 @@
 anthropic>=1.0
-edge-tts>=7.0
 feedparser>=6.0
-mutagen>=1.47
