@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "30 0 * * *"   # 每天 08:30 台北時間（GitHub 排程可能延遲數分鐘）
   workflow_dispatch:
+    inputs:
+      notify_only:
+        description: "只重送今天的 Telegram / LINE（不重新產生）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -33,11 +38,13 @@ jobs:
           git worktree add site origin/gh-pages
 
       - name: Build episodes and feed
+        if: ${{ !inputs.notify_only }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python podcast/build.py site
 
       - name: Publish (single-commit gh-pages)
+        if: ${{ !inputs.notify_only }}
         working-directory: site
         run: |
           git config user.name "hermes-podcast-bot"
@@ -46,3 +53,11 @@ jobs:
           git add -A
           git commit -m "Publish $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')"
           git push -f origin HEAD:gh-pages
+
+      - name: Notify Telegram / LINE
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_TO: ${{ secrets.LINE_TO }}
+        run: python podcast/notify.py site
