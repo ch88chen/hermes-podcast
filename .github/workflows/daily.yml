@@ -1,0 +1,47 @@
+name: Daily podcast
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 每天 08:30 台北時間（GitHub 排程可能延遲數分鐘）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Check out published site
+        run: |
+          git fetch origin gh-pages
+          git worktree add site origin/gh-pages
+
+      - name: Build episodes and feed
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python podcast/build.py site
+
+      - name: Publish (single-commit gh-pages)
+        if: always()
+        working-directory: site
+        run: |
+          git config user.name "hermes-podcast-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan publish
+          git add -A
+          git commit -m "Publish $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')"
+          git push -f origin HEAD:gh-pages
