@@ -220,25 +220,32 @@ def main():
     site = sys.argv[1]
     today = datetime.now(TZ).date()
     day_dir = os.path.join(site, "episodes", f"{today:%Y-%m-%d}")
-    shutil.rmtree(day_dir, ignore_errors=True)  # 同日重跑時覆蓋
-    os.makedirs(day_dir)
+    staging = os.path.join(site, ".staging")
+    shutil.rmtree(staging, ignore_errors=True)
     open(os.path.join(site, ".nojekyll"), "a").close()
 
+    # 先在 staging 產生，至少有一集成功才取代當日資料，避免失敗時清空 feed
     client = anthropic.Anthropic()
-    episodes, failed = [], []
+    episodes = []
     for key, topic in TOPICS.items():
         try:
-            episodes += build_episode(client, key, topic, site, today)
+            episodes += build_episode(client, key, topic, staging, today)
         except Exception as e:  # 一個主題失敗不影響另一個
             log(f"❌ {topic['name_zh']} 失敗：{e!r}")
-            failed.append(key)
-    with open(os.path.join(day_dir, "meta.json"), "w", encoding="utf-8") as f:
+    if not episodes:
+        shutil.rmtree(staging, ignore_errors=True)
+        log("❌ 沒有任何集數產生，不更新 feed")
+        sys.exit(1)
+
+    new_day = os.path.join(staging, "episodes", f"{today:%Y-%m-%d}")
+    with open(os.path.join(new_day, "meta.json"), "w", encoding="utf-8") as f:
         json.dump(episodes, f, ensure_ascii=False, indent=1)
+    shutil.rmtree(day_dir, ignore_errors=True)  # 同日重跑時覆蓋
+    shutil.move(new_day, day_dir)
+    shutil.rmtree(staging)
 
     prune(site, today)
     build_feed(site)
-    if failed:
-        sys.exit(1)
 
 
 if __name__ == "__main__":

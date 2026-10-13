@@ -36,7 +36,6 @@ jobs:
         run: python podcast/build.py site
 
       - name: Publish (single-commit gh-pages)
-        if: always()
         working-directory: site
         run: |
           git config user.name "hermes-podcast-bot"
