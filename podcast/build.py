@@ -225,6 +225,11 @@ def main():
     site = sys.argv[1]
     today = datetime.now(TZ).date()
     day_dir = os.path.join(site, "episodes", f"{today:%Y-%m-%d}")
+    # 備援排程：今天已產生過就跳過（GitHub 排程可能漏跑，所以一天設多個觸發時間）
+    if "--skip-if-done" in sys.argv and os.path.isfile(os.path.join(day_dir, "meta.json")):
+        log("ℹ️  今天已產生過，略過")
+        set_output("built", "false")
+        return
     staging = os.path.join(site, ".staging")
     shutil.rmtree(staging, ignore_errors=True)
     open(os.path.join(site, ".nojekyll"), "a").close()
@@ -251,6 +256,14 @@ def main():
 
     prune(site, today)
     build_feed(site)
+    set_output("built", "true")
+
+
+def set_output(name, value):
+    path = os.environ.get("GITHUB_OUTPUT")
+    if path:
+        with open(path, "a") as f:
+            f.write(f"{name}={value}\n")
 
 
 if __name__ == "__main__":
