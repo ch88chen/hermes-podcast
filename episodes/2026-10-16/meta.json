@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-16",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 121,
+  "length": 1002655,
+  "headlines": [
+   {
+    "title_zh": "Meta 推出可在 Mac 上執行的開放權重 AI 模型 Muse Spark Open",
+    "title_en": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+   },
+   {
+    "title_zh": "Anthropic 給予 METR 研究人員員工等級存取權限",
+    "title_en": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+   },
+   {
+    "title_zh": "ChatGPT 現在可以查看你的 Chrome 分頁",
+    "title_en": "ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+   },
+   {
+    "title_zh": "Google 通用購物車購物工具在美國上線",
+    "title_en": "Google's Universal Cart shopping tool launches in the US",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+   },
+   {
+    "title_zh": "定向廣告投放零點擊漏洞，植入傭兵間諜軟體",
+    "title_en": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+   }
+  ],
+  "script": "今天是二零二六年十月十六日，歡迎收聽 AI 科技新聞。首先，Meta 發表了全新的開放權重模型 Muse Spark Open，並宣稱這是美國目前最強大的開放權重模型。這次 Meta 與蘋果攜手合作，讓模型可以在蘋果晶片上本機執行，只要兩台搭載 M5 Ultra 的 Mac Studio，搭配最新的 MLX 框架，就能在桌面上跑起來，Meta 表示這是同級模型中的第一個。接著是 AI 安全方面的消息。Anthropic 開放第三方研究機構 METR 以員工等級的權限深入檢視公司內部。METR 將自行發表對 Anthropic 風險、事件與作業方式的評估，而 Anthropic 也放棄了阻止這些報告發表的權利，這在前沿 AI 公司中相當少見。再來看 OpenAI。雖然 ChatGPT Atlas 瀏覽器已經走入歷史，但 ChatGPT 的 Chrome 擴充功能迎來升級。安裝之後，只要在 ChatGPT 網頁版或桌面版中標記 Chrome，ChatGPT 就能查看你已經開啟的瀏覽器分頁，讓它更直接參與你的上網流程。購物方面，Google 的通用購物車工具正式在美國上線，使用者可以在 Google 搜尋以及 Gemini 應用程式中使用這項新功能。最後是一則資安警訊。研究發現，有人利用定向廣告投放零點擊漏洞，替目標裝置植入傭兵間諜軟體。這很可能是首次證實傭兵間諜軟體透過定向廣告散布，代表使用者就算什麼都沒點，也可能受到攻擊，值得大家提高警覺。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-16",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 67,
+  "length": 556809,
+  "headlines": [
+   {
+    "title_zh": "Meta 推出可在 Mac 上執行的開放權重 AI 模型 Muse Spark Open",
+    "title_en": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+   },
+   {
+    "title_zh": "Anthropic 給予 METR 研究人員員工等級存取權限",
+    "title_en": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+   },
+   {
+    "title_zh": "ChatGPT 現在可以查看你的 Chrome 分頁",
+    "title_en": "ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+   },
+   {
+    "title_zh": "Google 通用購物車購物工具在美國上線",
+    "title_en": "Google's Universal Cart shopping tool launches in the US",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+   },
+   {
+    "title_zh": "定向廣告投放零點擊漏洞，植入傭兵間諜軟體",
+    "title_en": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+   }
+  ],
+  "script": "Today is October 16, 2026, and this is AI Tech News. Meta has launched Muse Spark Open, which it calls the most capable US open-weight model to date. Built in partnership with Apple, it can run locally on two M5 Ultra Mac Studios using Apple's latest MLX framework. In AI safety, Anthropic is giving researchers at METR employee-level access. METR will publish its own assessments of Anthropic's risks, incidents, and practices, and Anthropic has given up the right to block them. OpenAI's ChatGPT Atlas browser is gone, but ChatGPT's Chrome extension is getting upgrades. When you tag Chrome in ChatGPT's web or desktop app, it can now view the browser tabs you already have open. Google's Universal Cart shopping tool has launched in the US, available across Google Search and the Gemini app. Finally, in security news, targeted ads were used to deliver zero-click exploits that installed mercenary spyware. It is likely the first confirmed case of mercenary spyware delivered through targeted ads. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-16",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 106,
+  "length": 882163,
+  "headlines": [
+   {
+    "title_zh": "美國奧勒岡州小學槍擊案，三名學童與一名教師喪生",
+    "title_en": "Three children and teacher killed in US primary school shooting",
+    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "巴基斯坦學校屋頂倒塌，至少33名學生與一名教師罹難",
+    "title_en": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基宣布恢復攻擊能源設施，俄國指控烏克蘭襲擊煉油廠",
+    "title_en": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "胡塞飛彈襲擊葉門總統府，五人死亡",
+    "title_en": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "馬杜洛在紐約就新增酷刑相關罪名表示不認罪",
+    "title_en": "Maduro pleads not guilty to new torture-related charges in New York",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年10月16日，歡迎收聽國際新聞。首先來看美國，奧勒岡州班德市一所小學發生槍擊案，一名16歲嫌犯開槍，造成三名分別為5歲、8歲和11歲的學童，以及一名教師不幸喪生。警方表示，嫌犯被一名尾隨他進入校園的社區民眾開槍擊斃。這起事件讓當地居民十分震驚，直呼難以置信。接著是巴基斯坦，西北部白沙瓦一所學校屋頂倒塌，壓垮三間教室，許多孩童被埋在瓦礫之下。根據醫院官員說法，至少33名學生和一名教師罹難，另有十多人受傷。有學生表示，倒塌前一刻曾聽到碎裂聲響，救難人員已在現場全力搶救。在俄烏戰爭方面，烏克蘭總統澤倫斯基表示，由於俄羅斯發動新一波攻擊，暫停攻擊能源設施的措施已經結束。隨後俄羅斯指控烏克蘭襲擊一座煉油廠，雙方能源戰再度升溫。中東方面，葉門新聞部長表示，胡塞武裝發射彈道飛彈擊中位於馬阿希克的總統府，造成五人死亡，所幸總理和其他部長都沒有受傷。最後在紐約，委內瑞拉前領導人馬杜洛出庭，針對新增的酷刑相關罪名表示不認罪。他在法庭上說，他完全拒絕這份文件。以上就是今天的國際新聞，感謝您的收聽，我們下次再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-16",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 65,
+  "length": 545114,
+  "headlines": [
+   {
+    "title_zh": "美國奧勒岡州小學槍擊案，三名學童與一名教師喪生",
+    "title_en": "Three children and teacher killed in US primary school shooting",
+    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "巴基斯坦學校屋頂倒塌，至少33名學生與一名教師罹難",
+    "title_en": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基宣布恢復攻擊能源設施，俄國指控烏克蘭襲擊煉油廠",
+    "title_en": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "胡塞飛彈襲擊葉門總統府，五人死亡",
+    "title_en": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "馬杜洛在紐約就新增酷刑相關罪名表示不認罪",
+    "title_en": "Maduro pleads not guilty to new torture-related charges in New York",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's October 16, 2026, and this is International News. In the United States, three children aged 5, 8 and 11 and a teacher were killed when a 16-year-old suspect opened fire at a primary school in Bend, Oregon. Police say the suspect was shot dead by a community member who followed him into the school. In Pakistan, at least 33 pupils and a teacher were killed when a school roof collapsed through three classrooms in Peshawar, burying children under the debris. Pupils reported hearing a cracking sound moments before. In the war in Ukraine, President Zelensky says a pause on striking energy sites is over following fresh Russian attacks, and Russia has accused Ukraine of attacking an oil refinery. In Yemen, the information minister says a Houthi ballistic missile attack on al-Maashiq presidential palace killed five people, while the prime minister and other ministers were unhurt. And in New York, former Venezuelan leader Nicolas Maduro pleaded not guilty to newly added torture-related charges, telling the court, I reject this document entirely. That's International News for today. Thank you for listening."
+ }
+]

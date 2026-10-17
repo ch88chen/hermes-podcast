@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-14",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 112,
+  "length": 928509,
+  "headlines": [
+   {
+    "title_zh": "Google 終於推出 Gemini 4 Argon 模型",
+    "title_en": "Google finally releases Gemini 4 Argon",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+   },
+   {
+    "title_zh": "OpenAI 員工涉嫌在會議室裝設竊聽器遭逮捕",
+    "title_en": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+   },
+   {
+    "title_zh": "法官命令 OpenAI 在蘋果商業機密案中交出招聘紀錄",
+    "title_en": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+   },
+   {
+    "title_zh": "Shopify 向更多 AI 代理開放商品目錄",
+    "title_en": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+   },
+   {
+    "title_zh": "Google Play 開放任何人打造私人 vibe coding 安卓應用程式",
+    "title_en": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+   }
+  ],
+  "script": "今天是二零二六年十月十四日，歡迎收聽 AI 科技新聞。首先，Google 終於推出眾所期待的 Gemini 4 Argon 模型。在前沿 AI 競賽中沉寂了幾個月之後，Google 表示 Argon 具備前沿等級的推理能力，在複雜工作流程上表現更好，同時減少模稜兩可、重複和陳腔濫調的回答，宣稱足以和業界最強的模型一較高下。接著是一則令人震驚的消息。OpenAI 一名工程師遭到逮捕，因為公司表示在辦公室裡發現一個隱藏的精密錄音裝置。這名三十五歲的沙烏地阿拉伯籍員工，被控使用或企圖使用裝置攔截口頭通訊。OpenAI 在法律上的麻煩還不只這一樁。在蘋果控告的商業機密案中，聯邦法官裁定，蘋果可以取得 OpenAI 與前蘋果員工相關的面試資料，以及案件關鍵人物的私人訊息和證詞。再來看 AI 代理購物。Shopify 宣布將讓消費者設定自己的 AI 代理代為購物，讓更多代理能存取超過十億筆商品資料，擴大代理式電商的布局。同一時間，美國運通也推出新框架，確保 AI 代理只會進行使用者授權的購買，避免昂貴的錯誤和爭議。最後，Google 宣布在美國推出新功能，使用者用 AI Studio 透過 vibe coding 打造的個人應用程式，現在可以直接經由 Play 商店安裝，不必再把手機接上電腦，而且這些應用程式不需要公開給所有人。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-14",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 75,
+  "length": 628833,
+  "headlines": [
+   {
+    "title_zh": "Google 終於推出 Gemini 4 Argon 模型",
+    "title_en": "Google finally releases Gemini 4 Argon",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+   },
+   {
+    "title_zh": "OpenAI 員工涉嫌在會議室裝設竊聽器遭逮捕",
+    "title_en": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+   },
+   {
+    "title_zh": "法官命令 OpenAI 在蘋果商業機密案中交出招聘紀錄",
+    "title_en": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+   },
+   {
+    "title_zh": "Shopify 向更多 AI 代理開放商品目錄",
+    "title_en": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+   },
+   {
+    "title_zh": "Google Play 開放任何人打造私人 vibe coding 安卓應用程式",
+    "title_en": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+   }
+  ],
+  "script": "Today is October 14, 2026, and this is AI Tech News. Google has finally launched its long-awaited Gemini 4 Argon model after months on the sidelines of the frontier AI race. Google says Argon delivers frontier reasoning and better performance on complex workflows, with less hedging and repetition. In a startling case, an OpenAI engineer was arrested after the company said it found a sophisticated recording device hidden in one of its offices. The 35-year-old employee is charged with using or attempting to use a device to intercept oral communications. OpenAI also faces legal pressure elsewhere, as a federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, along with private messages and testimony, in a trade secrets case. In agentic commerce, Shopify will let shoppers configure their AI agents to buy products on their behalf, giving more agents access to over a billion listings. Meanwhile, American Express introduced a framework to ensure AI agents only make authorized purchases. Finally, Google Play now lets users in the US launch personal vibe-coded apps built with AI Studio directly through the Play Store, without connecting a phone to a computer. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-14",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 103,
+  "length": 855220,
+  "headlines": [
+   {
+    "title_zh": "教宗確診肺癌，梵蒂岡稱手術成功",
+    "title_en": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯彈道飛彈連續兩天無預警襲擊基輔，重要電廠受創",
+    "title_en": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "德國審理被控炸毀北溪管線的烏克蘭男子",
+    "title_en": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙國聯軍空襲葉門燃料庫後，利雅德附近攔截飛彈",
+    "title_en": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙烏地男子被控在OpenAI辦公室安裝精密竊聽裝置",
+    "title_en": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十月十四日，歡迎收聽國際新聞。首先關注梵蒂岡消息，梵蒂岡表示，教宗良確診罹患肺癌，不過已經順利完成手術，切除右肺下葉，手術相當成功。接著來看烏克蘭戰事，俄羅斯彈道飛彈連續第二天襲擊首都基輔，並擊中一座重要電廠。烏克蘭總統澤倫斯基指出，這波攻擊事前完全沒有收到盟友的預警。同樣和烏克蘭有關，德國法院開始審理一名烏克蘭前軍官，這名被稱為瑟希K的男子，被控參與四年前炸毀俄羅斯通往德國的北溪天然氣管線的計畫。審判預計將持續到明年二月，也可能考驗德國對烏克蘭的政治立場。中東方面，沙烏地阿拉伯表示，攔截了葉門青年運動，也就是胡塞武裝發射的飛彈，目標包括首都利雅德和達蘭，掉落的碎片造成民眾受傷。這起事件發生在沙國主導的聯軍空襲胡塞控制的葉門首都沙那附近一座燃料庫之後，雙方戰況持續升溫。最後是美國的一起科技安全案件，一名沙烏地男子被控在人工智慧公司OpenAI的辦公室內安裝精密的竊聽裝置。檢方表示，這個裝置用衛生紙包裹，被插在一間高層會議室電視背後的USB插槽裡。以上就是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-14",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 69,
+  "length": 571764,
+  "headlines": [
+   {
+    "title_zh": "教宗確診肺癌，梵蒂岡稱手術成功",
+    "title_en": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯彈道飛彈連續兩天無預警襲擊基輔，重要電廠受創",
+    "title_en": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "德國審理被控炸毀北溪管線的烏克蘭男子",
+    "title_en": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙國聯軍空襲葉門燃料庫後，利雅德附近攔截飛彈",
+    "title_en": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙烏地男子被控在OpenAI辦公室安裝精密竊聽裝置",
+    "title_en": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It is October 14, 2026, and this is International News. The Vatican says Pope Leo has been diagnosed with lung cancer, but had successful surgery to remove the lower lobe of his right lung. In Ukraine, Russian ballistic missiles struck Kyiv for a second straight day, hitting a key power plant. President Zelensky said the strikes came with no early warning from partners. In Germany, a Ukrainian former officer identified as Serhii K has gone on trial, accused of plotting to blow up the Nord Stream gas pipelines four years ago. The trial is expected to run into February and could test Germany's political stance on Ukraine. In the Middle East, Saudi Arabia says it intercepted Houthi missiles targeting Riyadh and Dhahran, with falling debris injuring people. This came after the Saudi-led coalition struck a fuel depot near the Houthi-controlled Yemeni capital, Sanaa. And in the United States, a Saudi man has been charged with planting a sophisticated recording device in an OpenAI office. Prosecutors say the device, wrapped in toilet paper, was found in a USB port on the back of a TV in an executive conference room. That's International News for today."
+ }
+]
