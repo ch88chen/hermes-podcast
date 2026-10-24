@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-21",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 106,
+  "length": 879443,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 提出 AI 安全法案：若模型可能致 50 人以上死亡可被阻擋",
+    "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+   },
+   {
+    "title_zh": "Anthropic 與雲端夥伴關係趨於緊張",
+    "title_en": "Anthropic's cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+   },
+   {
+    "title_zh": "美國下令聯邦機關移除中國 DeepSeek AI",
+    "title_en": "US orders federal agencies to remove China's DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+   },
+   {
+    "title_zh": "Google 跟進 Amazon，挑戰 Nvidia 在 AI 開發者的地位",
+    "title_en": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+   },
+   {
+    "title_zh": "Meta Muse 分享功能外洩用戶對話，暫停分享",
+    "title_en": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+   }
+  ],
+  "script": "今天是二零二六年十月二十一日，歡迎收聽AI 科技新聞。首先，Anthropic 提出一項 AI 安全法案，內容提到如果某個模型可能造成五十人以上死亡，就可以被阻擋。不過外界指出，這項提案表面上是防範 AI 失控，實際上卻規定聯邦機關在沒有法官許可的情況下，不能阻止模型發布。另外，Anthropic 的雲端合作關係也出現狀況。據報導，越來越多雲端業者把 Anthropic 視為競爭對手，讓它難以取得足夠的算力，而它的基礎設施支出卻持續暴增，同時還計劃在十一月上市。接著看政策面，美國政府已下令聯邦民間機關，移除中國 DeepSeek 的產品，以及使用其技術打造的第三方服務，理由是國家安全考量。在晶片戰場上，Google 跟進 Amazon，推出一款開發者工具，讓 PyTorch 使用者可以輕鬆把應用程式從 Nvidia 的 GPU 上轉移出去，直接挑戰 Nvidia 在 AI 開發者之間的優勢地位。最後是隱私議題。Meta 的 AI 助理 Muse 才剛在四十天內衝破美國一千萬次下載，資安公司 Claroc 的研究人員卻發現，透過公開的 DNS 紀錄，可以找到超過六千八百個 Muse 對話分享連結，暴露了用戶的個人與商業機密。Meta 表示已暫停分享功能，並展開調查。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-21",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 70,
+  "length": 580212,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 提出 AI 安全法案：若模型可能致 50 人以上死亡可被阻擋",
+    "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+   },
+   {
+    "title_zh": "Anthropic 與雲端夥伴關係趨於緊張",
+    "title_en": "Anthropic's cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+   },
+   {
+    "title_zh": "美國下令聯邦機關移除中國 DeepSeek AI",
+    "title_en": "US orders federal agencies to remove China's DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+   },
+   {
+    "title_zh": "Google 跟進 Amazon，挑戰 Nvidia 在 AI 開發者的地位",
+    "title_en": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+   },
+   {
+    "title_zh": "Meta Muse 分享功能外洩用戶對話，暫停分享",
+    "title_en": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+   }
+  ],
+  "script": "Today is October 21, 2026, and this is AI Tech News. Anthropic has pitched an AI safety bill that could block a model if more than fifty people might be killed. Critics note it actually forbids federal agencies from blocking a model's release without a judge's permission. Anthropic is also reportedly struggling to secure enough compute from cloud providers that increasingly see it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO. In Washington, the US has ordered federal civilian agencies to remove DeepSeek products and third-party services built on its technology, citing national security concerns. Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs, challenging Nvidia's hold on AI developers. Finally, Meta has paused the sharing feature in its Muse assistant after security researchers at Claroc found more than six thousand eight hundred shared conversation links through public DNS records, exposing personal and business secrets. This comes as Muse hit ten million US downloads in just forty days. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-21",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 119,
+  "length": 990501,
+  "headlines": [
+   {
+    "title_zh": "美國特使將赴俄會見普丁，澤倫斯基稱情報分享「已恢復運作」",
+    "title_en": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "蘇丹軍方無人機襲擊送葬民眾與燃料市場，逾300人罹難",
+    "title_en": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+    "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "馬斯克證實SpaceX與特斯拉正研議合併",
+    "title_en": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+    "link": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss"
+   },
+   {
+    "title_zh": "亞伯達省壓倒性決定留在加拿大，卡尼獲支持對抗川普",
+    "title_en": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+    "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "義大利因應抗議通過全面安全措施，派500名士兵進駐米蘭",
+    "title_en": "Italy approves sweeping security measures in response to protests",
+    "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss"
+   }
+  ],
+  "script": "今天是二零二六年十月二十一日，歡迎收聽國際新聞。首先關注俄烏局勢。美國特使將前往俄羅斯與普丁會面，烏克蘭總統澤倫斯基則表示，與美國的情報分享現在已經恢復運作。烏克蘭先前指控美國扣留關鍵情報，但華府駁斥這項說法，稱其「令人憤慨」。分析指出，雖然澤倫斯基日前在奧斯陸與美國特使威特科夫擁抱，但外界對美國對烏政策的疑慮恐怕難以消除。接著來看蘇丹。消息人士指出，蘇丹軍方的無人機襲擊了一輛載運民眾參加葬禮的卡車，以及一處據稱向快速支援部隊供應燃料的市場，造成超過三百人死亡，衝突中平民傷亡持續慘重。科技方面，馬斯克證實，SpaceX與特斯拉正在研議合併，兩家公司都已成立特別委員會評估。若合併成真，將誕生一家市值約三點五兆美元的超大型企業，成為史上規模最大的合併案。馬斯克認為，兩家公司在人工智慧領域的工作互補，合併「很有價值」。北美方面，加拿大亞伯達省以壓倒性票數決定留在加拿大，讓總理卡尼獲得政治資本，專注重塑國家經濟並對抗川普。另一方面，川普也因對加拿大加徵關稅遭到起訴，訴訟指白宮越權，並對美國企業造成立即傷害。最後來看歐洲。義大利政府在衝突與抗議事件後，通過一系列全面性的安全措施，包括派遣五百名士兵進駐米蘭。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-21",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 69,
+  "length": 573087,
+  "headlines": [
+   {
+    "title_zh": "美國特使將赴俄會見普丁，澤倫斯基稱情報分享「已恢復運作」",
+    "title_en": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "蘇丹軍方無人機襲擊送葬民眾與燃料市場，逾300人罹難",
+    "title_en": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+    "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "馬斯克證實SpaceX與特斯拉正研議合併",
+    "title_en": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+    "link": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss"
+   },
+   {
+    "title_zh": "亞伯達省壓倒性決定留在加拿大，卡尼獲支持對抗川普",
+    "title_en": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+    "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "義大利因應抗議通過全面安全措施，派500名士兵進駐米蘭",
+    "title_en": "Italy approves sweeping security measures in response to protests",
+    "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss"
+   }
+  ],
+  "script": "Today is October 21, 2026. This is International News. A US envoy is set to meet Vladimir Putin in Russia, as Ukrainian President Volodymyr Zelensky says intelligence sharing with Washington works now. Ukraine had accused the US of withholding key intelligence, a claim Washington rejected as scandalous. In Sudan, sources say army drones struck a truck carrying mourners to a funeral and a market allegedly supplying fuel to the RSF, killing more than 300 people. Elon Musk says SpaceX and Tesla are exploring a merger that could be the largest in history, forming a company worth about 3.5 trillion dollars. Special committees at both firms have been set up to study the idea, and Musk says it has a lot of merit given their complementary work on AI. In Canada, Alberta's overwhelming vote to stay in the country gives Prime Minister Mark Carney political capital to remake the economy and take on President Trump, who also faces a new lawsuit over his Canadian tariffs. And in Italy, the government has approved sweeping security measures, including sending 500 troops to Milan after clashes and protests. That's International News for today."
+ }
+]

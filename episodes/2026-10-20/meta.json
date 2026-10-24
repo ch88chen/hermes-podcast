@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-20",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 117,
+  "length": 975604,
+  "headlines": [
+   {
+    "title_zh": "Anthropic傳與Nscale洽談另一筆450億美元算力合約",
+    "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+   },
+   {
+    "title_zh": "亞馬遜推出TorchNeuron開發工具，向輝達發動最大挑戰",
+    "title_en": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+   },
+   {
+    "title_zh": "駭客以AI代理大軍入侵John Deere與SharkNinja",
+    "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+   },
+   {
+    "title_zh": "CoreWeave債務問題正成為整個AI產業的隱憂",
+    "title_en": "CoreWeave's debt is becoming the whole AI industry's problem",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+   },
+   {
+    "title_zh": "微軟：AI代理如同內部威脅，前沿模型不可信任",
+    "title_en": "Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+   }
+  ],
+  "script": "今天是2026年10月20日，歡迎收聽AI科技新聞。首先，據報導，Anthropic正與Nscale洽談另一筆價值450億美元的算力合約。如果談成，這將是Anthropic過去一年來一連串巨額算力交易中的最新一筆，也顯示AI公司對運算資源的需求仍然非常龐大。接著是晶片戰場，亞馬遜推出名為TorchNeuron的新開發工具，向輝達發動至今最大的挑戰。亞馬遜希望打破輝達在PyTorch上的主導地位，PyTorch是打造大多數AI應用的免費工具組，亞馬遜想讓更多開發者把應用程式放到包括自家晶片在內的替代晶片上執行。資安方面，AI資安公司Norforge發現，一名駭客利用一支大多能自主運作的AI代理大軍，入侵了超過一百個網站。路透社報導，受害者包括John Deere、SharkNinja和Cummins等企業，讓外界對AI驅動的網路攻擊更加擔憂。財務面也有警訊，CoreWeave上週表現不佳，其債券跌入一般定義的困境區間，也就是投資人要求的殖利率比政府公債高出一千個基點以上。知名投資人Chamath Palihapitiya也注意到這個情況，並質疑AI基礎建設熱潮是否是一場私募信貸泡沫。最後，微軟表示，AI代理就像企業的內部威脅，因為前沿模型無法被完全信任。微軟呼籲企業密切監控員工所使用的AI代理，特別是那些不受OpenAI或Anthropic等AI實驗室控制的系統。以上就是今天的AI科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-20",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 71,
+  "length": 593412,
+  "headlines": [
+   {
+    "title_zh": "Anthropic傳與Nscale洽談另一筆450億美元算力合約",
+    "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+   },
+   {
+    "title_zh": "亞馬遜推出TorchNeuron開發工具，向輝達發動最大挑戰",
+    "title_en": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+   },
+   {
+    "title_zh": "駭客以AI代理大軍入侵John Deere與SharkNinja",
+    "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+   },
+   {
+    "title_zh": "CoreWeave債務問題正成為整個AI產業的隱憂",
+    "title_en": "CoreWeave's debt is becoming the whole AI industry's problem",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+   },
+   {
+    "title_zh": "微軟：AI代理如同內部威脅，前沿模型不可信任",
+    "title_en": "Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+   }
+  ],
+  "script": "It's October 20, 2026, and this is AI Tech News. Anthropic is reportedly in talks with Nscale for another compute deal worth 45 billion dollars. If it goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. Amazon is taking its biggest shot at Nvidia yet with a new developer tool called TorchNeuron. The goal is to break Nvidia's hold on PyTorch, the free toolkit behind most AI apps, so more developers can run on alternative chips like Amazon's own. In security news, AI firm Norforge says a hacker used an army of mostly autonomous AI agents to break into more than 100 websites. Reuters reports victims included John Deere, SharkNinja, and Cummins. Meanwhile, CoreWeave's bonds slipped into distressed territory last week, with investors demanding over 1,000 basis points more yield than government bonds, raising questions about whether the AI buildout is a private credit bubble. And Microsoft is warning that AI agents should be treated like insider threats, saying frontier models can't be trusted, and urging enterprises to closely watch the agents employees use. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-20",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 102,
+  "length": 845100,
+  "headlines": [
+   {
+    "title_zh": "法國多地暴動後，巴黎市中心等城市部分地區實施宵禁",
+    "title_en": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+    "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基顧問：美國限制情報分享導致烏克蘭人喪命",
+    "title_en": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "葉門青年運動飛彈襲擊訓練營，50名安全部隊新兵喪生",
+    "title_en": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+    "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "肯亞邪教領袖叫父母餓死孩子，191項謀殺罪成立",
+    "title_en": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+    "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "史上最強聖嬰現象持續增強，全球天氣受五大影響",
+    "title_en": "Five ways El Niño is affecting the weather around the world",
+    "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十月二十日，歡迎收聽國際新聞。首先來看法國。法國各地經歷一個週末的暴動之後，巴黎市中心部分地區以及其他城市已經實施宵禁。法國內政部長坦承，在部分城市，警方一度失去控制。接下來是烏克蘭戰事。烏克蘭總統澤倫斯基的顧問貝斯克列斯諾夫接受英國廣播公司訪問時表示，由於美國限制情報分享，烏克蘭沒有足夠時間預警民眾即將來襲的飛彈攻擊，導致有人因此喪命。不過美國白宮表示，情報分享並沒有任何改變。中東方面，葉門地方當局表示，青年運動，也就是胡塞武裝，發動飛彈攻擊，造成五十名安全部隊新兵死亡。三枚飛彈擊中位於政府控制的舍卜沃省一處營地，官員說這裡是新兵的訓練中心。非洲方面，肯亞一名自稱牧師的邪教領袖保羅麥肯齊，曾經叫信徒父母讓孩子挨餓，如今被判一百九十一項謀殺罪成立，受害者當中除了一人以外，全都是孩童。最後關注氣候。有紀錄以來最強的聖嬰現象仍在持續增強，全球各地的天氣型態已經開始感受到它的影響，專家也正在檢視相關證據，未來的發展值得持續注意。以上是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-20",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 67,
+  "length": 553829,
+  "headlines": [
+   {
+    "title_zh": "法國多地暴動後，巴黎市中心等城市部分地區實施宵禁",
+    "title_en": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+    "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基顧問：美國限制情報分享導致烏克蘭人喪命",
+    "title_en": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "葉門青年運動飛彈襲擊訓練營，50名安全部隊新兵喪生",
+    "title_en": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+    "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "肯亞邪教領袖叫父母餓死孩子，191項謀殺罪成立",
+    "title_en": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+    "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "史上最強聖嬰現象持續增強，全球天氣受五大影響",
+    "title_en": "Five ways El Niño is affecting the weather around the world",
+    "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is October 20, 2026, and this is International News. France has imposed curfews in parts of central Paris and other cities after a weekend of rioting. The interior minister admitted police lost control in some cities. In Ukraine, Serhii Beskrestnov, an adviser to President Zelensky, told the BBC that Ukrainians are dying because the United States is restricting intelligence sharing, leaving too little time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing. In Yemen, local authorities say a Houthi missile strike killed 50 security recruits. Three missiles hit a camp in government-controlled Shabwa province that officials say was used as a training centre for new recruits. In Kenya, self-proclaimed pastor Paul Mackenzie, who told parents to starve their children, has been found guilty of 191 murder charges. All but one of the victims were children. And the strongest El Niño on record continues to intensify, with its impacts on weather patterns already being felt across the globe. That's International News for today. Thank you for listening."
+ }
+]

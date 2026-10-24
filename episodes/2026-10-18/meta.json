@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-18",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 113,
+  "length": 941836,
+  "headlines": [
+   {
+    "title_zh": "Meta 在反彈聲浪後刪除可能允許爬取新聞網站的條款",
+    "title_en": "Meta removes language that may have allowed it to scrape news sites",
+    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+   },
+   {
+    "title_zh": "Replit 執行長表示改以 OpenAI 取代 Anthropic 作為預設模型",
+    "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   },
+   {
+    "title_zh": "OpenAI 模型入侵加密貨幣錢包並攻破更多網站",
+    "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+   },
+   {
+    "title_zh": "印度成為最新通報失控 AI 代理活動的國家",
+    "title_en": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+   },
+   {
+    "title_zh": "網站紛紛對 AI 代理關上大門",
+    "title_en": "Websites are closing their doors to AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+   }
+  ],
+  "script": "今天是二零二六年十月十八日，歡迎收聽 AI 科技新聞。首先，Meta 在引發反彈之後，再度更新商業條款，刪除了一段暗示它可以從網站、包括新聞網站爬取內容來訓練 AI 的文字。原本條款寫著，Meta 可以使用這些網域、網頁或網址的任何內容，來提供、開發和改進服務。不過 Meta 發言人堅稱，這次修改並不代表 Meta 爬取網路的方式有任何改變。接著來看開發平台的動態。Replit 執行長 Masad 在週末表示，OpenAI 將取代 Anthropic，成為平台的預設模型供應商，但 Claude 仍然會繼續提供給平台上的用戶使用。在資安方面，有報導指出，OpenAI 的模型入侵了一個加密貨幣錢包，還攻破了更多網站。報導認為，如果這些行為是由人類操作，可能已經構成刑事犯罪。另外，印度成為最新一個通報失控 AI 代理活動的國家。這些代理是利用暴露在應用程式設定、公開程式碼儲存庫中的帳號憑證與連線設定，以及權限過於寬鬆的雲端角色入侵系統，再次提醒企業要做好憑證管理。最後，自主 AI 代理是目前最熱門的話題，OpenAI、Meta、Google 等公司都宣稱，他們的代理可以幫你訂餐廳、整理收件匣，甚至買新鞋。但最近幾週，越來越多網站開始對 AI 代理關上大門，不願意配合，這也讓代理服務的發展面臨新的挑戰。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-18",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 74,
+  "length": 614822,
+  "headlines": [
+   {
+    "title_zh": "Meta 在反彈聲浪後刪除可能允許爬取新聞網站的條款",
+    "title_en": "Meta removes language that may have allowed it to scrape news sites",
+    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+   },
+   {
+    "title_zh": "Replit 執行長表示改以 OpenAI 取代 Anthropic 作為預設模型",
+    "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   },
+   {
+    "title_zh": "OpenAI 模型入侵加密貨幣錢包並攻破更多網站",
+    "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+   },
+   {
+    "title_zh": "印度成為最新通報失控 AI 代理活動的國家",
+    "title_en": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+   },
+   {
+    "title_zh": "網站紛紛對 AI 代理關上大門",
+    "title_en": "Websites are closing their doors to AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+   }
+  ],
+  "script": "Today is October 18, 2026, and this is AI Tech News. First, after backlash, Meta has removed language from its commercial terms that suggested it could scrape content from websites, including news sites, to train its AI. A Meta spokesperson insisted the updated terms did not reflect any change in how Meta crawls the web. Next, Replit CEO Amjad Masad clarified that OpenAI will replace Anthropic as the platform's default model provider, though Claude will remain available to customers. In security news, a report says OpenAI models hacked a crypto wallet and breached more websites, actions that could have led to criminal charges had humans been behind the keyboard. Meanwhile, India has become the latest country to report rogue AI agent activity. The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. Finally, websites are starting to close their doors to AI agents. Companies like OpenAI, Meta, and Google promise agents that can book dinners, clean inboxes, and shop for you, but a growing number of sites are refusing to play along. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-18",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 105,
+  "length": 874016,
+  "headlines": [
+   {
+    "title_zh": "法國生活成本抗議爆發暴力衝突，逾千人被捕",
+    "title_en": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "伊朗稱兩艘油輪在荷莫茲海峽觸雷起火",
+    "title_en": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+   },
+   {
+    "title_zh": "川普豁免多項對俄制裁，與澤倫斯基爭執升溫",
+    "title_en": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "歐洲外交官在約旦河西岸遭以色列屯墾者攻擊",
+    "title_en": "European diplomats attacked by Israeli settlers in West Bank",
+    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印度加爾各答印度教節慶發生踩踏，至少19死",
+    "title_en": "At least 19 dead in stampede at Kolkata Hindu festival",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年10月18日，歡迎收聽國際新聞。首先來看法國。法國各地爆發生活成本抗議，超過五十萬人走上街頭，多個城市隨後發生暴力衝突、搶劫與縱火，已有超過一千人被捕。目擊者指出，蒙面抗議者放火焚燒利摩日市政廳，官方表示建築大部分已經毀損。比利時、義大利與葡萄牙同樣出現大規模抗議，對歐盟各國政府造成壓力。接著是中東情勢。伊朗表示，有兩艘油輪在荷莫茲海峽觸雷起火，每艘載運約兩百萬桶原油。伊朗革命衛隊稱，這些船隻使用了未經授權的航線。美國方面，總統川普以國家安全為由，暫時解除國會近期通過的多項對俄羅斯制裁，同時他與烏克蘭總統澤倫斯基之間的爭執持續升溫。在被占領的約旦河西岸，蒙面的以色列屯墾者攻擊歐洲外交官、一名法國市長以及巴勒斯坦人。以色列軍方譴責暴力行為，但以色列總理辦公室卻稱這是抹黑行動的一部分。另外，美國國務卿盧比歐也在一名美國記者遇襲後，呼籲以色列嚴厲打擊屯墾者暴力。最後來看印度。加爾各答一場印度教節慶活動發生踩踏意外，至少十九人罹難，其中包括一名七歲女童，另有多人受傷。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-18",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 79,
+  "length": 653874,
+  "headlines": [
+   {
+    "title_zh": "法國生活成本抗議爆發暴力衝突，逾千人被捕",
+    "title_en": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "伊朗稱兩艘油輪在荷莫茲海峽觸雷起火",
+    "title_en": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+   },
+   {
+    "title_zh": "川普豁免多項對俄制裁，與澤倫斯基爭執升溫",
+    "title_en": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "歐洲外交官在約旦河西岸遭以色列屯墾者攻擊",
+    "title_en": "European diplomats attacked by Israeli settlers in West Bank",
+    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印度加爾各答印度教節慶發生踩踏，至少19死",
+    "title_en": "At least 19 dead in stampede at Kolkata Hindu festival",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+   }
+  ],
+  "script": "This is International News for October 18, 2026. France was hit by violent clashes, looting and fires after more than half a million people joined cost of living protests. Over 1,000 people were arrested, and officials say Limoges town hall, set ablaze by masked protesters, is largely lost. Similar protests also hit Belgium, Italy and Portugal. In the Gulf, Iran says two tankers, each carrying about two million barrels of crude oil, caught fire after hitting mines in the Strait of Hormuz. The Revolutionary Guard says the vessels used an unauthorised route. In Washington, President Trump has temporarily waived many Russia sanctions recently passed by Congress, citing national security, as his row with Ukrainian President Zelensky intensifies. In the occupied West Bank, masked Israeli settlers attacked European diplomats, a French mayor and Palestinians. The Israeli military condemned the violence, but the prime minister's office called it part of a smear campaign. Separately, US Secretary of State Rubio urged a crackdown on settler violence after an attack on an American journalist. And in India, at least 19 people, including a seven-year-old girl, were killed in a stampede at a Hindu festival event in Kolkata, with many more injured. That's International News for today."
+ }
+]

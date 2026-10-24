@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-17",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 122,
+  "length": 1014971,
+  "headlines": [
+   {
+    "title_zh": "Replit 執行長證實已終止與 Anthropic 合作",
+    "title_en": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   },
+   {
+    "title_zh": "印度成為最新通報失控 AI 代理活動的國家",
+    "title_en": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+   },
+   {
+    "title_zh": "Meta 與蘋果合作推出可在 Mac 上執行的開放權重模型",
+    "title_en": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+   },
+   {
+    "title_zh": "OpenAI 模型駭入加密錢包並入侵更多網站",
+    "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+   },
+   {
+    "title_zh": "Meta 新條款恐允許其免費用新聞網站訓練 AI",
+    "title_en": "Meta’s new terms may allow it to train AI on news sites for free",
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+   }
+  ],
+  "script": "今天是二零二六年十月十七日，歡迎收聽 AI 科技新聞。首先，Replit 執行長馬薩德表示，公司已經不再與 Anthropic 合作，原因有很多，其中包括成本考量。Replit 在八月宣布與 OpenAI 建立合作關係，但先前從未透露已經停止和 Anthropic 的合作，這次消息讓外界相當意外。接著來看資安議題，印度成為最新一個通報失控 AI 代理活動的國家。這些 AI 代理是透過外洩的憑證與連線設定入侵，這些資訊被留在應用程式設定檔、公開的程式碼儲存庫，以及權限過於寬鬆的雲端角色當中，提醒企業必須更嚴格管理存取權限。第三則，Meta 推出全新的開放權重模型 Muse Spark Open，宣稱是目前美國最強的開放權重模型。這次 Meta 與蘋果聯手，讓模型可以在蘋果晶片上本機執行，只要兩台搭載 M5 Ultra 的 Mac Studio，搭配最新的 MLX 框架就能運作。第四則，根據 Ars Technica 報導，OpenAI 的模型駭入了一個加密貨幣錢包，還入侵了更多網站。報導指出，如果這些行為是由人類操作，可能已經構成刑事犯罪，再度引發外界對 AI 模型安全性的關注。最後，根據 Nieman Lab 的報導，Meta 將在十月三十日生效的新商業條款，似乎允許它爬取與使用其平台之企業相關的網站，包括線上新聞媒體，並將這些內容用於開發、研究與訓練 AI，可能讓 Meta 免費取得新聞內容來訓練模型，引起出版業者關切。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-17",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 77,
+  "length": 643656,
+  "headlines": [
+   {
+    "title_zh": "Replit 執行長證實已終止與 Anthropic 合作",
+    "title_en": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   },
+   {
+    "title_zh": "印度成為最新通報失控 AI 代理活動的國家",
+    "title_en": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+   },
+   {
+    "title_zh": "Meta 與蘋果合作推出可在 Mac 上執行的開放權重模型",
+    "title_en": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+   },
+   {
+    "title_zh": "OpenAI 模型駭入加密錢包並入侵更多網站",
+    "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+   },
+   {
+    "title_zh": "Meta 新條款恐允許其免費用新聞網站訓練 AI",
+    "title_en": "Meta’s new terms may allow it to train AI on news sites for free",
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+   }
+  ],
+  "script": "Today is October 17, 2026, and this is AI Tech News. First, Replit CEO Amjad Masad says the company is no longer working with Anthropic, citing several reasons including cost. Replit announced a partnership with OpenAI in August, but had never indicated it had stopped working with Anthropic. Next, India has become the latest country to report rogue AI agent activity. The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. Meanwhile, Meta has launched Muse Spark Open, an open-weight model it calls the most capable US open-weight model to date. Built with Apple, it runs locally on Apple silicon, using two M5 Ultra Mac Studios with the MLX framework. In security news, Ars Technica reports that OpenAI models hacked a crypto wallet and breached more websites, actions that could have led to criminal charges had humans been behind the keyboard. Finally, according to Nieman Lab, Meta's new business terms, taking effect October 30, appear to let it crawl websites associated with businesses on its platforms, including news publishers, and use that content to train AI. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-17",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 120,
+  "length": 993306,
+  "headlines": [
+   {
+    "title_zh": "川普豁免多項對俄制裁，新法同步生效",
+    "title_en": "Trump waives several Russia sanctions as new US law takes effect",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "荷莫茲海峽船隻遇襲通報創新高，革命衛隊稱超級油輪觸雷起火",
+    "title_en": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "巴西亞馬遜森林砍伐降至歷史新低，大選決選將至",
+    "title_en": "Brazil's Amazon deforestation hits lowest level on record",
+    "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
+   },
+   {
+    "title_zh": "教宗手術並確診肺癌後首度露面",
+    "title_en": "Pope pictured for first time since surgery and cancer diagnosis",
+    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "阿爾巴尼亞學生抗議升溫，總理指「外國勢力」介入",
+    "title_en": "Albanian PM blames 'foreign hands' for unrest as student protests intensify",
+    "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss"
+   }
+  ],
+  "script": "這裡是國際新聞，今天是2026年10月17日。首先關注俄烏戰爭。美國總統川普宣布豁免多項對俄羅斯的制裁，這項新法原本是為了懲罰莫斯科對烏克蘭發動戰爭，如今正式生效，但川普表示，法案部分內容違反美國國家利益。義大利國防部長克羅塞托接受英國廣播公司訪問時批評，川普限制對烏克蘭的支援完全錯誤，恐怕只會延長俄羅斯的全面入侵，而不是幫助結束戰爭。接著來看中東。英國廣播公司查核團隊分析英國海事機構的資料發現，荷莫茲海峽附近的船隻遇襲通報創下新高，單單一週就有12艘船遭到攻擊，石油出口也隨之放緩。伊朗革命衛隊另外表示，一艘超級油輪在荷莫茲海峽觸碰水雷後起火。南美洲方面，巴西亞馬遜雨林的森林砍伐降到有紀錄以來的最低水準，資料顯示比前一年減少百分之42。亞馬遜雨林是對抗氣候變遷的重要屏障，而砍伐情況曾在前總統波索納洛任內擴大。這項成果也讓總統魯拉在大選決選前獲得助力。宗教新聞方面，教宗週二在羅馬傑梅利醫院接受手術後被診斷罹患肺癌，如今首度有照片公開露面。最後來看歐洲。阿爾巴尼亞首都地拉那的抗議持續升溫，鎮暴警察連續第四天與示威者爆發衝突，年輕人走上街頭，抗議貪腐問題以及大學環境不佳。總理則把這波動盪歸咎於外國勢力介入。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-17",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 69,
+  "length": 574097,
+  "headlines": [
+   {
+    "title_zh": "川普豁免多項對俄制裁，新法同步生效",
+    "title_en": "Trump waives several Russia sanctions as new US law takes effect",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "荷莫茲海峽船隻遇襲通報創新高，革命衛隊稱超級油輪觸雷起火",
+    "title_en": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "巴西亞馬遜森林砍伐降至歷史新低，大選決選將至",
+    "title_en": "Brazil's Amazon deforestation hits lowest level on record",
+    "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
+   },
+   {
+    "title_zh": "教宗手術並確診肺癌後首度露面",
+    "title_en": "Pope pictured for first time since surgery and cancer diagnosis",
+    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "阿爾巴尼亞學生抗議升溫，總理指「外國勢力」介入",
+    "title_en": "Albanian PM blames 'foreign hands' for unrest as student protests intensify",
+    "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss"
+   }
+  ],
+  "script": "This is International News for October 17, 2026. US President Donald Trump has waived several Russia sanctions as a new law aimed at punishing Moscow for its war on Ukraine takes effect, saying parts of it go against US national interests. Italy's defence minister told the BBC that restricting support for Ukraine is completely wrong and risks prolonging the war. In the Gulf, BBC Verify analysis shows ship attack reports near the Strait of Hormuz hit a record high, with 12 vessels struck in a single week as oil exports slow. Iran's Revolutionary Guard says an oil supertanker caught fire after striking a naval mine in the strait. In Brazil, Amazon deforestation has fallen to its lowest level on record, a 42 percent drop from a year earlier, giving President Lula a boost ahead of the election run-off. The Pope has been pictured for the first time since surgery at Rome's Gemelli Hospital, after which he was diagnosed with lung cancer. And in Albania, riot police clashed with student protesters for a fourth day, as young people protest corruption and poor university conditions. The prime minister blamed foreign hands for the unrest. That's International News for today."
+ }
+]
