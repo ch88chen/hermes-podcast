@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-23",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 114,
+  "length": 949095,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 擬以 1.25 兆美元估值募資 300 億美元，為 IPO 鋪路",
+    "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+   },
+   {
+    "title_zh": "DeepSeek 傳在美國限制令後數天募得 150 億美元",
+    "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+   },
+   {
+    "title_zh": "微軟稱其 AI 在困難病例診斷上勝過醫師",
+    "title_en": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+   },
+   {
+    "title_zh": "中國駭客入侵 ConnectWise，利用 AI 代理監控數千家企業",
+    "title_en": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+   },
+   {
+    "title_zh": "Canva 推出首款自家圖像生成模型 Canva Craft",
+    "title_en": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+   }
+  ],
+  "script": "今天是二零二六年十月二十三日，歡迎收聽 AI 科技新聞。首先是資金面的大消息。據報導，OpenAI 正在洽談一輪新的募資，金額約三百億美元，估值高達一點二五兆美元，目的是為未來上市做準備。如果這輪順利完成，OpenAI 將打破紀錄，成為史上估值最高的私人公司。另一方面，中國的 DeepSeek 據傳募得一百五十億美元，是中國規模最大的融資之一。值得注意的是，這距離美國以國家安全為由，下令聯邦機構移除 DeepSeek 技術，才短短幾天。接著看醫療領域。微軟 AI 執行長蘇萊曼表示，微軟新的 AI 診斷系統，在困難病例上的表現勝過一般科醫師，相關研究刊登在科學期刊上。他說，這是邁向醫療超級智慧的一步。不過分析指出，大部分的進步似乎來自底層的 AI 模型，而不是微軟系統本身。資安方面，微軟指出，一名與中國有關的駭客入侵了 IT 大廠 ConnectWise，並利用 AI 代理快速入侵數千家客戶，進行監控。這起事件也顯示，AI 代理正被用來放大網路攻擊的規模與速度。最後，設計平台 Canva 推出首款自家圖像生成模型，名為 Canva Craft，直接和 OpenAI、微軟與谷歌的模型競爭。它採用兩階段架構，會先規劃設計，再生成圖像，強調更高的精準度、一致性與控制力，而且成本更低，現在已開放給所有使用者。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-23",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 76,
+  "length": 638112,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 擬以 1.25 兆美元估值募資 300 億美元，為 IPO 鋪路",
+    "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+   },
+   {
+    "title_zh": "DeepSeek 傳在美國限制令後數天募得 150 億美元",
+    "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+   },
+   {
+    "title_zh": "微軟稱其 AI 在困難病例診斷上勝過醫師",
+    "title_en": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+   },
+   {
+    "title_zh": "中國駭客入侵 ConnectWise，利用 AI 代理監控數千家企業",
+    "title_en": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+   },
+   {
+    "title_zh": "Canva 推出首款自家圖像生成模型 Canva Craft",
+    "title_en": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+   }
+  ],
+  "script": "Today is October 23, 2026, and this is AI Tech News. OpenAI is reportedly working on a new thirty billion dollar raise at a one point two five trillion dollar valuation ahead of an IPO. If it succeeds, it would be the most highly valued private company ever. In China, DeepSeek has reportedly raised fifteen billion dollars, one of the country's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns. Microsoft says its new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. AI chief Mustafa Suleyman calls it a step toward medical superintelligence, though much of the gain appears to come from the underlying models rather than Microsoft's own system. In security news, Microsoft blames a China-aligned hacker for breaching IT giant ConnectWise. The attacker used AI agents to rapidly break into thousands of its customers. Finally, Canva has released its first image generation model, called Canva Craft. It uses a two-stage design that plans a layout before generating an image, promising more precision and control at lower cost, and it is available to all users. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-23",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 100,
+  "length": 827170,
+  "headlines": [
+   {
+    "title_zh": "BBC調查：蘇丹快速支援部隊蓄意攻擊醫院",
+    "title_en": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+    "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普稱馬斯克已恢復烏克蘭星鏈網路存取",
+    "title_en": "Trump says Musk has restored access to Ukraine's Starlink network",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "西藏強震 傳16人罹難",
+    "title_en": "Powerful earthquake hits Tibet killing 16 people, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "委內瑞拉近兩年來首次全國抗議 民眾要求選舉",
+    "title_en": "Venezuelans demand elections in first national protest in nearly two years",
+    "link": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss"
+   },
+   {
+    "title_zh": "巴黎延長宵禁 馬賽與里昂暴動後禁止抗議",
+    "title_en": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+    "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年10月23日，歡迎收聽國際新聞。首先關注蘇丹。英國廣播公司BBC的調查發現，蘇丹準軍事組織快速支援部隊的戰鬥人員，蓄意攻擊當地醫院。聯合國人權事務高級專員涂爾克表示，這些多起攻擊可能構成戰爭罪。接著是烏克蘭戰事相關消息。美國總統川普表示，馬斯克已經恢復烏克蘭使用星鏈網路的權限。烏克蘭在多種軍事用途上仰賴星鏈，而星鏈的擁有者馬斯克則多次否認曾經限制烏克蘭的使用。再來看中國。根據報導，西藏發生強烈地震，造成16人罹難。這次地震發生在中國所稱的西藏自治區，震央位於山區，人口相當稀少。接下來是南美洲。委內瑞拉民眾走上街頭要求舉行選舉，這是將近兩年來當地首次出現全國性的抗議行動。前總統馬杜洛遭美軍逮捕之後，目前仍未訂出選出繼任者的日期，引發民眾不滿。最後是歐洲的法國。在發生暴動之後，巴黎宣布延長宵禁，馬賽和里昂也禁止抗議活動。未來在部分城鎮，只有由工會主辦的抗議才會獲得允許，另外，多間重要博物館將在星期六閉館。以上是今天的國際新聞，感謝您的收聽，我們明天再會。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-23",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 71,
+  "length": 593010,
+  "headlines": [
+   {
+    "title_zh": "BBC調查：蘇丹快速支援部隊蓄意攻擊醫院",
+    "title_en": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+    "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普稱馬斯克已恢復烏克蘭星鏈網路存取",
+    "title_en": "Trump says Musk has restored access to Ukraine's Starlink network",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "西藏強震 傳16人罹難",
+    "title_en": "Powerful earthquake hits Tibet killing 16 people, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "委內瑞拉近兩年來首次全國抗議 民眾要求選舉",
+    "title_en": "Venezuelans demand elections in first national protest in nearly two years",
+    "link": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss"
+   },
+   {
+    "title_zh": "巴黎延長宵禁 馬賽與里昂暴動後禁止抗議",
+    "title_en": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+    "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is October 23, 2026, and this is International News. A BBC investigation has found that hospitals in Sudan were deliberately targeted by fighters of the Rapid Support Forces. UN human rights chief Volker Türk says the multiple attacks may amount to war crimes. US President Donald Trump says Elon Musk has restored access to Ukraine's Starlink network. Ukraine relies on Starlink for a range of military uses, and Musk has repeatedly denied restricting access. A powerful earthquake has struck Tibet, killing sixteen people according to reports. The quake hit a mountainous, sparsely populated area in what China calls the Tibet Autonomous Region. In Venezuela, people have taken to the streets demanding elections, in the first national protest in nearly two years. No date has been set to choose a successor to Nicolas Maduro, after the former president was captured by US forces. And in France, Paris has extended its curfew, while Marseille and Lyon have banned protests following riots. Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday. That's International News for today. Thank you for listening."
+ }
+]

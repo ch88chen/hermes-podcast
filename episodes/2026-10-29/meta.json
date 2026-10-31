@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-29",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 118,
+  "length": 985553,
+  "headlines": [
+   {
+    "title_zh": "微軟首度公布Azure營收金額：332億美元",
+    "title_en": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+   },
+   {
+    "title_zh": "Google推出Gemini 4 Carbon，資安能力「大幅躍進」",
+    "title_en": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   },
+   {
+    "title_zh": "Google在全球擴大AI搜尋廣告，核心廣告成長放緩",
+    "title_en": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+   },
+   {
+    "title_zh": "Anthropic推出工具，讓企業看清AI支出成效",
+    "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+   },
+   {
+    "title_zh": "UEFI韌體程式碼執行漏洞，波及全球多數伺服器",
+    "title_en": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+   }
+  ],
+  "script": "今天是2026年10月29日，歡迎收聽AI科技新聞。首先來看微軟財報。微軟連續第十個季度創下營收紀錄，單季營收達到923億美元，比去年同期成長百分之十九。更值得注意的是，微軟首度公布Azure的季度營收金額，達到332億美元，讓外界第一次看到它與市場龍頭AWS的差距正在縮小。此外，微軟也表示，上一季從與OpenAI的商業合作中，包括營收分成，認列了100億美元的收入，凸顯雙方在財務上依然高度綁定。接著是Google。Google發表最新前沿模型Gemini 4 Carbon，宣稱在程式撰寫、代理任務以及資安方面都有顯著提升，並在Artificial Analysis智慧指數上拿下第一，領先Claude Opus 5.5和GPT-6 Astra。同時，母公司Alphabet公布第三季財報，營收年增百分之二十五，來到1276億美元，不過核心廣告成長放緩，Google也宣布將AI搜尋廣告擴大到全球。再來看Anthropic。這家前沿AI實驗室推出新工具，讓企業清楚看到自己在AI上的花費到底換來了什麼，也是在規劃上市之前，進一步揭露用戶如何使用它的模型。最後是一則資安警訊。研究人員發現EDK2 UEFI韌體存在嚴重漏洞，攻擊者可以在開機流程的早期階段執行程式碼，影響範圍涵蓋全球大多數伺服器，相關單位要特別留意修補。以上就是今天的AI科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-29",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 78,
+  "length": 651709,
+  "headlines": [
+   {
+    "title_zh": "微軟首度公布Azure營收金額：332億美元",
+    "title_en": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+   },
+   {
+    "title_zh": "Google推出Gemini 4 Carbon，資安能力「大幅躍進」",
+    "title_en": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   },
+   {
+    "title_zh": "Google在全球擴大AI搜尋廣告，核心廣告成長放緩",
+    "title_en": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+   },
+   {
+    "title_zh": "Anthropic推出工具，讓企業看清AI支出成效",
+    "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+   },
+   {
+    "title_zh": "UEFI韌體程式碼執行漏洞，波及全球多數伺服器",
+    "title_en": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+   }
+  ],
+  "script": "Today is October 29, 2026, and this is AI Tech News. Microsoft posted its tenth straight quarter of record revenue, reaching 92.3 billion dollars, up 19 percent. For the first time, it disclosed Azure's quarterly revenue in dollars: 33.2 billion, edging closer to rival AWS. Microsoft also said it earned 10 billion dollars from its commercial arrangements with OpenAI last quarter. Over at Google, the company released its new frontier model, Gemini 4 Carbon, claiming significant gains in coding, agentic tasks, and cybersecurity, and the top spot on the Artificial Analysis Intelligence Index, ahead of Claude Opus 5.5 and GPT-6 Astra. Alongside Alphabet's earnings, where revenue grew 25 percent to 127.6 billion dollars, Google is expanding AI Search ads globally as core ad growth slows. Anthropic launched new tools showing companies what their AI spending is buying, offering more transparency ahead of its planned IPO. Finally, in security, researchers disclosed a critical flaw in EDK2 UEFI firmware that lets attackers execute code early in the boot process, affecting most servers on the planet. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-29",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 122,
+  "length": 1015550,
+  "headlines": [
+   {
+    "title_zh": "西班牙高鐵相撞事故至少68人罹難",
+    "title_en": "High-speed train crash kills at least 68 people in Spain",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列大選部分開票：內唐亞胡陣營領先但未過半",
+    "title_en": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯稱一夜之間逾600架無人機飛向莫斯科",
+    "title_en": "Russia says more than 600 drones launched towards Moscow overnight",
+    "link": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss"
+   },
+   {
+    "title_zh": "人權團體：蘇丹達佛市場遭空襲逾百人死亡",
+    "title_en": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+    "link": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
+   },
+   {
+    "title_zh": "巴西敗選候選人弗拉維歐波索納洛抵達邁阿密，否認出逃",
+    "title_en": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十月二十九日，歡迎收聽國際新聞。首先來看西班牙。托雷多省週三發生高鐵相撞事故，一列行駛中的列車撞上停在前方軌道上的另一列火車，目前至少六十八人罹難。西班牙交通部長表示，事故是由一個「無法解釋」的錯誤所造成。生還乘客描述了當時的震驚、恐慌，也表達強烈的憤怒。接著是以色列大選。在開票進度達到百分之八十五時，總理內唐亞胡所屬的聯合黨及其盟友預計將在一百二十席的國會中拿下五十三席，領先但未能過半。分析指出，各方跡象都顯示政局可能陷入僵局，最有可能的結果或許是重新舉行選舉。再來看俄烏戰事。俄羅斯表示，一夜之間有超過六百架無人機飛向莫斯科，這是近期針對莫斯科地區一連串大規模無人機攻擊中的最新一波。另一方面，官員表示，烏克蘭赫爾松地區的停火已經擴大實施，原本是為了受困的奧列什基居民而規劃，俄烏雙方都表示目前沒有違規情況。非洲方面，人權團體指出，蘇丹達佛地區一處市場遭到空襲，造成超過一百人死亡，罹難者包括婦女與兒童。目擊者表示，攻擊波及平民商販以及快速支援部隊的戰鬥人員。最後來看巴西。敗選的總統候選人弗拉維歐波索納洛在抵達美國邁阿密後，否認自己是逃離巴西。他聲稱自己是政變與政治迫害的受害者，並再度提出未經證實的選舉舞弊指控。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-29",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 74,
+  "length": 619505,
+  "headlines": [
+   {
+    "title_zh": "西班牙高鐵相撞事故至少68人罹難",
+    "title_en": "High-speed train crash kills at least 68 people in Spain",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列大選部分開票：內唐亞胡陣營領先但未過半",
+    "title_en": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯稱一夜之間逾600架無人機飛向莫斯科",
+    "title_en": "Russia says more than 600 drones launched towards Moscow overnight",
+    "link": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss"
+   },
+   {
+    "title_zh": "人權團體：蘇丹達佛市場遭空襲逾百人死亡",
+    "title_en": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+    "link": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
+   },
+   {
+    "title_zh": "巴西敗選候選人弗拉維歐波索納洛抵達邁阿密，否認出逃",
+    "title_en": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is October 29, 2026, and this is International News. In Spain, a high-speed train crash in Toledo province has killed at least 68 people. A moving train struck another that was stopped further up the track, and the transport minister blamed an inexplicable error. Survivors described shock, panic and anger. In Israel, partial results with 85 percent of ballots counted show Benjamin Netanyahu's Likud and its allies set to win 53 seats in the 120-seat Knesset, short of a majority. Analysts say the most likely outcome of the deadlock may be new elections. Russia says more than 600 drones were launched towards Moscow overnight, the latest in a series of major drone assaults on the region. Meanwhile, officials say a ceasefire has been extended across Ukraine's Kherson region, with no breaches reported. In Sudan, a rights group says strikes on a market in Darfur killed more than 100 people, including women and children. And in Brazil's aftermath of the election, defeated candidate Flávio Bolsonaro has denied fleeing the country after landing in Miami. He claims to be the victim of a coup and political persecution, repeating unsubstantiated allegations of electoral fraud. That's International News for today."
+ }
+]

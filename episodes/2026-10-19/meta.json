@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-19",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 118,
+  "length": 979091,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 宣布將 5% 股份投入「公益基金」",
+    "title_en": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+   },
+   {
+    "title_zh": "迪士尼同意聘用 Character.AI 多數員工",
+    "title_en": "Disney agrees to hire the majority of Character.AI's workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+   },
+   {
+    "title_zh": "Replit 執行長：預設模型改用 OpenAI，取代 Anthropic",
+    "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   },
+   {
+    "title_zh": "Meta 刪除引發爬取與 AI 訓練疑慮的條款文字",
+    "title_en": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+   },
+   {
+    "title_zh": "費城女子阻擋外送機器人遭逮捕",
+    "title_en": "A woman was arrested in Philly for blocking a delivery robot",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+   }
+  ],
+  "script": "今天是二零二六年十月十九日，歡迎收聽 AI 科技新聞。首先來看 Anthropic 的消息。Anthropic 宣布，將把公司百分之五的股份投入一個公益基金。另外，Anthropic 也表示，過去一年來，公司員工組成與工作型態出現明顯變化，整體人力變得比較資深，花在開會上的時間也變多了。接下來是迪士尼與 Character.AI 的動態。根據一份文件，迪士尼同意聘用 Character.AI 大部分的員工，而且獲得迪士尼工作邀約的員工中，絕大多數都已經接受。不過，這是一項所謂的假馬競標，也就是說，其他公司仍有可能提出更高的報價，後續發展值得觀察。再來是開發平台 Replit。執行長 Masad 在週末澄清，Replit 將改以 OpenAI 取代 Anthropic，成為平台的預設模型供應商。不過，用戶在平台上仍然可以使用 Claude。在隱私與資料議題方面，Meta 刪除了服務條款中一段曾引發網頁爬取與 AI 訓練疑慮的文字。Meta 發言人強調，這次更新的條款並不代表 Meta 爬取網路的方式有任何改變。最後是一則來自美國費城的新聞。一名叫做 Carolyn Marvin 的女子，因為擋住 Uber 外送機器人的去路、拒絕讓開，遭到逮捕，並被控妨害秩序。她向當地電視台表示，她知道這些機器人正在搶走人類外送員的工作，所以只要看到它們，就會站到前面抗議。這起事件也反映出自動化對就業帶來的焦慮。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-19",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 76,
+  "length": 635886,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 宣布將 5% 股份投入「公益基金」",
+    "title_en": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+   },
+   {
+    "title_zh": "迪士尼同意聘用 Character.AI 多數員工",
+    "title_en": "Disney agrees to hire the majority of Character.AI's workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+   },
+   {
+    "title_zh": "Replit 執行長：預設模型改用 OpenAI，取代 Anthropic",
+    "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   },
+   {
+    "title_zh": "Meta 刪除引發爬取與 AI 訓練疑慮的條款文字",
+    "title_en": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+   },
+   {
+    "title_zh": "費城女子阻擋外送機器人遭逮捕",
+    "title_en": "A woman was arrested in Philly for blocking a delivery robot",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+   }
+  ],
+  "script": "It's October 19, 2026, and this is AI Tech News. First up, Anthropic says it will commit 5 percent of its shares to a public benefit fund. In a separate update, the company also said its workforce has become less junior over the past year and is spending more time in meetings. Next, Disney has agreed to hire the majority of Character.AI's workforce. A filing says the vast majority of employees offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could still come forward with a higher offer. In model provider news, Replit CEO Amjad Masad clarified over the weekend that OpenAI will replace Anthropic as the platform's default model provider. Claude will still be available to Replit customers. Meanwhile, Meta has removed language from its terms that raised concerns about web scraping and AI training. A Meta spokesperson insisted the updated terms did not reflect any change in how Meta crawls the web. Finally, in Philadelphia, a woman named Carolyn Marvin was arrested and charged with disorderly conduct after blocking an Uber delivery robot and refusing to move. She told a local station she protests the robots because they are taking jobs from human delivery workers. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-19",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 121,
+  "length": 1007435,
+  "headlines": [
+   {
+    "title_zh": "法國週末爆發大規模暴動，馬克宏呼籲恢復冷靜與秩序",
+    "title_en": "Macron calls for 'calm and order' after riots across France",
+    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普為暫緩對俄制裁辯護，並抨擊澤倫斯基",
+    "title_en": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
+   },
+   {
+    "title_zh": "烏克蘭出動逾千架無人機襲擊俄國，聖彼得堡油設施起火",
+    "title_en": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+    "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+   },
+   {
+    "title_zh": "加拿大軍事基地大火釀四死、數十人受傷",
+    "title_en": "Major fire at Canada military base leaves four dead, dozens injured",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印度加爾各答印度教節慶活動發生推擠，至少17人死亡",
+    "title_en": "At least 17 dead in crush at Hindu festival event in India",
+    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年10月19日，歡迎收聽國際新聞。首先來看法國。法國上週末多地爆發暴動，原本針對生活成本高漲與公共服務困境的抗議活動，演變成大規模失序，巴黎部分地區仍有趁火打劫的情況。總統馬克宏發表全國談話，呼籲民眾保持冷靜、恢復秩序。在中部城市利摩日，一棟有一百四十年歷史的市政廳在抗議中遭人縱火，當地居民感到震驚又憤怒。法國政府目前也承受相當大的政治壓力。接著是俄烏戰爭相關消息。美國總統川普在一批對俄制裁預定生效的兩天前出手擋下，他表示，暫緩制裁是為了讓和平談判能持續進行。川普同時抨擊烏克蘭總統澤倫斯基，指他不想結束戰爭；澤倫斯基則正與華府特使進行對話。另一方面，烏克蘭對俄羅斯發動超過一千架無人機的空襲，是開戰以來規模最大的攻擊之一。俄羅斯聖彼得堡的石油設施遭擊中起火，至少一人死亡，一座供俄國版臉書使用的資料中心也被波及。這波攻擊發生在基輔與華府關係日益緊張之際。再來看加拿大。加拿大一處軍事基地發生嚴重火災，造成四人死亡、數十人受傷，起因是一場蔓延快速的草地火災。總理卡尼表示，軍方與救難人員徹夜在極為惡劣的條件下奮力滅火。最後是印度。在加爾各答一場慶祝印度教節日的活動中發生推擠意外，至少十七人罹難，另有許多人受傷。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-19",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 72,
+  "length": 604006,
+  "headlines": [
+   {
+    "title_zh": "法國週末爆發大規模暴動，馬克宏呼籲恢復冷靜與秩序",
+    "title_en": "Macron calls for 'calm and order' after riots across France",
+    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普為暫緩對俄制裁辯護，並抨擊澤倫斯基",
+    "title_en": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
+   },
+   {
+    "title_zh": "烏克蘭出動逾千架無人機襲擊俄國，聖彼得堡油設施起火",
+    "title_en": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+    "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+   },
+   {
+    "title_zh": "加拿大軍事基地大火釀四死、數十人受傷",
+    "title_en": "Major fire at Canada military base leaves four dead, dozens injured",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印度加爾各答印度教節慶活動發生推擠，至少17人死亡",
+    "title_en": "At least 17 dead in crush at Hindu festival event in India",
+    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is October 19, 2026, and this is International News. In France, President Emmanuel Macron gave a national address calling for calm and order after a weekend of riots that marred protests over the cost of living and struggling public services. Some looting continued in Paris, and in Limoges, the 140-year-old town hall was set ablaze, leaving residents shocked and angry. In the United States, President Donald Trump defended his decision to block numerous sanctions on Russia two days before they were due to take effect, saying it keeps peace negotiations going. He also accused Ukrainian President Zelenskyy of not wanting to end the war. Meanwhile, Ukraine launched more than 1,000 drones at Russia in one of its largest air strikes of the war. Oil facilities in St Petersburg were set on fire, at least one person was killed, and a data centre was also hit. In Canada, a fast-moving grass fire at a military base left four people dead and dozens injured. Prime Minister Carney said crews fought the flames overnight in some of the worst conditions imaginable. And in India, at least 17 people died in a crush at a Hindu festival event in Kolkata, with many more injured. That's International News for today."
+ }
+]

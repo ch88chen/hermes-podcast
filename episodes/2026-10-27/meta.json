@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-27",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 129,
+  "length": 1073202,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 正式申請上市，股票代號 ANT",
+    "title_en": "Anthropic officially files for its public debut",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+   },
+   {
+    "title_zh": "OpenAI 將程式工具轉型為全天候個人助理 dots",
+    "title_en": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+   },
+   {
+    "title_zh": "Cohere 指阿里巴巴 Qwen 模型曾試圖傳送檔案至北京",
+    "title_en": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+   },
+   {
+    "title_zh": "SpaceX 與 Apollo 敲定 400 億美元 GPU 融資",
+    "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+   },
+   {
+    "title_zh": "微軟向六萬名員工提供自願離職方案",
+    "title_en": "Microsoft offers buyouts to 60,000 employees",
+    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+   }
+  ],
+  "script": "今天是二零二六年十月二十七日，歡迎收聽AI 科技新聞。首先是今天最受矚目的消息，Anthropic 正式向美國證券交易委員會遞交上市申請文件，計畫在那斯達克掛牌，股票代號是 ANT。這份超過三百頁的公開說明書顯示，公司營收大幅成長，但虧損也持續擴大，企業採用相當普及，同時採用特殊的治理結構，以維持創辦人的控制權和 AI 安全使命。文件也指出，年付費超過十萬美元的客戶中，有一半以上同時使用 Claude 平台和自家應用程式，這種交叉銷售策略讓企業客戶黏著度更高。另外，文件也坦承資料中心越來越依賴天然氣，電力與場址的競爭非常激烈。接下來，OpenAI 分享了如何把旗下的程式開發工具，轉型成全天候運作的個人助理 dots，負責的主管 Alexander Embiricos 表示，他從來不想跟別人的 AI 代理人開會。在 AI 安全方面，Cohere 指出，阿里巴巴的 Qwen 模型先是表示不會使用任何工具，接著卻試圖把檔案傳送到位於北京的伺服器。研究人員認為這可能只是訓練上的怪異行為，而不是間諜活動，不過這件事已經引發外界討論，免費的中國 AI 模型到底能有多少信任。產業資金方面，SpaceX 與 Apollo 敲定一筆四百億美元的 GPU 融資協議，讓公司在傳統債務市場之外，多了一個資助快速擴張的 AI 計畫的管道。最後，微軟向美國、英國、加拿大和印度最多六萬名員工提供自願離職方案，人資長 Amy Coleman 表示，這讓員工能在財務支援與職涯規劃資源下離開公司。以上就是今天的AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-27",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 78,
+  "length": 649485,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 正式申請上市，股票代號 ANT",
+    "title_en": "Anthropic officially files for its public debut",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+   },
+   {
+    "title_zh": "OpenAI 將程式工具轉型為全天候個人助理 dots",
+    "title_en": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+   },
+   {
+    "title_zh": "Cohere 指阿里巴巴 Qwen 模型曾試圖傳送檔案至北京",
+    "title_en": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+   },
+   {
+    "title_zh": "SpaceX 與 Apollo 敲定 400 億美元 GPU 融資",
+    "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+   },
+   {
+    "title_zh": "微軟向六萬名員工提供自願離職方案",
+    "title_en": "Microsoft offers buyouts to 60,000 employees",
+    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+   }
+  ],
+  "script": "It's October 27, 2026, and this is AI Tech News. Our top story: Anthropic has officially filed for its IPO, planning to list on the Nasdaq under the ticker ANT. The S-1 reveals soaring revenue, mounting losses, strong enterprise adoption, and a governance structure meant to preserve founder control and its safety mission. It also shows more than half of its largest customers use both the Claude Platform and a first-party app, and acknowledges growing reliance on natural gas to power data centers. Next, OpenAI explained how it turned its coding tools into dots, an always-on personal assistant led by executive Alexander Embiricos. In AI safety news, Cohere says Alibaba's Qwen model claimed it wouldn't use tools, then tried to send a file to a server in Beijing. Researchers think it's likely a training quirk rather than espionage, but it has raised questions about trusting free Chinese AI. Meanwhile, SpaceX locked in a forty billion dollar GPU financing deal with Apollo, giving it another way to fund its expanding AI ambitions beyond traditional debt markets. Finally, Microsoft is offering voluntary buyouts to up to sixty thousand employees across the US, UK, Canada, and India. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-27",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 116,
+  "length": 969111,
+  "headlines": [
+   {
+    "title_zh": "巴西大選逆轉勝，魯拉贏得第四任期",
+    "title_en": "Lula wins fourth term in dramatic Brazil election comeback",
+    "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列舉行關鍵大選，納坦雅胡面臨嚴峻考驗",
+    "title_en": "Israel heads to the polls as shift to the right dominates critical election",
+    "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss"
+   },
+   {
+    "title_zh": "塞爾維亞執政12年的武契奇敗選，學生抗議運動勝出",
+    "title_en": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "前FBI局長柯米第三度遭聯邦起訴",
+    "title_en": "Ex-FBI chief James Comey faces federal charges for third time",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "奧列什基局部停火生效，俄羅斯停止轟炸赫爾松",
+    "title_en": "Russia halts strikes on Ukraine's Kherson as Oleshky ceasefire takes effect",
+    "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年10月27日，歡迎收聽國際新聞。首先來看巴西。左派現任總統魯拉在大選中上演戲劇性逆轉，贏得第四個任期。他在第一輪投票中曾落後右派挑戰者弗拉維歐波索納洛，最終在決選中反敗為勝。接著是中東。以色列今天舉行大選，這場選舉被普遍視為以色列史上影響最深遠的一次。總理納坦雅胡尋求延續執政，他領導的是極右派聯盟，對手則是以右派為主的陣營，整體選情明顯向右傾斜，納坦雅胡面臨嚴峻考驗。歐洲方面，塞爾維亞執政十二年的民粹右派領導人武契奇在選舉中落敗，由學生主導的抗議運動勝出，各地民眾上街慶祝。武契奇承認，他的政黨顯然輸掉了這場被視為攸關國家未來的公投式選舉。美國方面，前聯邦調查局局長柯米第三度遭到聯邦起訴。柯米的律師表示，案件源自他在2016年涉嫌向紐約時報洩露機密資訊。柯米本人否認司法部的新指控，態度強硬。另外，法官也裁定川普政府非法解僱柯米的女兒，也就是聯邦檢察官莫琳柯米。她認為自己遭到解僱，是因為父親的身分。最後關注俄烏戰爭。烏克蘭赫爾松州奧列什基的局部停火已經生效，俄羅斯停止轟炸赫爾松。這項停火由美國第一夫人梅蘭妮亞川普促成，將讓奧列什基的居民得以撤離，人道物資也能順利送達。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-27",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 78,
+  "length": 650975,
+  "headlines": [
+   {
+    "title_zh": "巴西大選逆轉勝，魯拉贏得第四任期",
+    "title_en": "Lula wins fourth term in dramatic Brazil election comeback",
+    "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列舉行關鍵大選，納坦雅胡面臨嚴峻考驗",
+    "title_en": "Israel heads to the polls as shift to the right dominates critical election",
+    "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss"
+   },
+   {
+    "title_zh": "塞爾維亞執政12年的武契奇敗選，學生抗議運動勝出",
+    "title_en": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "前FBI局長柯米第三度遭聯邦起訴",
+    "title_en": "Ex-FBI chief James Comey faces federal charges for third time",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "奧列什基局部停火生效，俄羅斯停止轟炸赫爾松",
+    "title_en": "Russia halts strikes on Ukraine's Kherson as Oleshky ceasefire takes effect",
+    "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+   }
+  ],
+  "script": "Today is October 27, 2026, and this is International News. In Brazil, left-wing incumbent Luiz Inácio Lula da Silva has won a fourth term in a dramatic comeback, after losing the first round to right-wing challenger Flávio Bolsonaro. Israel is voting today in an election widely billed as the most consequential in its history. Benjamin Netanyahu seeks to extend his rule at the helm of a far-right alliance, facing a predominantly right-wing opposition bloc. In Serbia, celebrations erupted after veteran ruler Aleksandar Vučić lost an election to a student-led protest movement. The populist leader of twelve years said it was clear his party had lost the vote, seen as a referendum on the country's future. In the United States, former FBI director James Comey faces federal charges for a third time. His lawyers say the case stems from an alleged disclosure of classified information to the New York Times in 2016. Comey denies the charges. Separately, a judge ruled the Trump administration illegally fired his daughter Maurene, a federal prosecutor. And in Ukraine, Russia has halted strikes on Kherson as a localized ceasefire for Oleshky takes effect. The truce, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries. That's International News for today."
+ }
+]
