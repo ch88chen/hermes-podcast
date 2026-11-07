@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-01",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 117,
+  "length": 976209,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 傳下調新一輪募資目標",
+    "title_en": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+   },
+   {
+    "title_zh": "金融時報：Anthropic 上市後預料將獲信評機構高評級「垃圾級」評等",
+    "title_en": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+   },
+   {
+    "title_zh": "OpenAI、Google、微軟與 Anthropic 支持新的 AI 爬取退出標準",
+    "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+   },
+   {
+    "title_zh": "Apple Intelligence 將隨 iOS 27.3 登陸中國",
+    "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+   },
+   {
+    "title_zh": "Google 衛星 AI 伺服器首度從太空傳回回應",
+    "title_en": "Google's satellite AI server transmits its first response to Earth",
+    "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+   }
+  ],
+  "script": "今天是二零二六年十一月一日，歡迎收聽 AI 科技新聞。首先來看 AI 產業的資金動向。根據報導，OpenAI 已經下調新一輪募資的目標金額，顯示這次募資的狀況似乎不如預期。另一方面，英國金融時報報導，根據黑石集團的預測，Anthropic 在首次公開發行之後，預料會被信評機構給予高評級的垃圾級評等。雖然這只是預測，但如果真的拿到垃圾級評等，Anthropic 未來要募集資金來支撐龐大的支出，就會變得更困難，成本也會更高。接著是內容授權的消息。OpenAI、Google、微軟和 Anthropic 都表示，將採用一套新的標準，讓出版業者可以選擇退出 AI 爬取。透過一個共用的政策標記訊號，出版業者能一次把自己對 AI 訓練的偏好套用到多家 AI 公司，不必再一家一家個別設定。再來是蘋果的消息。蘋果在中國官網新聞頁面宣布，Apple Intelligence 終於要透過 iOS 27.3 登陸中國市場。相關功能會先出現在十一月四日推出的 iOS 27.3 測試版當中，正式版則預計在十二月上線。最後是一則來自太空的新聞。Google 搭載 AI 晶片的衛星，已經首度從太空產生回應。Google 在週五發布的部落格文章中表示，他們成功啟動衛星上的張量處理器，讓機上的 Gemma 4 模型依照提示，寫出一首描述身在太空的俳句。這也代表在太空中運行 AI 運算，又往前跨出了一步。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-01",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 77,
+  "length": 643283,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 傳下調新一輪募資目標",
+    "title_en": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+   },
+   {
+    "title_zh": "金融時報：Anthropic 上市後預料將獲信評機構高評級「垃圾級」評等",
+    "title_en": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+   },
+   {
+    "title_zh": "OpenAI、Google、微軟與 Anthropic 支持新的 AI 爬取退出標準",
+    "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+   },
+   {
+    "title_zh": "Apple Intelligence 將隨 iOS 27.3 登陸中國",
+    "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+   },
+   {
+    "title_zh": "Google 衛星 AI 伺服器首度從太空傳回回應",
+    "title_en": "Google's satellite AI server transmits its first response to Earth",
+    "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+   }
+  ],
+  "script": "Today is November 1st, 2026, and this is AI Tech News. Signs of strain are showing in AI finance. OpenAI has reportedly lowered the funding target for its new round, as the latest raise doesn't seem to be living up to expectations. Meanwhile, the Financial Times reports that Anthropic is expected to receive a high junk rating from credit agencies following its IPO, based on a Blackstone forecast. Such a rating would make it harder and costlier for Anthropic to raise money to fund its massive spending. In policy news, OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that lets publishers opt out of AI scraping. Using a shared policy token signal, publishers can apply their AI training preferences across multiple companies at once, instead of setting them individually. Apple announced that Apple Intelligence is finally coming to China with iOS 27.3. The features will appear first in a beta launching November 4th, with the full release scheduled for December. And finally, Google's AI chip equipped satellite has generated its first response from space. The company booted up the satellite's Tensor Processing Units, and the on-board Gemma 4 model wrote a haiku about being in space. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-01",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 110,
+  "length": 910475,
+  "headlines": [
+   {
+    "title_zh": "德國生活成本抗議轉趨暴力，商店遭洗劫",
+    "title_en": "Shops looted as German cost of living protests turn violent",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "FBI指北韓犯下幣安63億美元創紀錄加密貨幣竊案",
+    "title_en": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+    "link": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國史上最致命伊波拉疫情，逾5000人死亡",
+    "title_en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美伊外長稱外交途徑結束戰爭仍有可能",
+    "title_en": "What we know about latest efforts to end US war on Iran",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss"
+   },
+   {
+    "title_zh": "受困俄占前線城市奧列什基多年，烏克蘭撤離居民與家人團聚",
+    "title_en": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月1日，歡迎收聽國際新聞。首先關注歐洲各地延燒的生活成本抗議。德國法蘭克福警方表示，市中心發生暴力騷亂，有商店遭到洗劫，柏林、漢堡和科隆也傳出動盪。法國方面，全國超過32萬人走上街頭，抗議物價上漲和公共服務不佳，部分示威者與警方爆發衝突，隨著抗議進入第三週，警方發射催淚瓦斯驅散人群。接著是科技與資安新聞。美國聯邦調查局指出，北韓是加密貨幣交易平台幣安遭駭事件的幕後黑手，這起竊案金額高達63億美元，創下紀錄。幣安表示，已經彌補了九成的損失。非洲方面，剛果民主共和國爆發史上最致命的伊波拉疫情，政府資料顯示，已有超過一萬人感染這種罕見病毒，死亡人數超過五千人。中東局勢方面，針對美國對伊朗的戰爭，美國與伊朗兩國外長都表示，透過外交途徑結束戰爭仍然有可能。最後來看烏克蘭。一批居民從遭俄羅斯占領的前線城市奧列什基撤離，終於與家人團聚。他們多年來生活在缺乏食物、飲水和電力的環境中，許多人只能煮庭院裡的雜草果腹。一對撤離的夫婦說，他們曾經為了找食物穿越地雷區，形容自己是從地獄歸來。不過，也有部分居民選擇留下。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-01",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 71,
+  "length": 589097,
+  "headlines": [
+   {
+    "title_zh": "德國生活成本抗議轉趨暴力，商店遭洗劫",
+    "title_en": "Shops looted as German cost of living protests turn violent",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "FBI指北韓犯下幣安63億美元創紀錄加密貨幣竊案",
+    "title_en": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+    "link": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國史上最致命伊波拉疫情，逾5000人死亡",
+    "title_en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美伊外長稱外交途徑結束戰爭仍有可能",
+    "title_en": "What we know about latest efforts to end US war on Iran",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss"
+   },
+   {
+    "title_zh": "受困俄占前線城市奧列什基多年，烏克蘭撤離居民與家人團聚",
+    "title_en": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is November 1st, 2026, and this is International News. Cost of living protests are spreading across Europe. In Germany, police in Frankfurt reported violent riots and shop looting, with unrest also in Berlin, Hamburg and Cologne. In France, more than 320,000 people demonstrated against rising prices and poor public services, and police fired tear gas as protests entered a third week. The FBI says North Korea was behind a record 6.3 billion dollar hack of crypto firm Binance. Binance says it has covered 90 percent of the losses. In the Democratic Republic of Congo, more than 5,000 people have died from Ebola in the country's deadliest outbreak, with government data showing more than 10,000 infections. On the US war with Iran, the foreign ministers of both countries say a diplomatic end to the conflict is still possible. And in Ukraine, residents evacuated from the Russian-occupied front-line city of Oleshky have reunited with family. They had lived without food, water and electricity, with many cooking garden weeds to survive. One couple said they crossed minefields searching for food, saying they came back from hell. That's International News for today."
+ }
+]

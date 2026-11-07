@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-07",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 123,
+  "length": 1018442,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 據報再募 110 億美元，估值達 1.25 兆美元",
+    "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+   },
+   {
+    "title_zh": "期中選舉後，AI 產業恐面臨艱難兩年",
+    "title_en": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+   },
+   {
+    "title_zh": "Ramp 數據顯示 AI 支出停滯，正值 Anthropic 接近上市",
+    "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+   },
+   {
+    "title_zh": "報導指中國招募 AI 高層監視黃仁勳",
+    "title_en": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+   },
+   {
+    "title_zh": "Meta 推出 Spaces，以新方式與 Muse 代理協作",
+    "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+   }
+  ],
+  "script": "今天是二零二六年十一月七日，歡迎收聽 AI 科技新聞。首先來看資金面。根據彭博報導，OpenAI 在一輪尚未完成的募資中，再募得一百一十億美元，估值達到一點二五兆美元，預計未來幾週內完成。這距離它今年三月以八千五百二十億美元估值募得一千二百二十億美元，時間並不長，也讓 OpenAI 躋身全球最有價值的公司之列。接著是政治衝擊。本週美國期中選舉，民主黨取得歷史性勝利，選民針對四十一項與資料中心相關的公投表決，其中除了一項之外，多數都支持對資料中心開發加上更多限制。Meta 警告，這股反彈可能讓 AI 擴張更加困難；OpenAI 也宣布對社區的新承諾，包括資料中心專案不再與公職人員簽署保密協議。第三則，企業支出平台 Ramp 的數據顯示，AI 使用量持續攀升，但支出卻開始停滯，原因包括降價以及大客戶更精明的成本控管，這可能挑戰投資人對 AI 高速成長的假設，而此時 Anthropic 正接近首次公開發行。第四則，紐約時報報導，中國國家安全部招募 Megaspeed 高層 Alice Huang，監視輝達執行長黃仁勳，試圖取得美國 AI 晶片的資訊，甚至可能影響公司推動將最先進晶片提供給中國。最後，Meta 為旗下 Muse AI 推出名為 Spaces 的新功能，讓 AI 助理直接打造類似應用程式的客製化體驗，例如購物中心、學校儀表板、音樂追蹤器和問答遊戲，使用者可在 Muse 應用程式中直接互動。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-07",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 75,
+  "length": 629171,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 據報再募 110 億美元，估值達 1.25 兆美元",
+    "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+   },
+   {
+    "title_zh": "期中選舉後，AI 產業恐面臨艱難兩年",
+    "title_en": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+   },
+   {
+    "title_zh": "Ramp 數據顯示 AI 支出停滯，正值 Anthropic 接近上市",
+    "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+   },
+   {
+    "title_zh": "報導指中國招募 AI 高層監視黃仁勳",
+    "title_en": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+   },
+   {
+    "title_zh": "Meta 推出 Spaces，以新方式與 Muse 代理協作",
+    "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+   }
+  ],
+  "script": "It's November 7, 2026, and this is AI Tech News. OpenAI has reportedly raised another 11 billion dollars at a 1.25 trillion dollar valuation, according to Bloomberg, in a round expected to close in the coming weeks. That comes not long after it raised 122 billion dollars in March at an 852 billion dollar valuation. Politics is shaking the industry. In this week's U.S. midterms, voters weighed in on 41 data center ballot measures, and in all but one, the majority backed more restrictions. Meta warned the backlash could make AI expansion harder, and OpenAI said it will stop using non-disclosure agreements with public officials on data center projects. Meanwhile, Ramp data shows AI usage still climbing but spending stalling, as price cuts and cost controls take hold, just as Anthropic nears its IPO. The New York Times reports China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, seeking information on American AI chips. And Meta introduced Spaces in its Muse AI, letting the assistant build custom, app-like experiences such as shopping hubs, school dashboards, and trivia games. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-07",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 99,
+  "length": 819470,
+  "headlines": [
+   {
+    "title_zh": "川普證實美國再度空襲伊朗格什姆島",
+    "title_en": "Trump confirms new US strikes on Iran's Qeshm Island",
+    "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+   },
+   {
+    "title_zh": "巴拉圭總統培尼亞遭彈劾並被捕",
+    "title_en": "Paraguay's President Santiago Peña impeached and arrested",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯飛彈攻擊基輔，居民受傷",
+    "title_en": "Russia launches missile attack on Kyiv, injuring residents",
+    "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+   },
+   {
+    "title_zh": "新一波炸彈威脅衝擊歐洲航空公司",
+    "title_en": "New wave of bomb threats hit European airlines",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澳門首宗國安案，民主派人士區錦新判刑十二年半",
+    "title_en": "Macau jails pro-democracy campaigner in city's first national security case",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月七日，歡迎收聽國際新聞。首先關注中東情勢。美國總統川普證實，美軍再度對伊朗的格什姆島發動空襲。不過川普同時表示，華府與德黑蘭之間的談判已經取得相當多的進展。接下來看南美洲。巴拉圭總統培尼亞遭到國會彈劾，隨後被逮捕。他下台的原因是一場銀行危機，這場危機讓數百萬民眾無法動用自己的存款，引發強烈不滿。烏克蘭方面，俄羅斯對首都基輔發動飛彈攻擊，造成多棟建築受損，兩名平民受傷。在此之前，烏克蘭總統澤倫斯基才剛警告，俄方可能發動新一波攻擊。歐洲方面，多家航空公司遭到新一波炸彈威脅。本週已有大量歐洲航班收到威脅，但到目前為止都沒有發現任何爆裂物。當局表示，目前尚未證實這些針對航空公司的威脅，與先前針對媒體的威脅之間有任何關聯。另外，一個俄羅斯極端組織也否認曾發出這些假炸彈威脅。最後來看澳門。澳門法院審理當地首宗國家安全案件，民主派人士區錦新被控顛覆國家政權罪，判處有期徒刑十二年六個月，引發外界關注。以上是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-07",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 67,
+  "length": 557636,
+  "headlines": [
+   {
+    "title_zh": "川普證實美國再度空襲伊朗格什姆島",
+    "title_en": "Trump confirms new US strikes on Iran's Qeshm Island",
+    "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+   },
+   {
+    "title_zh": "巴拉圭總統培尼亞遭彈劾並被捕",
+    "title_en": "Paraguay's President Santiago Peña impeached and arrested",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯飛彈攻擊基輔，居民受傷",
+    "title_en": "Russia launches missile attack on Kyiv, injuring residents",
+    "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+   },
+   {
+    "title_zh": "新一波炸彈威脅衝擊歐洲航空公司",
+    "title_en": "New wave of bomb threats hit European airlines",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澳門首宗國安案，民主派人士區錦新判刑十二年半",
+    "title_en": "Macau jails pro-democracy campaigner in city's first national security case",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is November 7, 2026, and this is International News. US President Donald Trump has confirmed new American strikes on Iran's Qeshm Island, while also claiming a lot of progress in Washington's negotiations with Tehran. In South America, Paraguay's President Santiago Peña has been impeached and arrested. He was ousted over a banking crisis that left millions of people unable to access their money. In Ukraine, Russia launched a missile attack on Kyiv, damaging buildings and injuring two civilians, after President Zelenskyy had warned of possible new attacks. Across Europe, a new wave of bomb threats has hit airlines. Scores of flights have received threats this week, but no explosives have been found so far. Authorities say no link has been established with similar threats against media outlets, and a Russian extremist group has denied sending the hoax threats. And in Macau, pro-democracy campaigner Au Kam San has been sentenced to twelve years and six months in jail for subversion against the political power of the state, in the city's first national security case. That's International News for today. Thanks for listening."
+ }
+]

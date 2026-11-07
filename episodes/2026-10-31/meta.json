@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-31",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 111,
+  "length": 920526,
+  "headlines": [
+   {
+    "title_zh": "AI 支出熱潮開始出現裂痕",
+    "title_en": "Cracks are emerging in the AI spending boom",
+    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+   },
+   {
+    "title_zh": "金融時報：Anthropic 上市後預料將獲信評機構給予高收益「垃圾級」評等",
+    "title_en": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+   },
+   {
+    "title_zh": "Google 首顆資料中心衛星上線，在太空寫詩",
+    "title_en": "Google's first data center satellite is online and writing poetry",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+   },
+   {
+    "title_zh": "OpenAI、Google、微軟與 Anthropic 支持拒絕 AI 爬取的新標準",
+    "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+   },
+   {
+    "title_zh": "Apple Intelligence 將隨 iOS 27.3 登陸中國",
+    "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+   }
+  ],
+  "script": "今天是 2026 年 10 月 31 日，歡迎收聽 AI 科技新聞。首先來看 AI 投資熱潮。TechCrunch 指出，大型科技公司持續砸下數十億美元興建 AI 基礎設施，但債務不斷攀升、現金流轉為負數，加上投資人疑慮加深，讓外界開始質疑這波支出熱潮能否持續。另一方面，輝達也在考慮替 Nscale 位於西維吉尼亞州的 AI 資料中心擔任貸款共同簽署人，顯示市場對 AI 支出的緊張情緒。第二則，根據金融時報報導，Anthropic 上市後，預料將被信評機構給予較高等級的垃圾級評等。這項說法來自黑石集團的預測，雖然只是預估，但如果成真，Anthropic 要募集資金來支撐龐大支出，將會更加困難，成本也更高。第三則來自太空。Google 首顆資料中心衛星已經成功上線，衛星上的 TPU 順利啟動，運行 Google DeepMind 的 Gemma 4 模型，並傳回第一個回應，是一首描寫身在太空的俳句。第四則，OpenAI、Google、微軟和 Anthropic 表示，將採用一套新的共通標準，讓出版業者能透過一個政策標記，一次對多家 AI 公司表明是否同意資料被用於訓練，不必再逐一設定。最後，蘋果宣布 Apple Intelligence 將隨 iOS 27.3 正式進入中國市場，測試版預計 11 月 4 日推出，正式版則排定在 12 月上線。以上就是今天的 AI 科技新聞，感謝您的收聽，我們下次見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-31",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 74,
+  "length": 616264,
+  "headlines": [
+   {
+    "title_zh": "AI 支出熱潮開始出現裂痕",
+    "title_en": "Cracks are emerging in the AI spending boom",
+    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+   },
+   {
+    "title_zh": "金融時報：Anthropic 上市後預料將獲信評機構給予高收益「垃圾級」評等",
+    "title_en": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+   },
+   {
+    "title_zh": "Google 首顆資料中心衛星上線，在太空寫詩",
+    "title_en": "Google's first data center satellite is online and writing poetry",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+   },
+   {
+    "title_zh": "OpenAI、Google、微軟與 Anthropic 支持拒絕 AI 爬取的新標準",
+    "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+   },
+   {
+    "title_zh": "Apple Intelligence 將隨 iOS 27.3 登陸中國",
+    "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+   }
+  ],
+  "script": "It's October 31st, 2026, and this is AI Tech News. First, cracks are emerging in the AI spending boom. Big Tech keeps pouring billions into infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising sustainability questions. Nvidia is even weighing cosigning a loan for Nscale's data center in West Virginia. Related, the Financial Times reports Anthropic is expected to receive a high junk rating from credit agencies after its IPO, based on a Blackstone forecast. That could make raising money to fund its massive spending harder and costlier. In space, Google's first data center satellite is online. Its onboard TPUs are running a Gemma 4 model, which sent back its first response: a haiku about being in space. On the publishing front, OpenAI, Google, Microsoft, and Anthropic say they will adopt a new shared policy token standard, letting publishers opt out of AI scraping across multiple companies at once instead of individually. Finally, Apple Intelligence is coming to China with iOS 27.3. A beta launches November 4th, with the full release scheduled for December. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-31",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 108,
+  "length": 899459,
+  "headlines": [
+   {
+    "title_zh": "美國批准對烏克蘭出售500枚愛國者飛彈，總值21億美元",
+    "title_en": "US approves sale of 500 Patriot missiles to Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "幣安遭駭63億美元，疑為史上最大規模，矛頭指向北韓",
+    "title_en": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "伊朗稱四艘油輪在荷莫茲海峽觸雷起火",
+    "title_en": "Iran says four tankers on fire after striking mines in Hormuz",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國伊波拉死亡人數突破5000",
+    "title_en": "Ebola death toll in DR Congo passes 5,000",
+    "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss"
+   },
+   {
+    "title_zh": "波蘭最高法院控制權對峙，警方出動",
+    "title_en": "Police deployed during stand-off over control of top Poland court",
+    "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年10月31日，歡迎收聽國際新聞。首先來看烏克蘭戰事。美國已批准向烏克蘭出售500枚愛國者飛彈，交易金額約21億美元。這款美製攔截飛彈是目前唯一能有效擊落俄羅斯彈道飛彈的武器，這筆交易也被視為川普2025年上任以來，美國提供基輔防禦武器最重要的步驟之一。接著是科技與資安新聞。加密貨幣巨頭幣安遭到駭客攻擊，損失高達63億美元，被認為是史上同類事件中規模最大的一起。幣安形容這次攻擊相當複雜，目前正設法追回資金。兩家分析公司已將事件歸咎於一個名為TraderTraitor的北韓駭客組織，外界認為，如果指控屬實，代表北韓駭客的能力已經變得非常強大。中東方面，伊朗革命衛隊表示，有四艘油輪在荷莫茲海峽觸雷後起火，這條航道的安全情勢再度引發關注。非洲方面，剛果民主共和國的伊波拉疫情持續延燒，死亡人數已經突破5000人。由於目前沒有核准的治療方法或疫苗，當局仍難以找到控制疫情的辦法。最後來看歐洲。波蘭政府與最高法院之間的對峙升高，警方已經出動部署。事件起因是政府停職兩名資深大法官，並著手對他們提出刑事告訴，引發對司法控制權的激烈爭議。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-31",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 67,
+  "length": 559636,
+  "headlines": [
+   {
+    "title_zh": "美國批准對烏克蘭出售500枚愛國者飛彈，總值21億美元",
+    "title_en": "US approves sale of 500 Patriot missiles to Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "幣安遭駭63億美元，疑為史上最大規模，矛頭指向北韓",
+    "title_en": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "伊朗稱四艘油輪在荷莫茲海峽觸雷起火",
+    "title_en": "Iran says four tankers on fire after striking mines in Hormuz",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國伊波拉死亡人數突破5000",
+    "title_en": "Ebola death toll in DR Congo passes 5,000",
+    "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss"
+   },
+   {
+    "title_zh": "波蘭最高法院控制權對峙，警方出動",
+    "title_en": "Police deployed during stand-off over control of top Poland court",
+    "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's October 31st, 2026, and this is International News. The United States has approved the sale of 500 Patriot missiles to Ukraine, a deal worth 2.1 billion dollars. The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles, and the deal would be one of the most significant steps to supply defensive weapons to Kyiv since Trump took office in 2025. Crypto giant Binance is trying to recover 6.3 billion dollars stolen in a hack believed to be the largest of its kind ever. Two analytics firms have attributed the attack to a North Korean hacking unit called TraderTraitor. In the Gulf, Iran's Revolutionary Guard says four tankers have caught fire after striking mines in the Strait of Hormuz. In the Democratic Republic of Congo, the Ebola death toll has passed 5,000, with authorities struggling to control the outbreak and no approved treatments or vaccines available. And in Poland, police were deployed during a stand-off over control of the country's top court, after the government suspended two senior justices and moved to bring criminal charges against them. That's International News for today."
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-05",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 113,
+  "length": 941896,
+  "headlines": [
+   {
+    "title_zh": "資料中心在期中選舉中失利，反對聲浪跨越黨派",
+    "title_en": "Data centers lost the midterms",
+    "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+   },
+   {
+    "title_zh": "Google 擬對限制 AI 的學校關閉搜尋服務，引發強烈反彈",
+    "title_en": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+   },
+   {
+    "title_zh": "Uber 上季僅有四趟行程由 AI 代理預訂",
+    "title_en": "Uber only fulfilled 4 rides from AI agents last quarter",
+    "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+   },
+   {
+    "title_zh": "Meta 收購 AI 程式開發新創 Conductor",
+    "title_en": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+   },
+   {
+    "title_zh": "Anthropic 開發 FlashProve 系統，驗證 AI 模型身分",
+    "title_en": "Anthropic is working on a system to prove AI models' identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+   }
+  ],
+  "script": "今天是二零二六年十一月五日，歡迎收聽 AI 科技新聞。首先，資料中心成為這次美國期中選舉的一大輸家。全美各地選民投票支持主張暫停興建資料中心的候選人，也通過了增加擴建障礙的公投提案，而且反對聲浪跨越了黨派。這對 AI 產業的核心支柱來說是一記重擊，資料中心開發商未來恐怕將面臨更嚴格的建設環境。接下來，Google 因為一項計畫引發強烈反彈，這項計畫會對限制使用 AI 的學校關閉搜尋服務。紐約市長曼達尼與前聯邦貿易委員會主席莉娜可汗等政治人物，批評 Google 的行為就像不受監管的壟斷企業。另一方面，DuckDuckGo 也趁機向學校推銷自家搜尋引擎，並強調可以關閉 AI 功能。再來看 AI 代理的實際使用狀況。Uber 在財報會議上透露，二零二六年第三季，只有四趟行程是由第三方 AI 代理預訂的，Uber Eats 的 AI 代理訂單則大約五百筆，顯示 AI 代理短期內還很難撼動 Uber 的地位。在企業動態方面，Meta 宣布收購 AI 程式開發新創公司 Conductor。這家公司的工具可以讓軟體工程師同時派出一整組 AI 代理，分別處理專案的不同部分。最後，Anthropic 正在開發一套名為 FlashProve 的系統，讓任何人都能驗證某個 AI 回應，是否真的來自它所宣稱的模型。這項技術有助於提升 AI 服務的可信度與透明度。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-05",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 70,
+  "length": 589629,
+  "headlines": [
+   {
+    "title_zh": "資料中心在期中選舉中失利，反對聲浪跨越黨派",
+    "title_en": "Data centers lost the midterms",
+    "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+   },
+   {
+    "title_zh": "Google 擬對限制 AI 的學校關閉搜尋服務，引發強烈反彈",
+    "title_en": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+   },
+   {
+    "title_zh": "Uber 上季僅有四趟行程由 AI 代理預訂",
+    "title_en": "Uber only fulfilled 4 rides from AI agents last quarter",
+    "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+   },
+   {
+    "title_zh": "Meta 收購 AI 程式開發新創 Conductor",
+    "title_en": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+   },
+   {
+    "title_zh": "Anthropic 開發 FlashProve 系統，驗證 AI 模型身分",
+    "title_en": "Anthropic is working on a system to prove AI models' identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+   }
+  ],
+  "script": "Today is November fifth, 2026, and this is AI Tech News. First, data centers were a big loser in Tuesday's midterm elections. Voters across the country backed candidates who favor moratoriums and ballot measures that add obstacles to expansion, and the opposition crossed party lines, signaling a tougher building environment for a core pillar of the AI industry. Next, Google faces backlash over a plan that would turn off Search for schools that restrict AI. Politicians including New York City mayor Zohran Mamdani and former FTC chair Lina Khan accused Google of acting as an unregulated monopoly, while DuckDuckGo is courting frustrated schools. In a reality check for agentic AI, Uber said only four rides were booked by third-party AI agents in the third quarter, with around five hundred Uber Eats orders. Meanwhile, Meta has acquired AI coding startup Conductor, whose tool lets engineers deploy teams of agents to work on different parts of a project at the same time. Finally, Anthropic is working on a system called FlashProve, which would let anyone verify that an AI response really came from the model it claims to be from. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-05",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 118,
+  "length": 984825,
+  "headlines": [
+   {
+    "title_zh": "民主黨拿下國會兩院，萬斯罕見批評選敗歸咎伊朗戰爭",
+    "title_en": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "香港民主運動代表人物黃之鋒被判監十年",
+    "title_en": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "烏克蘭稱隨身攝影機拍下俄軍致命「雙擊」轟炸",
+    "title_en": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列選舉僵局，總統赫佐格展開組閣諮商",
+    "title_en": "Israel's president begins consultations with parties after election deadlock",
+    "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "巴拉圭銀行倒閉，牽涉半數國民存款引發抗議",
+    "title_en": "Paraguay bank collapses with half of population's savings",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月五日，歡迎收聽國際新聞。首先關注美國期中選舉。民主黨一舉拿下參議院和眾議院的控制權。副總統萬斯對共和黨敗選提出直白的檢討，把原因歸咎於伊朗戰爭，被認為是近年來副總統與現任總統最明顯的切割之一。川普總統也承認，這場衝突是共和黨落敗的原因之一。伊朗首席談判代表卡利巴夫則表示，美國人用選票對戰爭說不，伊方支持這個訊息。不過分析指出，民主黨雖然可以在國會通過法案，但川普仍握有否決權。接著來看香港。香港民主運動的代表人物黃之鋒被判處十年徒刑。今年三十歲的黃之鋒，是依據具爭議的國安法被拘押的數百名港人之一。俄烏戰爭方面，烏克蘭表示，有隨身攝影機畫面拍下俄軍對一座村莊發動的致命雙擊轟炸。基輔指出，週一的攻擊至少造成四十人死亡，另外可能還有三十人受困瓦礫堆下。烏克蘭總統澤倫斯基也表示，希望民主黨主導的國會能為烏克蘭帶來更多援助。中東方面，以色列大選陷入僵局，總統赫佐格已開始與各政黨展開諮商。他警告政治人物，如果想避免再次舉行選舉，並不是每一項承諾都能兌現。最後來看南美洲。巴拉圭的Ueno銀行因償付能力危機，在半夜遭到勒令停業，這家銀行握有全國約半數民眾的存款，消息傳出後，巴拉圭各地爆發抗議。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-05",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 73,
+  "length": 607104,
+  "headlines": [
+   {
+    "title_zh": "民主黨拿下國會兩院，萬斯罕見批評選敗歸咎伊朗戰爭",
+    "title_en": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "香港民主運動代表人物黃之鋒被判監十年",
+    "title_en": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "烏克蘭稱隨身攝影機拍下俄軍致命「雙擊」轟炸",
+    "title_en": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列選舉僵局，總統赫佐格展開組閣諮商",
+    "title_en": "Israel's president begins consultations with parties after election deadlock",
+    "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "巴拉圭銀行倒閉，牽涉半數國民存款引發抗議",
+    "title_en": "Paraguay bank collapses with half of population's savings",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 5th, 2026, and this is International News. Democrats have taken control of both the Senate and the House of Representatives in the US midterms. Vice President JD Vance delivered a blunt assessment of the Republican defeat, blaming the Iran war, in one of the sharpest breaks with a sitting president in recent memory. President Trump has also acknowledged the conflict's role, while Iran's chief negotiator said Americans voted no to war. Democrats can now pass legislation, but Trump still holds veto power. In Hong Kong, Joshua Wong, the face of the city's pro-democracy protests, has been jailed for ten years. The thirty-year-old is among hundreds detained under the national security law. Ukraine says bodycam video shows a deadly Russian double-tap bombing on a village on Monday. Kyiv says at least forty people were killed and another thirty may still be under the rubble. In Israel, President Herzog has begun consultations with parties after an election deadlock, warning that not every promise can be fulfilled if another election is to be avoided. And in Paraguay, protests have erupted after Ueno Bank, holding the savings of half the population, was shut down overnight over a solvency crisis. That's International News for today."
+ }
+]

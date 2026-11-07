@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-30",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 107,
+  "length": 884824,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 遞交 S-1 申請上市，要華爾街相信 AGI",
+    "title_en": "Anthropic is asking Wall Street to believe in AGI",
+    "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+   },
+   {
+    "title_zh": "Google 推出 Gemini 4 Carbon，資安能力大幅躍進",
+    "title_en": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   },
+   {
+    "title_zh": "Mistral 釋出兆級參數模型權重，鎖定資安領域",
+    "title_en": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+   },
+   {
+    "title_zh": "微軟首度公布 Azure 季營收：332 億美元",
+    "title_en": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+   },
+   {
+    "title_zh": "OpenAI 支持的 Thrive Holdings 以 153 億美元收購 ADT",
+    "title_en": "OpenAI-backed Thrive Holdings acquires ADT",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+   }
+  ],
+  "script": "今天是二零二六年十月三十日，歡迎收聽 AI 科技新聞。首先來看 Anthropic。這家公司已經向美國證管會遞交 S-1 文件，準備在那斯達克掛牌上市。分析指出，這份文件等於為 Anthropic 盡可能大舉投資運算資源提供了財務上的理由，某種程度上，就是在請華爾街相信通用人工智慧的願景。接著是模型戰場。Google 推出最新前沿模型 Gemini 4 Carbon，在程式撰寫、代理任務和資訊安全方面都有顯著進步，並在 Artificial Analysis 智慧指數中拿下第一，領先 Claude Opus 5.5 和 GPT-6 Astra。同樣瞄準資安領域的還有法國公司 Mistral，他們釋出了一兆參數模型的權重，強調開放權重能讓企業對自己的資安防禦擁有封閉模型無法提供的掌控權。雲端市場方面，微軟首度以美元公布 Azure 的季營收，金額達到三百三十二億美元，讓外界看到它與最大對手 AWS 的差距正在縮小。亞馬遜執行長賈西則表示，AWS 將成為營收一兆美元的事業，不過在那之前，公司還會持續大手筆投入資本支出。最後是一筆大型併購。由 OpenAI 支持的 Thrive Holdings 將以一百五十三億美元收購居家保全公司 ADT，計畫把人工智慧導入保全業務。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-30",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 77,
+  "length": 639561,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 遞交 S-1 申請上市，要華爾街相信 AGI",
+    "title_en": "Anthropic is asking Wall Street to believe in AGI",
+    "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+   },
+   {
+    "title_zh": "Google 推出 Gemini 4 Carbon，資安能力大幅躍進",
+    "title_en": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   },
+   {
+    "title_zh": "Mistral 釋出兆級參數模型權重，鎖定資安領域",
+    "title_en": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+   },
+   {
+    "title_zh": "微軟首度公布 Azure 季營收：332 億美元",
+    "title_en": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+   },
+   {
+    "title_zh": "OpenAI 支持的 Thrive Holdings 以 153 億美元收購 ADT",
+    "title_en": "OpenAI-backed Thrive Holdings acquires ADT",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+   }
+  ],
+  "script": "It's October 30th, 2026, and this is AI Tech News. Anthropic has filed its S-1 to go public on the Nasdaq. Analysts say the filing provides financial justification for the company to spend as much as it possibly can on compute, essentially asking Wall Street to believe in AGI. Google released its latest frontier model, Gemini 4 Carbon, claiming significant gains in coding, agentic tasks, and cybersecurity. It took the top spot on the Artificial Analysis Intelligence Index, ahead of Claude Opus 5.5 and GPT-6 Astra. Also focused on security, Mistral released the weights for its trillion-parameter model, saying it gives organizations control over their cyber defenses that closed models can't. In cloud news, Microsoft disclosed Azure's quarterly revenue in dollars for the first time, at 33.2 billion, showing how close it is getting to AWS. Meanwhile, Amazon CEO Andy Jassy said AWS will become a trillion-dollar business, but only after continued heavy capital spending. Finally, OpenAI-backed Thrive Holdings is buying home security company ADT in a 15.3 billion dollar deal, with plans to bring AI to the business. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-30",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 109,
+  "length": 908452,
+  "headlines": [
+   {
+    "title_zh": "加密貨幣巨頭幣安遭遇「史上最大駭客攻擊」",
+    "title_en": "Crypto giant Binance hit by 'largest hack in history'",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列反對派指控納坦雅胡企圖「否定」選舉正當性",
+    "title_en": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯無人機襲擊烏克蘭火車站，至少14人死亡",
+    "title_en": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "AI疑慮衝擊華爾街，Google市值蒸發5000億美元",
+    "title_en": "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "習近平在政治會議強調「黨紀」，整肅人數創紀錄",
+    "title_en": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年10月30日，歡迎收聽國際新聞。首先來看加密貨幣產業。全球加密貨幣交易所幣安，遭遇了被稱為史上規模最大的駭客攻擊。兩家分析公司指出，這起事件是北韓一個名為TraderTraitor的駭客組織所為，事件再度引發外界對加密資產安全的關注。接著來看以色列。總理納坦雅胡領導的執政聯盟在選舉中失去國會過半席次，他所屬的聯合黨指控有外國勢力干預，並宣稱以阿拉伯人為主的政黨偷走了選舉。對此，以色列反對派批評納坦雅胡是在企圖否定選舉的正當性，政局後續發展備受矚目。烏克蘭方面，當地官員表示，俄羅斯對烏克蘭中部城市聶伯市的一座火車站發動無人機攻擊，造成至少14人死亡，另外至少14人受傷，其中包括一名11歲男童。財經新聞方面，人工智慧帶來的疑慮衝擊華爾街。Google透露旗下AI搜尋摘要功能已經影響廣告營收，讓投資人大受驚嚇，股價跌至六個月來低點，市值蒸發約5000億美元。最後來看中國。中國國家主席習近平在一場重要政治會議上強調黨的紀律，同時遭到整肅的官員人數創下紀錄。觀察人士認為，習近平的反貪腐運動，已經變成鞏固並維持個人權威的手段。以上就是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-30",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 68,
+  "length": 567132,
+  "headlines": [
+   {
+    "title_zh": "加密貨幣巨頭幣安遭遇「史上最大駭客攻擊」",
+    "title_en": "Crypto giant Binance hit by 'largest hack in history'",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列反對派指控納坦雅胡企圖「否定」選舉正當性",
+    "title_en": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯無人機襲擊烏克蘭火車站，至少14人死亡",
+    "title_en": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "AI疑慮衝擊華爾街，Google市值蒸發5000億美元",
+    "title_en": "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "習近平在政治會議強調「黨紀」，整肅人數創紀錄",
+    "title_en": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's October 30th, 2026, and this is International News. Cryptocurrency exchange Binance has been hit by what is being called the largest hack in history. Two analytics firms have attributed the incident to a North Korean hacking unit known as TraderTraitor. In Israel, the opposition is accusing Prime Minister Benjamin Netanyahu of trying to delegitimise the election, after his coalition lost its majority. His Likud party has alleged foreign interference and claimed Arab-led parties stole the vote. In Ukraine, officials say a Russian drone attack on a train station in the central city of Dnipro killed at least 14 people. At least 14 others were wounded, including an 11-year-old boy. On Wall Street, Google lost about 500 billion dollars in market value, with its stock hitting a six-month low after the company revealed that its AI search summaries were affecting advertising revenue. And in China, a record number of officials have been purged as President Xi Jinping emphasised party discipline at a major political gathering. Observers say his anti-corruption campaign has become an effort to consolidate and maintain authority. That's International News for today. Thanks for listening."
+ }
+]

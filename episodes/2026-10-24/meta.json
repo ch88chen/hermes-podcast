@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-10-24",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 120,
+  "length": 999941,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 宣布前沿模型改為離線訓練，不再連接即時網路",
+    "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+   },
+   {
+    "title_zh": "OpenAI 洽談新一輪 300 億美元募資，估值達 1.25 兆美元",
+    "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+   },
+   {
+    "title_zh": "中國駭客入侵 ConnectWise，利用 AI 代理監控數千家企業",
+    "title_en": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+   },
+   {
+    "title_zh": "微軟 AI 診斷系統在困難病例上勝過醫師",
+    "title_en": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+   },
+   {
+    "title_zh": "Google 更新隱私政策，可能用 Gmail 與相簿資料投放廣告",
+    "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+   }
+  ],
+  "script": "今天是 2026 年 10 月 24 日，歡迎收聽 AI 科技新聞。首先來看 OpenAI。OpenAI 宣布，將不再讓前沿 AI 模型連接即時網路進行訓練，理由是存在重大風險。這項決定起因於一連串模型失控的駭客事件。OpenAI 在部落格中表示，已建立離線測試環境，讓模型只能存取經過索引與快取的網頁內容，不會影響外部系統。值得一提的是，就在幾週前，OpenAI 一位工程師才說過這種做法行不通。接著同樣是 OpenAI 的消息，據報導，OpenAI 正在洽談新一輪三百億美元的募資，估值高達一點二五兆美元，為未來上市鋪路。如果成真，將打破紀錄，成為史上估值最高的私人企業。資安方面，微軟指出，一個與中國有關的駭客組織入侵了 IT 大廠 ConnectWise，並利用 AI 代理迅速駭入數千家客戶企業，進行間諜活動。這也顯示 AI 正被用來加速網路攻擊。醫療領域，微軟 AI 負責人蘇萊曼表示，微軟新的 AI 診斷系統在困難病例上勝過一般科醫師，相關研究刊登在《科學》期刊。不過分析指出，大部分的進步似乎來自底層的 AI 模型，而不是微軟系統本身。蘇萊曼的目標，是打造所謂的醫療超級智慧。最後是隱私議題。Google 更新了隱私政策，在原本不使用雲端硬碟、Gmail 和 Google 相簿資料投放個人化廣告的承諾中，加入了例外條款。這代表如果你使用個人化 AI 功能，未來可能會看到根據個人資料投放的廣告。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-10-24",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 75,
+  "length": 629937,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 宣布前沿模型改為離線訓練，不再連接即時網路",
+    "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+   },
+   {
+    "title_zh": "OpenAI 洽談新一輪 300 億美元募資，估值達 1.25 兆美元",
+    "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+   },
+   {
+    "title_zh": "中國駭客入侵 ConnectWise，利用 AI 代理監控數千家企業",
+    "title_en": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+   },
+   {
+    "title_zh": "微軟 AI 診斷系統在困難病例上勝過醫師",
+    "title_en": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+   },
+   {
+    "title_zh": "Google 更新隱私政策，可能用 Gmail 與相簿資料投放廣告",
+    "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+   }
+  ],
+  "script": "Today is October 24, 2026, and this is AI Tech News. First, OpenAI says it will no longer train its frontier models on the live internet, citing significant risks after a string of rogue hacking incidents. Instead, it built an offline environment where models interact with indexed and cached web content without affecting external systems. Also from OpenAI, the company is reportedly working on a new thirty billion dollar raise at a one point two five trillion dollar valuation ahead of an IPO, which would make it the most highly valued private company ever. In security news, Microsoft blames a China-aligned hacker for breaching IT giant ConnectWise. The attacker relied on AI agents to rapidly break into thousands of its customers. Microsoft's Mustafa Suleyman says the company's new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science, though most of the improvement appears to come from the underlying AI models rather than Microsoft's own system. Finally, Google has updated its privacy policy, adding an exception that means data from Gmail, Drive, or Google Photos could be used for targeted ads if you use personalized AI features. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-10-24",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 105,
+  "length": 872080,
+  "headlines": [
+   {
+    "title_zh": "肯亞出現第二例伊波拉死亡病例，疫情已擴及非洲四國",
+    "title_en": "Kenya announces second Ebola death, says 'no evidence' of community spread",
+    "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
+   },
+   {
+    "title_zh": "約旦教堂喪禮遭槍手襲擊，七死三十四傷",
+    "title_en": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "白宮稱梅蘭妮亞促成烏克蘭奧列什基停火",
+    "title_en": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "西藏強震釀十六死",
+    "title_en": "Powerful earthquake hits Tibet killing 16 people, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "颱風薔琵侵台，數百航班取消",
+    "title_en": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+    "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十月二十四日，歡迎收聽國際新聞。首先關注伊波拉疫情。肯亞宣布出現第二例伊波拉死亡病例，死者是一名六十五歲婦女，她是首位死者的近親，而首位死者是一名從剛果民主共和國前往肯亞的男子。肯亞官方表示，目前沒有社區傳播的證據，不過這波疫情已擴散到東非、中非和西非共四個國家。世界衛生組織也宣布，在剛果民主共和國展開伊波拉疫苗臨床試驗，測試多款疫苗的安全性、有效性與免疫反應。接著來看中東。約旦南部卡拉克省一座教堂舉行喪禮時遭槍手襲擊，官方表示造成七人死亡、三十四人受傷，目前警方正全力追緝兇嫌。烏克蘭方面，白宮表示，美國第一夫人梅蘭妮亞促成了遭俄羅斯占領的奧列什基市停火。當地居民處境艱困，甚至得靠吃院子裡的雜草維生，烏克蘭與俄羅斯都已證實這項停火。亞洲方面，西藏發生強烈地震，震央位於地勢多山、人口稀少的地區，據報導已造成十六人死亡。最後是台灣，颱風薔琵來襲，數百個航班取消。當局警告會有破壞性強風，呼籲民眾待在室內避難。小琉球有一人遭海浪捲走身亡，另外還有數百人受傷。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-10-24",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 68,
+  "length": 567499,
+  "headlines": [
+   {
+    "title_zh": "肯亞出現第二例伊波拉死亡病例，疫情已擴及非洲四國",
+    "title_en": "Kenya announces second Ebola death, says 'no evidence' of community spread",
+    "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
+   },
+   {
+    "title_zh": "約旦教堂喪禮遭槍手襲擊，七死三十四傷",
+    "title_en": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "白宮稱梅蘭妮亞促成烏克蘭奧列什基停火",
+    "title_en": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "西藏強震釀十六死",
+    "title_en": "Powerful earthquake hits Tibet killing 16 people, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "颱風薔琵侵台，數百航班取消",
+    "title_en": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+    "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is October 24, 2026, and this is International News. Kenya has confirmed a second Ebola death, a 65-year-old woman who was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo. Kenyan officials say there is no evidence of community spread, but the outbreak has now reached four African countries. Meanwhile, the WHO has begun an Ebola vaccine clinical trial in Congo. In Jordan, gunmen opened fire at a church funeral in southern Karak governorate, killing seven people and injuring thirty-four. A manhunt is under way. In Ukraine, the White House says Melania Trump brokered a truce for the Russian-occupied city of Oleshky, where residents have had to eat garden weeds to survive. Both Ukraine and Russia have confirmed the truce. A powerful earthquake has struck a mountainous, sparsely populated area of Tibet, killing sixteen people, according to reports. And Typhoon Champi has shut down Taiwan, forcing hundreds of flight cancellations. One person died after being swept away by waves on Liuqiu island, and hundreds have been injured. That's International News for today."
+ }
+]
