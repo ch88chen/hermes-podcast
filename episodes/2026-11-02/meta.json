@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-02",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 110,
+  "length": 911462,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 可能將資料中心更名為「AI 運算園區」",
+    "title_en": "OpenAI might rebrand its data centers as 'AI compute campuses'",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+   },
+   {
+    "title_zh": "法官准許 NAACP 就 xAI 資料中心污染提起的訴訟繼續進行",
+    "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+   },
+   {
+    "title_zh": "蘋果執行長：不想為了 AI 而推出 AI",
+    "title_en": "Apple CEO says the company doesn't 'want to ship AI for AI's sake'",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+   },
+   {
+    "title_zh": "AI 讓科技執行長生活更輕鬆，那其他人呢？",
+    "title_en": "AI can make tech CEOs' lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+   },
+   {
+    "title_zh": "倒數四天：TechCrunch 創辦人高峰會助你建立擴展人脈",
+    "title_en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+   }
+  ],
+  "script": "今天是二零二六年十一月二日，歡迎收聽 AI 科技新聞。首先來看 OpenAI 的消息。資料中心近來在民眾之間相當不受歡迎，而 OpenAI 可能考慮把旗下的資料中心改名為「AI 運算園區」。換個名字，是否就能改變大家的觀感，值得後續觀察。同樣和資料中心有關，美國一位法官已准許全國有色人種協進會，也就是 NAACP，針對 xAI 資料中心污染問題提出的訴訟繼續進行。這起訴訟指控這家由 SpaceX 擁有的 AI 公司違反了《清淨空氣法》。資料中心對環境與社區的影響，顯然正受到越來越多的檢視。接著來看蘋果。蘋果新任執行長替公司目前在 AI 領域的定位提出辯護，表示蘋果並不想為了 AI 而推出 AI。這番話也回應了外界對蘋果 AI 腳步的種種討論。另外，在 TechCrunch 的 Equity 節目中，主持人討論了為什麼科技業執行長對 AI 的發言，常常讓人覺得不食人間煙火。AI 或許能讓執行長的生活更輕鬆，但對其他一般人來說又帶來什麼，是大家關心的問題。最後是活動消息。TechCrunch 創辦人高峰會將在十一月四日於波士頓的 SoWa Power Station 舉行，距離現在只剩短短幾天。這場為期一整天的活動，主打豐富的交流機會和實用見解，協助創業者擴展事業，現場購票價格將會調漲。以上就是今天的 AI 科技新聞，感謝您的收聽，我們下次見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-02",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 70,
+  "length": 589012,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 可能將資料中心更名為「AI 運算園區」",
+    "title_en": "OpenAI might rebrand its data centers as 'AI compute campuses'",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+   },
+   {
+    "title_zh": "法官准許 NAACP 就 xAI 資料中心污染提起的訴訟繼續進行",
+    "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+   },
+   {
+    "title_zh": "蘋果執行長：不想為了 AI 而推出 AI",
+    "title_en": "Apple CEO says the company doesn't 'want to ship AI for AI's sake'",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+   },
+   {
+    "title_zh": "AI 讓科技執行長生活更輕鬆，那其他人呢？",
+    "title_en": "AI can make tech CEOs' lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+   },
+   {
+    "title_zh": "倒數四天：TechCrunch 創辦人高峰會助你建立擴展人脈",
+    "title_en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+   }
+  ],
+  "script": "Today is November 2, 2026, and this is AI Tech News. First up, OpenAI might rebrand its data centers as AI compute campuses. Data centers have become deeply unpopular, and the question is whether a new name could change public perception. Staying with data centers, a judge has allowed an NAACP lawsuit over pollution from an xAI data center to move forward. The suit accuses the SpaceX-owned AI company of violating the Clean Air Act. Over at Apple, the company's new CEO defended Apple's current position in the AI landscape, saying Apple doesn't want to ship AI for AI's sake. Meanwhile, on TechCrunch's Equity podcast, the hosts discussed why statements from tech CEOs about AI can seem so tone deaf, asking whether AI that makes executives' lives easier will also help everyone else. And finally, there are just a few days left until the TechCrunch Founder Summit, taking place on November 4 at Boston's SoWa Power Station. The full-day event promises networking opportunities and actionable insights for founders looking to scale, and prices go up at the door. That's all for today's AI Tech News. Thanks for listening, and see you next time."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-02",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 130,
+  "length": 1082278,
+  "headlines": [
+   {
+    "title_zh": "伊朗戰事：荷莫茲海峽油輪觸雷起火，川普再稱衝突即將結束",
+    "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
+   },
+   {
+    "title_zh": "停火結束後，俄烏空襲警報App雙雙遭駭",
+    "title_en": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+    "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+   },
+   {
+    "title_zh": "以色列選舉機關：結果有效，納坦雅胡稱選舉遭「竊取」",
+    "title_en": "Israeli officials say results stand as Netanyahu claims election 'stolen'",
+    "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss"
+   },
+   {
+    "title_zh": "德國生活成本抗議轉趨暴力，商店遭洗劫",
+    "title_en": "Shops looted as German cost-of-living protests turn violent",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "密西根民主黨人史蒂文斯支持共和黨參議員候選人，黨內爆衝突",
+    "title_en": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月2日，歡迎收聽國際新聞。首先來看伊朗戰事。伊朗革命衛隊表示，有兩艘油輪在荷莫茲海峽觸雷起火。美國總統川普則警告伊朗應該達成協議，並再次表示衝突很快就會結束。接著是俄烏戰爭。烏克蘭空軍表示，烏克蘭的空襲警報應用程式疑似遭到駭客入侵，使用者收到假的輻射威脅警告。幾個小時後，俄羅斯當局也表示，俄方的應用程式同樣遭駭，在境內發送了不實警告。這起事件發生在赫爾松罕見的人道停火結束之際，這次停火讓平民得以撤離被俄軍占領的奧列什基市，而停火結束後，俄軍空襲已造成烏克蘭數千戶停電。再來看以色列。納坦雅胡聲稱選舉遭到竊取，不過以色列選舉機關表示，這次陷入僵局的選舉結果仍然有效，即使外國干預的指控屬實，也不會推翻結果。歐洲方面，德國多個城市爆發生活成本抗議，包括柏林、漢堡和法蘭克福，部分示威演變成暴力衝突，還有商店遭到洗劫。同一天，法國也有數十萬人上街，這已經是連續第三個週末，數百人被捕。法國警方因為有人向員警投擲汽油彈，已經以殺人未遂展開調查。最後是美國期中選舉。在密西根州關鍵的參議員選戰中，先前在民主黨初選輸給阿卜杜勒艾爾薩耶德的民主黨人海莉史蒂文斯，宣布支持共和黨候選人麥可羅傑斯。一位民主黨高層痛批這是卑劣的背叛，艾爾薩耶德則不以為意，而川普總統稱讚史蒂文斯，並邀請她加入共和黨。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-02",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 80,
+  "length": 669882,
+  "headlines": [
+   {
+    "title_zh": "伊朗戰事：荷莫茲海峽油輪觸雷起火，川普再稱衝突即將結束",
+    "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
+   },
+   {
+    "title_zh": "停火結束後，俄烏空襲警報App雙雙遭駭",
+    "title_en": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+    "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+   },
+   {
+    "title_zh": "以色列選舉機關：結果有效，納坦雅胡稱選舉遭「竊取」",
+    "title_en": "Israeli officials say results stand as Netanyahu claims election 'stolen'",
+    "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss"
+   },
+   {
+    "title_zh": "德國生活成本抗議轉趨暴力，商店遭洗劫",
+    "title_en": "Shops looted as German cost-of-living protests turn violent",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "密西根民主黨人史蒂文斯支持共和黨參議員候選人，黨內爆衝突",
+    "title_en": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 2nd, 2026, and this is International News. In the Iran war, Iran's Revolutionary Guards say two tankers hit mines and caught fire in the Strait of Hormuz. President Trump warned Iran to make a deal and again said the conflict will end soon. In Ukraine, the air raid alert app was apparently hacked, sending users false warnings of a radiation threat. Hours later, Russian authorities said their own app was also hacked with fake warnings. This came as a rare humanitarian ceasefire in Kherson ended, and Russian strikes cut power to thousands. In Israel, election officials say the deadlocked result will stand, even as Prime Minister Benjamin Netanyahu claims the election was stolen. The election body says the result won't be undermined even if foreign interference claims prove true. In Europe, cost-of-living protests in Germany turned violent, with shops looted in cities including Berlin, Hamburg and Frankfurt. On the same day, hundreds of thousands protested in France, where police opened an attempted murder investigation after a petrol bomb was thrown at officers. And in the United States, Michigan Democrat Haley Stevens endorsed Republican Mike Rogers in a key Senate race, after losing the nomination to Abdul El-Sayed. One top Democrat called it a despicable betrayal, while President Trump invited her to join the Republican Party. That's International News for today."
+ }
+]

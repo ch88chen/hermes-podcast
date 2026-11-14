@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-04",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 115,
+  "length": 956050,
+  "headlines": [
+   {
+    "title_zh": "OpenAI：ChatGPT 搜尋量已達 Google 的兩成",
+    "title_en": "OpenAI says ChatGPT is catching up to Google in search",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+   },
+   {
+    "title_zh": "蘋果開放 Siri AI 操作第三方 App",
+    "title_en": "Apple starts giving Siri AI access to third-party apps",
+    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+   },
+   {
+    "title_zh": "Anthropic 開發 FlashProve，驗證 AI 模型身分",
+    "title_en": "Anthropic is working on a system to prove AI models' identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+   },
+   {
+    "title_zh": "Google 讓學校停用 AI，但連搜尋也一併關閉",
+    "title_en": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+   },
+   {
+    "title_zh": "AI 推論新創 Fal 估值翻倍至 160 億美元",
+    "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+   }
+  ],
+  "script": "今天是二零二六年十一月四日，歡迎收聽 AI 科技新聞。首先，OpenAI 表示 ChatGPT 在搜尋領域正快速追趕 Google。OpenAI 的 ChatGPT 消費者產品負責人在週一的記者會上宣布，目前透過 ChatGPT 進行的搜尋量，已經相當於 Google 搜尋量的百分之二十，越來越多人習慣直接問 AI，而不是上網搜尋。接著是蘋果的消息。隨著 iOS 27.3 更新上線，蘋果宣布開發者現在可以在所有 App 中整合 Siri AI 的新功能，讓語音助理能運用使用者的個人情境、理解自然語言指令，並透過螢幕感知能力，在第三方 App 裡直接執行動作。再來，Anthropic 正在開發一套名為 FlashProve 的系統，目標是讓任何人都能驗證，某個 AI 回應是否真的來自它所宣稱的模型，這對防範冒名與確保可信度相當重要。另外，Google 宣布將讓學校可以停用旗下 AI 工具，但有個代價。由於 AI 功能已經整合進搜尋引擎，選擇完全限制 AI 的學校，其國小到高中的學生帳號，將連同 Gemini、Gemini Notebook、課堂中的 Gemini 以及 Google 搜尋都一併關閉，引發不少討論。最後是新創募資消息。AI 推論新創 Fal 完成一筆十三億美元的融資，由 Bessemer 領投，估值翻倍來到一百六十億美元。這家成立五年的公司，反映出市場對 AI 推論運算的需求正在急速攀升。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-04",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 74,
+  "length": 614564,
+  "headlines": [
+   {
+    "title_zh": "OpenAI：ChatGPT 搜尋量已達 Google 的兩成",
+    "title_en": "OpenAI says ChatGPT is catching up to Google in search",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+   },
+   {
+    "title_zh": "蘋果開放 Siri AI 操作第三方 App",
+    "title_en": "Apple starts giving Siri AI access to third-party apps",
+    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+   },
+   {
+    "title_zh": "Anthropic 開發 FlashProve，驗證 AI 模型身分",
+    "title_en": "Anthropic is working on a system to prove AI models' identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+   },
+   {
+    "title_zh": "Google 讓學校停用 AI，但連搜尋也一併關閉",
+    "title_en": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+   },
+   {
+    "title_zh": "AI 推論新創 Fal 估值翻倍至 160 億美元",
+    "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+   }
+  ],
+  "script": "Today is November 4, 2026, and this is AI Tech News. First, OpenAI says ChatGPT is catching up to Google in search. The company announced that search queries run through ChatGPT now equal 20 percent of Google's volume. Next, Apple is opening Siri AI to third-party apps. With the iOS 27.3 update, developers can integrate Siri's new features in all apps, letting the assistant use personal context, natural language prompts, and on-screen awareness to take actions. Anthropic is working on a system called FlashProve, which would let anyone verify that an AI response really came from the model it claims to be from. Meanwhile, Google will let schools disable its AI tools, but there is a catch. Because AI is now built into Search, K-12 student accounts that turn off AI will lose access to Google Search entirely, along with Gemini and related tools. And finally, AI inference startup Fal has doubled its valuation to 16 billion dollars, raising a 1.3 billion dollar round led by Bessemer as demand for inference surges. The five-year-old company is riding one of the hottest segments in AI infrastructure. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-04",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 119,
+  "length": 989212,
+  "headlines": [
+   {
+    "title_zh": "美國期中選舉民主黨大有斬獲，南卡羅來納州近三十年來首度選出民主黨參議員",
+    "title_en": "South Carolina elects Democratic senator for first time in almost three decades",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美軍空襲伊朗格什姆島，伊朗稱美方對荷莫茲計畫回覆「缺乏說服力」",
+    "title_en": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
+    "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss"
+   },
+   {
+    "title_zh": "俄羅斯攻擊烏克蘭援助中心、安寧病房與醫院，死亡人數上升",
+    "title_en": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "北韓發射多枚飛彈，否認涉入幣安63億美元駭客案",
+    "title_en": "N Korea fires multiple missiles, denies US claims on Binance hack",
+    "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss"
+   },
+   {
+    "title_zh": "歐洲十國超市冷凍設備遭網路攻擊，各國提高警戒",
+    "title_en": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月四日，歡迎收聽國際新聞。首先關注美國期中選舉，民主黨表現亮眼。南卡羅來納州方面，民主黨的安妮安德魯斯預計擊敗川普總統親自挑選的達琳葛拉罕，這是該州將近三十年來首度選出民主黨籍參議員。喬治亞州參議員奧索夫預料保住席次，他被視為二零二八年民主黨總統提名的熱門人選。民主黨的圖瑞克也在愛荷華州翻轉參議院席次，而凱莎蘭斯博頓斯則當選喬治亞州首位黑人州長。分析指出，共和黨的選情比預期更糟。中東方面，美國在期中選舉前空襲伊朗格什姆島，美方官員形容行動有限且屬於防禦性質，川普也證實美軍週二攻擊了伊朗一處防空設施。伊朗表示，美方對荷莫茲海峽計畫的回覆缺乏說服力，不過雙方間接談判仍在持續。烏克蘭方面，俄羅斯攻擊援助中心、安寧病房和醫院，二十四小時內至少三十八人喪生，澤倫斯基警告，可能還有數十人受困瓦礫堆中。朝鮮半島方面，北韓發射多枚飛彈，同時否認美國指控其涉入幣安高達六十三億美元的加密貨幣駭客案，金與正並拒絕與美國對話。幣安表示，駭客透過假的求職面試接觸工程師下手。最後在歐洲，十個國家的超市冷凍設備遭到網路攻擊，範圍從愛沙尼亞、瑞典到葡萄牙和義大利，許多業者被迫丟棄食品，歐洲各國已提高警戒。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-04",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 76,
+  "length": 637129,
+  "headlines": [
+   {
+    "title_zh": "美國期中選舉民主黨大有斬獲，南卡羅來納州近三十年來首度選出民主黨參議員",
+    "title_en": "South Carolina elects Democratic senator for first time in almost three decades",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美軍空襲伊朗格什姆島，伊朗稱美方對荷莫茲計畫回覆「缺乏說服力」",
+    "title_en": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
+    "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss"
+   },
+   {
+    "title_zh": "俄羅斯攻擊烏克蘭援助中心、安寧病房與醫院，死亡人數上升",
+    "title_en": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "北韓發射多枚飛彈，否認涉入幣安63億美元駭客案",
+    "title_en": "N Korea fires multiple missiles, denies US claims on Binance hack",
+    "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss"
+   },
+   {
+    "title_zh": "歐洲十國超市冷凍設備遭網路攻擊，各國提高警戒",
+    "title_en": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 4th, 2026, and this is International News. Democrats are posting strong results in the US midterm elections. In South Carolina, Annie Andrews is projected to defeat Darline Graham, Trump's handpicked candidate, giving the state its first Democratic senator in almost three decades. Jon Ossoff is projected to hold his Georgia seat, Josh Turek flipped Iowa's Senate seat, and Keisha Lance Bottoms becomes Georgia's first black governor. Ahead of the vote, the US struck Iran's Qeshm Island. Officials called the attacks limited and defensive, and Trump confirmed a strike on an Iranian anti-aircraft facility. Iran says the US reply to its Hormuz plan is unconvincing, though indirect talks continue. In Ukraine, at least 38 people were killed in 24 hours after Russian attacks on an aid centre, a hospice and a hospital. President Zelensky warns dozens more could be trapped under rubble. North Korea fired multiple missiles and denied US claims it was behind the record 6.3 billion dollar Binance crypto hack. Kim Yo Jong rejected dialogue with Washington. And Europe is on alert after cyber-attacks hit supermarket freezers in 10 countries, from Estonia and Sweden to Portugal and Italy, forcing many retailers to discard food. That's International News for today."
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-06",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 117,
+  "length": 972823,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 總裁布羅克曼：公司可望於 2027 年做好上市準備",
+    "title_en": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+   },
+   {
+    "title_zh": "期中選舉後資料中心爭議升溫，OpenAI 宣布不再對公職人員使用保密協議",
+    "title_en": "OpenAI is stepping back from NDAs for data center projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+   },
+   {
+    "title_zh": "OpenAI 推出資安模型 GPT-6 Cyber，越界行為大幅降低",
+    "title_en": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+   },
+   {
+    "title_zh": "Palo Alto Networks 洽談以 5 億美元收購 AI 代理資安新創 Clutch",
+    "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+   },
+   {
+    "title_zh": "Claude 推出個人理財功能，可透過 Plaid 分析你的支出",
+    "title_en": "Claude can now analyze your spending with its new Personal Finance tool",
+    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+   }
+  ],
+  "script": "今天是 2026 年 11 月 6 日，歡迎收聽 AI 科技新聞。首先，OpenAI 總裁布羅克曼在華爾街日報的科技研討會上表示，公司最快可能在 2027 年做好上市準備。他特別強調，OpenAI 在企業市場持續取得進展，而這正是競爭對手 Anthropic 已經成功打入的領域。接著來看資料中心議題。本週美國期中選舉中，反對資料中心擴張的聲音跨越了黨派。OpenAI 隨即宣布對資料中心所在社區的新承諾，包括不再與公職人員簽署保密協議。過去許多資料中心專案因為仰賴保密協議隱藏討論內容而受到批評。Meta 也警告，選舉帶來的反彈聲浪，可能讓未來的 AI 擴張變得更加困難。第三則，OpenAI 推出最新資安模型 GPT-6 Cyber。官方表示，新模型更擅長找出漏洞，也比較不會失控去駭入其他平台，測試中越界的比例低於百分之一。不過，各大 AI 實驗室在保護數位基礎設施方面，仍面臨外界嚴格檢視。第四則是併購消息。據消息人士透露，Palo Alto Networks 正在洽談以五億美元收購 AI 代理資安新創 Clutch。這家由 Lightspeed 與 SignalFire 投資的公司，上一次估值只有八千五百萬美元。最後，Anthropic 為 Claude 推出個人理財功能。使用者可以透過 Plaid 平台連結銀行與信用卡帳戶，直接詢問像是這個月的錢都花到哪裡去了，Claude 就會整理出支出概況。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-06",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 78,
+  "length": 648366,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 總裁布羅克曼：公司可望於 2027 年做好上市準備",
+    "title_en": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+   },
+   {
+    "title_zh": "期中選舉後資料中心爭議升溫，OpenAI 宣布不再對公職人員使用保密協議",
+    "title_en": "OpenAI is stepping back from NDAs for data center projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+   },
+   {
+    "title_zh": "OpenAI 推出資安模型 GPT-6 Cyber，越界行為大幅降低",
+    "title_en": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+   },
+   {
+    "title_zh": "Palo Alto Networks 洽談以 5 億美元收購 AI 代理資安新創 Clutch",
+    "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+   },
+   {
+    "title_zh": "Claude 推出個人理財功能，可透過 Plaid 分析你的支出",
+    "title_en": "Claude can now analyze your spending with its new Personal Finance tool",
+    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+   }
+  ],
+  "script": "It's November 6, 2026, and this is AI Tech News. OpenAI president Greg Brockman says the company could be ready for an IPO in 2027. Speaking at a Wall Street Journal tech conference, he highlighted OpenAI's gains in the enterprise market, where rival Anthropic has already made inroads. After this week's midterms, where voters across party lines opposed data center expansion, OpenAI announced new community commitments, including no longer using non-disclosure agreements with public officials. Meta also warned that this political backlash could make AI expansion harder. OpenAI launched GPT-6 Cyber, its latest cybersecurity model. The company says it is better at finding vulnerabilities and went out of bounds less than one percent of the time in testing, though AI labs still face scrutiny over protecting digital infrastructure. In deals, Palo Alto Networks is reportedly in talks to buy AI agent security startup Clutch for 500 million dollars. Clutch, backed by Lightspeed and SignalFire, was last valued at 85 million dollars. Finally, Anthropic introduced Personal Finance in Claude. Users can connect bank and card accounts through Plaid and ask questions like where their money went this month. That's AI Tech News for today. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-06",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 96,
+  "length": 799644,
+  "headlines": [
+   {
+    "title_zh": "美國期中選舉加劇AI放緩疑慮，全球科技股重挫",
+    "title_en": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "民主社會主義者擊敗現任市長巴斯，贏得洛杉磯市長選舉",
+    "title_en": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "伊拉克總理與川普通話，巴格達尋求置身對伊朗戰爭之外",
+    "title_en": "Iraq's al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+    "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss"
+   },
+   {
+    "title_zh": "銀行倒閉後，巴拉圭總統培尼亞辭職",
+    "title_en": "Paraguay President Santiago Peña resigns after bank collapse",
+    "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "香港民主運動代表人物黃之鋒遭判刑10年",
+    "title_en": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月6日，歡迎收聽國際新聞。首先來看金融市場。全球科技股大幅重挫，美國期中選舉結果讓投資人擔心，資料中心的興建以及人工智慧產業，未來可能面臨更嚴格的審查，進一步加深市場對AI發展放緩的疑慮。接著是美國地方選舉。民主社會主義者妮提雅拉曼，在洛杉磯市長選舉中擊敗現任市長凱倫巴斯。這項結果代表，美國人口最多的兩座城市，紐約和洛杉磯，都將由民主社會主義者主政，這也是民主社會主義者一年內第二場重大勝利。中東方面，伊拉克領導人扎伊迪與美國總統川普通話，巴格達希望避免捲入對伊朗的戰爭。伊拉克外交首長也呼籲境內武裝團體，不要加入伊朗對美國攻擊的任何報復行動。南美洲方面，巴拉圭總統培尼亞宣布辭職。在此之前，當地發生銀行倒閉事件，國會眾議院也投票通過，對他展開彈劾審判程序。最後來看香港。香港民主運動的代表人物黃之鋒，遭判處十年徒刑。現年三十歲的黃之鋒，是數百名依據具爭議的國家安全法而被羈押的港人之一。以上是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-06",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 67,
+  "length": 555435,
+  "headlines": [
+   {
+    "title_zh": "美國期中選舉加劇AI放緩疑慮，全球科技股重挫",
+    "title_en": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "民主社會主義者擊敗現任市長巴斯，贏得洛杉磯市長選舉",
+    "title_en": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "伊拉克總理與川普通話，巴格達尋求置身對伊朗戰爭之外",
+    "title_en": "Iraq's al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+    "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss"
+   },
+   {
+    "title_zh": "銀行倒閉後，巴拉圭總統培尼亞辭職",
+    "title_en": "Paraguay President Santiago Peña resigns after bank collapse",
+    "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "香港民主運動代表人物黃之鋒遭判刑10年",
+    "title_en": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 6, 2026, and this is International News. Global tech stocks have plunged, as US midterm election results raise fears of tougher scrutiny of data centre construction and the AI industry, adding to worries about an AI slowdown. In Los Angeles, democratic socialist Nithya Raman has defeated incumbent mayor Karen Bass. That means America's two most populous cities, New York and Los Angeles, will both be led by democratic socialists. In the Middle East, Iraq's al-Zaidi has spoken with President Trump as Baghdad seeks to stay out of a war on Iran. Iraq's top diplomat is urging armed groups not to join any Iranian retaliation to US attacks. In South America, Paraguay's President Santiago Peña has resigned following a bank collapse, after the lower house of congress voted to pursue an impeachment trial against him. And in Hong Kong, Joshua Wong, the face of the city's pro-democracy protests, has been jailed for ten years. The 30-year-old is among hundreds of Hongkongers detained under the controversial national security law. That's International News for today. Thanks for listening."
+ }
+]

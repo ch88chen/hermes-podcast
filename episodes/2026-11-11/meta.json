@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-11",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 138,
+  "length": 1138923,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 設定 IPO 每股 70 至 78 美元，估值上看 1.404 兆美元",
+    "title_en": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+   },
+   {
+    "title_zh": "紐約 AI 安全法上路，OpenAI 與 Anthropic 面臨新監管",
+    "title_en": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+   },
+   {
+    "title_zh": "Google 向大眾推出 Gemini 4 Carbon，具備代理「群集」功能",
+    "title_en": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+   },
+   {
+    "title_zh": "Nvidia 執行長黃仁勳與涉嫌中國間諜的婚外情事件時間軸",
+    "title_en": "Nvidia CEO Jensen Huang's affair with alleged Chinese spy: a timeline",
+    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "ChatGPT 推出經認證的 AI「商家代理」",
+    "title_en": "ChatGPT is getting verified AI 'Business Agents'",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+   }
+  ],
+  "script": "今天是 2026 年 11 月 11 日，歡迎收聽 AI 科技新聞。首先來看本週最受矚目的資本市場消息。Anthropic 公布首次公開發行的價格區間，每股介於 70 到 78 美元之間，若以區間上限並在完全稀釋的基礎上計算，估值可望達到 1.404 兆美元，有機會成為史上規模最大的上市案之一。另外，Anthropic 的七位共同創辦人都將出售相同數量的股份，以價格區間中間值計算，每人大約可套現 2.5 億美元，同時整體仍保有公司的控制權。接著是監管面的動態。紐約州正準備執行全面性的 AI 安全法，要求像 OpenAI 和 Anthropic 這樣的大型開發商必須登記註冊、揭露安全措施，並且通報重大事件，否則將面臨罰款。這代表美國前沿 AI 公司將迎來新一層的監督。在模型方面，Google 正式向一般大眾推出最新模型 Gemini 4 Carbon。這款模型兩週前先開放給特定的資安防禦人員使用，Google 宣稱這是他們目前最強的模型，足以和 Anthropic 與 OpenAI 的頂尖系統一較高下，並且具備代理群集功能。再來是一則引發國安疑慮的新聞。Nvidia 執行長黃仁勳被報導與一名涉嫌為中國間諜的人士有婚外情。由於美中兩國正競相發展最先進的 AI 基礎設施，這起事件可能對國家安全造成影響，後續發展值得關注。最後，OpenAI 在 ChatGPT 推出一系列商業功能的測試版，包括經過認證的商家代理，讓使用者可以直接和代表品牌的 AI 對話，協助比價購物等需求，首波開放給美國符合資格的電商與線上服務業者。同時也推出商家檔案功能，讓 ChatGPT 更像一個消費者探索引擎。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-11",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 76,
+  "length": 636225,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 設定 IPO 每股 70 至 78 美元，估值上看 1.404 兆美元",
+    "title_en": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+   },
+   {
+    "title_zh": "紐約 AI 安全法上路，OpenAI 與 Anthropic 面臨新監管",
+    "title_en": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+   },
+   {
+    "title_zh": "Google 向大眾推出 Gemini 4 Carbon，具備代理「群集」功能",
+    "title_en": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+   },
+   {
+    "title_zh": "Nvidia 執行長黃仁勳與涉嫌中國間諜的婚外情事件時間軸",
+    "title_en": "Nvidia CEO Jensen Huang's affair with alleged Chinese spy: a timeline",
+    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "ChatGPT 推出經認證的 AI「商家代理」",
+    "title_en": "ChatGPT is getting verified AI 'Business Agents'",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+   }
+  ],
+  "script": "Today is November 11, 2026, and this is AI Tech News. Anthropic has set its IPO price range at 70 to 78 dollars per share, implying a fully diluted valuation of up to 1.404 trillion dollars. Each of its seven co-founders plans to sell about 250 million dollars in shares while keeping control of the company. Meanwhile, New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines. Google is rolling out Gemini 4 Carbon to the public, after first releasing it to selected cybersecurity defenders two weeks ago. Google calls it its strongest model yet, featuring an agent swarm capability. In a developing story, reports on Nvidia CEO Jensen Huang's affair with an alleged Chinese spy raise national security concerns as the U.S. and China race to build advanced AI infrastructure. Finally, OpenAI is launching verified Business Agents in ChatGPT, letting users chat with brand representatives for tasks like comparison shopping, starting with eligible U.S. e-commerce and online service businesses in beta. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-11",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 115,
+  "length": 955688,
+  "headlines": [
+   {
+    "title_zh": "烏克蘭和談首日 澤倫斯基稱具建設性",
+    "title_en": "First day of Ukraine peace talks constructive, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美方：三名伊朗支持嫌犯策劃攻擊 包括英國費爾福德空軍基地事件",
+    "title_en": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達執行長黃仁勳涉與疑似中國間諜婚外情 股價重挫",
+    "title_en": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列新國會宣誓就職 各方角逐組閣",
+    "title_en": "Israel's new parliament sworn in as leaders compete to form government",
+    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國伊波拉病例破萬一千例 5387人死亡",
+    "title_en": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+    "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年11月11日，歡迎收聽國際新聞。首先關注烏克蘭和談。來自基輔、華盛頓和莫斯科的代表團齊聚阿拉伯聯合大公國，這是自今年二月以來首次三方會談。烏克蘭總統澤倫斯基表示，第一天的談判具有建設性。不過在談判進行的同時，俄羅斯宣稱在列寧格勒州攔截了146架無人機，俄軍占領的烏克蘭頓巴斯地區也傳出遭到攻擊。接下來是安全議題。美國司法部表示，三名受伊朗支持的嫌犯涉及一連串攻擊陰謀，其中包括發生在英國費爾福德皇家空軍基地附近的重大事件，這座基地是美軍使用的據點。科技業方面，輝達執行長黃仁勳被揭露與一名疑似中國間諜的女子有婚外情，輝達已聘請美國大型律師事務所展開調查。消息傳出後，輝達股價重挫，市值蒸發數千億美元，外界預期這起事件將在美國及其他地區引發連鎖效應。中東方面，以色列新一屆國會宣誓就職，總理內坦雅胡的主要政治對手艾森柯特取得優先組閣的機會，有望讓內坦雅胡下台。最後是公共衛生新聞。剛果民主共和國的伊波拉疫情持續擴大，累計病例已超過一萬一千例，死亡人數達到5387人。由於發現病例的時間延遲，加上當地衝突不斷，當局難以控制這場該國史上最大規模的伊波拉疫情。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-11",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 73,
+  "length": 610719,
+  "headlines": [
+   {
+    "title_zh": "烏克蘭和談首日 澤倫斯基稱具建設性",
+    "title_en": "First day of Ukraine peace talks constructive, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美方：三名伊朗支持嫌犯策劃攻擊 包括英國費爾福德空軍基地事件",
+    "title_en": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達執行長黃仁勳涉與疑似中國間諜婚外情 股價重挫",
+    "title_en": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列新國會宣誓就職 各方角逐組閣",
+    "title_en": "Israel's new parliament sworn in as leaders compete to form government",
+    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國伊波拉病例破萬一千例 5387人死亡",
+    "title_en": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+    "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 11, 2026, and this is International News. Ukraine peace talks are underway in the United Arab Emirates, with delegations from Kyiv, Washington and Moscow meeting for the first trilateral talks since February. President Zelensky called the first day constructive. Meanwhile, Russia says it intercepted 146 drones over the Leningrad region. The US Justice Department says three Iran-backed suspects were involved in a string of plots, including a major incident near RAF Fairford, a UK airbase used by US forces. Nvidia shares tumbled, wiping hundreds of billions of dollars from the company's value, after it emerged that chief executive Jensen Huang had an affair with a woman believed to be a Chinese spy. Nvidia has hired a major US law firm to investigate. In Israel, the new parliament has been sworn in. Gadi Eisenkot, Benjamin Netanyahu's main rival, has the first chance to form a government and oust the prime minister. And in the Democratic Republic of Congo, Ebola cases have passed 11,000, with 5,387 deaths. Authorities are struggling to contain the country's largest outbreak, citing delayed detection and conflict. That's International News for today."
+ }
+]

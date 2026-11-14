@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-08",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 111,
+  "length": 917890,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 傳再募 110 億美元，估值達 1.25 兆美元",
+    "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+   },
+   {
+    "title_zh": "METR 新報告：Anthropic 以 AI 加速 AI 開發，引發研究人員憂慮",
+    "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+   },
+   {
+    "title_zh": "美情報備忘錄：中國招募 Megaspeed 高管刺探輝達執行長黃仁勳",
+    "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+   },
+   {
+    "title_zh": "美國允許輝達將晶片賣給中國一間空辦公室",
+    "title_en": "The US let Nvidia sell chips to an empty office in China",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+   },
+   {
+    "title_zh": "Chainalysis 遭駭，所有客戶憑證與權杖被竊",
+    "title_en": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+   }
+  ],
+  "script": "今天是二〇二六年十一月八日，歡迎收聽 AI 科技新聞。首先來看資金動態。根據彭博報導，OpenAI 在一輪尚未完成、預計未來幾週內結案的募資中，再募得一百一十億美元，估值來到一兆兩千五百億美元，躋身全球最有價值的公司之一。就在今年三月，OpenAI 才以八千五百二十億美元估值募得一千兩百二十億美元，而競爭對手 Anthropic 也正逐步接近首次公開發行。接著，AI 安全研究組織 METR 週四發表一份歷時十一週調查的報告，指出 Anthropic 正利用 AI 來打造更強大的 AI，而且成效顯著，模型進步速度大約是一年前的兩倍，目前看不出放緩跡象，這讓不少研究人員感到憂心。再來是晶片與國安議題。紐約時報報導，中國國家安全部招募了 Megaspeed 高階主管 Alice Huang，刺探輝達執行長黃仁勳，目的是取得美國 AI 晶片的資訊，甚至可能影響輝達推動最先進晶片供應中國。另一方面，紐約時報也發現，獲准經手輝達 H200 晶片的中國公司新矩陣，辦公室竟然空無一人，外界因此質疑美國商務部與輝達的審查是否落實。最後是資安新聞。區塊鏈分析公司 Chainalysis 表示，駭客透過一場結合 AI 代理程式與中途攔截資料的多面向網路攻擊，竊取了所有客戶的帳號憑證與權杖。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-08",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 77,
+  "length": 640049,
+  "headlines": [
+   {
+    "title_zh": "OpenAI 傳再募 110 億美元，估值達 1.25 兆美元",
+    "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+   },
+   {
+    "title_zh": "METR 新報告：Anthropic 以 AI 加速 AI 開發，引發研究人員憂慮",
+    "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+   },
+   {
+    "title_zh": "美情報備忘錄：中國招募 Megaspeed 高管刺探輝達執行長黃仁勳",
+    "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+   },
+   {
+    "title_zh": "美國允許輝達將晶片賣給中國一間空辦公室",
+    "title_en": "The US let Nvidia sell chips to an empty office in China",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+   },
+   {
+    "title_zh": "Chainalysis 遭駭，所有客戶憑證與權杖被竊",
+    "title_en": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+   }
+  ],
+  "script": "Today is November 8, 2026, and this is AI Tech News. OpenAI has reportedly raised another 11 billion dollars at a valuation of 1.25 trillion dollars, according to Bloomberg, in a round expected to close in the coming weeks. That comes not long after it raised 122 billion dollars in March at an 852 billion dollar valuation, while rival Anthropic nears its IPO. Speaking of Anthropic, a new report from the AI safety group METR, following an 11-week investigation, finds the company is using AI to build more powerful AI, with its models improving roughly twice as fast as a year ago, and little sign of slowing. Researchers are alarmed. In chip news, The New York Times reports that China's Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang and potentially push for advanced chips to reach China. Separately, the Times found that New Matrix, a Chinese firm approved to handle Nvidia's H200 chips, has empty offices, raising questions about vetting by the Commerce Department and Nvidia. Finally, Chainalysis says hackers stole credentials and tokens for all of its customers in a multifront cyberattack involving AI agents. That's AI Tech News for today."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-08",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 119,
+  "length": 987207,
+  "headlines": [
+   {
+    "title_zh": "波蘭克拉科夫槍擊案六死，總理圖斯克稱為恐怖主義",
+    "title_en": "Krakow gun attack kills six; Polish PM calls it terrorism",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列總統授權反對派領袖艾森科特組閣",
+    "title_en": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國成立特遣部隊，阻斷伊朗陸上補給路線",
+    "title_en": "US launches task force to disrupt Iran's land-based supply routes",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+   },
+   {
+    "title_zh": "紐西蘭大選結果膠著，無明確贏家",
+    "title_en": "No clear winner after tight New Zealand general election",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯空襲烏克蘭電網，阿布達比三方會談前夕九人受傷",
+    "title_en": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "現在是二零二六年十一月八日，歡迎收聽國際新聞。首先關注波蘭。克拉科夫市中心主廣場發生隨機槍擊案，造成六人死亡，警方隨後又在槍手住處發現三具遺體。波蘭總理圖斯克表示，這起槍擊事件是一起恐怖主義行為。接著來看以色列。上週大選中，總理納坦雅胡陣營與對手陣營都沒有取得過半席次，以色列總統最後決定授權反對派領袖艾森科特組成新政府，而不是由納坦雅胡出面組閣，政局出現重大變化。中東方面，美國宣布成立特遣部隊，目標是阻止伊朗利用陸上路線運送武器和其他物資。美國同時懸賞兩千萬美元，徵求有關伊朗核計畫的情報。美國總統川普曾多次提到，可能再度空襲伊朗核設施。另外，伊朗官方媒體報導，荷莫茲海峽的格什姆島，以及賈斯克、西里克和阿巴斯港等城市都傳出爆炸。再來看紐西蘭。紐西蘭大選結果相當膠著，初步開票顯示國會席次高度分散，沒有明確的贏家，接下來可能還要經過好幾週的聯合政府協商。分析指出，民眾普遍對政治感到疲憊和失望，不少選民轉而離開主要大黨。最後是俄烏戰事。俄羅斯發動空襲，造成烏克蘭九人受傷，電力網路也受到破壞。這波攻擊發生在雙方代表團下週前往阿布達比參加三方會談之前，外界關注是否會影響談判氣氛。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-08",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 69,
+  "length": 581718,
+  "headlines": [
+   {
+    "title_zh": "波蘭克拉科夫槍擊案六死，總理圖斯克稱為恐怖主義",
+    "title_en": "Krakow gun attack kills six; Polish PM calls it terrorism",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列總統授權反對派領袖艾森科特組閣",
+    "title_en": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國成立特遣部隊，阻斷伊朗陸上補給路線",
+    "title_en": "US launches task force to disrupt Iran's land-based supply routes",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+   },
+   {
+    "title_zh": "紐西蘭大選結果膠著，無明確贏家",
+    "title_en": "No clear winner after tight New Zealand general election",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯空襲烏克蘭電網，阿布達比三方會談前夕九人受傷",
+    "title_en": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "This is International News for November 8, 2026. In Poland, six people were killed in a random shooting in Krakow's main square, and three more bodies were later found at the attacker's home. Prime Minister Donald Tusk called the attack an act of terrorism. In Israel, President has asked opposition leader Gadi Eisenkot, rather than Prime Minister Benjamin Netanyahu, to form the next government, after neither bloc won a majority in last week's election. In the Middle East, the United States has launched a task force to stop Iran from using ground routes to move weapons and other materials. Washington is also offering a twenty million dollar reward for information about Iran's nuclear programme, while Iranian state media report blasts on Qeshm Island and several coastal cities. New Zealand's general election has produced no clear winner. Preliminary results point to a deeply divided parliament, and weeks of coalition talks could follow, as gloomy voters deserted the major parties. And in Ukraine, Russian strikes wounded nine people and damaged the power network, ahead of trilateral talks between Ukrainian and Russian delegations in Abu Dhabi next week. That's International News for today."
+ }
+]

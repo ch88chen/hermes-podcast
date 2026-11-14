@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-03",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 125,
+  "length": 1037393,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 警告已非常接近 RSI 能力，也就是能自我建構的 AI",
+    "title_en": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+   },
+   {
+    "title_zh": "紐約時報等媒體控告 Brave 瀏覽器涉嫌爬取內容",
+    "title_en": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+   },
+   {
+    "title_zh": "OpenAI 終於合併 ChatGPT 的 Chat 與 Work 分頁",
+    "title_en": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+   },
+   {
+    "title_zh": "馬斯克因成本「高到無法持續」限縮 Grok Bot 使用額度",
+    "title_en": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+   },
+   {
+    "title_zh": "OpenAI 推出資料中心電廠計畫，主打保護周邊地區電網",
+    "title_en": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+   }
+  ],
+  "script": "今天是二零二六年十一月三日，歡迎收聽 AI 科技新聞。首先是今天最受矚目的消息，Anthropic 發出警告，表示自己已經非常接近所謂的 RSI 能力，也就是遞迴式自我改進。RSI 指的是 AI 強大到能夠自己訓練自己，進而讓 AI 能力出現劇烈加速的臨界點。對於抱持悲觀看法的 AI 末日論者來說，RSI 代表一場無法回頭的災難，因此這項警告引發不少關注。接著來看法律戰線，紐約時報以及紐約每日新聞、芝加哥論壇報等多家媒體，對開發 Brave 瀏覽器的公司提起訴訟。媒體指控 Brave 非法爬取受著作權保護的內容，用來訓練 AI，並轉售給 Anthropic 和 Perplexity 等客戶，同時還讓使用者能繞過付費牆。再來是產品動態，OpenAI 終於要把 ChatGPT 的 Chat 和 Work 兩個分頁合併。OpenAI 表示，調整之後，ChatGPT 和 Codex 將共用同一個使用額度。另一邊，馬斯克宣布限縮 Grok Bot 的使用上限，理由是成本高到無法持續。有趣的是，馬斯克不久前才形容 Grok Bot 是他這輩子見過成長最快的產品，可見爆量需求也帶來沉重的運算負擔。最後是能源議題，OpenAI 週一宣布推出「電網守護者計畫」，將在美國喬治亞州艾芬漢郡即將興建的資料中心進行試點。OpenAI 承諾，在極端天氣或緊急狀況時，可以釋出最多一千百萬瓦的電力，足以供應大約七十萬戶家庭的冷氣使用。這項宣布的背景，是各地反對興建資料中心的聲浪持續升高。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-03",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 75,
+  "length": 629121,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 警告已非常接近 RSI 能力，也就是能自我建構的 AI",
+    "title_en": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+   },
+   {
+    "title_zh": "紐約時報等媒體控告 Brave 瀏覽器涉嫌爬取內容",
+    "title_en": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+   },
+   {
+    "title_zh": "OpenAI 終於合併 ChatGPT 的 Chat 與 Work 分頁",
+    "title_en": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+   },
+   {
+    "title_zh": "馬斯克因成本「高到無法持續」限縮 Grok Bot 使用額度",
+    "title_en": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+   },
+   {
+    "title_zh": "OpenAI 推出資料中心電廠計畫，主打保護周邊地區電網",
+    "title_en": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+   }
+  ],
+  "script": "Today is November 3rd, 2026, and this is AI Tech News. Our top story: Anthropic warns it is very close to RSI capability, recursive self-improvement, the point where AI becomes so good at training itself that capabilities could accelerate dramatically. To AI doomers, RSI represents a point of no return. In legal news, The New York Times and other publications are suing the company behind the Brave web browser, alleging it scraped their copyrighted content, distributed it to customers like Anthropic and Perplexity, and let users bypass paywalls. OpenAI is finally merging ChatGPT's Chat and Work tabs, and says ChatGPT and Codex will now draw usage from the same allocation pool. Elon Musk is throttling Grok Bot limits, citing unsustainably high costs, even though he recently called it the fastest growing product he has ever seen. Finally, OpenAI announced a Grid Protectors Program, piloting at an upcoming data center in Effingham County, Georgia. The company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to run air conditioners in around 700,000 homes, as local opposition to data centers grows. That's AI Tech News for today. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-03",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 117,
+  "length": 967922,
+  "headlines": [
+   {
+    "title_zh": "美國在期中選舉前夕空襲伊朗",
+    "title_en": "US strikes Iran ahead of midterm elections",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國最高法院駁回川普阻止加州計算爭議選票的請求",
+    "title_en": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "基輔指俄羅斯轟炸烏克蘭援助中心，26人罹難",
+    "title_en": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "北韓否認涉入創紀錄63億美元幣安駭客案",
+    "title_en": "North Korea denies being behind record $6.3bn Binance hack",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "薪資抗議迫使孟加拉數百家成衣廠關閉",
+    "title_en": "Wage protests force hundreds of Bangladesh garment factories to close",
+    "link": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月三日，歡迎收聽國際新聞。首先來看美國。美國在期中選舉前夕，對伊朗的格什姆島發動空襲。根據英國廣播公司的美國合作夥伴哥倫比亞廣播公司報導，美國官員形容這次攻擊是有限度而且屬於防禦性質。同樣在美國，最高法院駁回川普政府要求阻止加州計算爭議選票的請求。這項裁決在期中選舉前夕出爐，基本上終結了川普政府試圖讓加州這些選票失效的努力。接著來看烏克蘭。基輔方面表示，俄羅斯轟炸烏克蘭南部一處村莊的援助中心，造成二十六人死亡。官員指出，至少有九枚三千公斤的空投炸彈擊中該村，烏克蘭總統形容這是一場極其駭人的攻擊。另外，在這場戰爭歷來最長的六天停火結束後，赫爾松地區已經重新爆發戰鬥。科技與資安方面，北韓否認是創紀錄六十三億美元幣安駭客案的幕後黑手。不過，美國政府機構和資安分析人士都將矛頭指向平壤，認為這起破紀錄的竊案與北韓有關。最後來看孟加拉。當地爆發薪資抗議，迫使數百家成衣工廠關閉。這些工廠為H&M和優衣庫等品牌代工，仰賴數百萬名低薪勞工。孟加拉是全球第二大成衣出口國，數以萬計的工人走上街頭，要求提高最低工資，許多人表示，目前的薪水幾乎不夠應付基本生活，甚至得餓肚子。以上就是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-03",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 73,
+  "length": 608595,
+  "headlines": [
+   {
+    "title_zh": "美國在期中選舉前夕空襲伊朗",
+    "title_en": "US strikes Iran ahead of midterm elections",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國最高法院駁回川普阻止加州計算爭議選票的請求",
+    "title_en": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "基輔指俄羅斯轟炸烏克蘭援助中心，26人罹難",
+    "title_en": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "北韓否認涉入創紀錄63億美元幣安駭客案",
+    "title_en": "North Korea denies being behind record $6.3bn Binance hack",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "薪資抗議迫使孟加拉數百家成衣廠關閉",
+    "title_en": "Wage protests force hundreds of Bangladesh garment factories to close",
+    "link": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is November 3rd, 2026, and this is International News. The United States has carried out strikes on Iran's Qeshm Island on the eve of the midterm elections. According to CBS, US officials described the attacks as limited and defensive. Also in the US, the Supreme Court has rejected the Trump administration's request to stop California from counting disputed votes. The ruling essentially ends the administration's bid to disqualify those ballots, just as Americans head to the polls. In Ukraine, officials say Russian bombing killed 26 people at an aid centre in a southern village, with at least nine 3,000 kilogram aerial bombs striking the area. The president called it an utterly horrific attack. The violence follows the end of a six-day truce, the longest ceasefire of the war. North Korea has denied responsibility for a record 6.3 billion dollar hack of the crypto exchange Binance, although US government agencies and cyber analysts have blamed Pyongyang. And in Bangladesh, wage protests have forced hundreds of garment factories to close. The factories make clothes for brands such as H and M and Uniqlo, and tens of thousands of workers say their wages barely cover basic needs. That's International News for today."
+ }
+]

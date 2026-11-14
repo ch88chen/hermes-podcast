@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermes 每日新聞語音摘要</title>
+    <link>https://ch88chen.github.io/hermes-podcast/</link>
+    <atom:link href="https://ch88chen.github.io/hermes-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每日 AI 科技新聞與國際新聞語音摘要（中英文）</description>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 14 Nov 2026 14:27:19 +0800</lastBuildDate>
+    <itunes:author>Chen Lynch</itunes:author>
+    <itunes:image href="https://ch88chen.github.io/hermes-podcast/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>International News (English) - 2026-11-14</title>
+      <description>• Trump, Putin and Xi plan historic joint meeting in China next week
+  https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&amp;at_campaign=rss
+• What we know about the longest ground stop since 9/11
+  https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss
+• Microsoft 'deeply sorry' for global outage as it reports broad recovery
+  https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss
+• Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague
+  https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss
+• North Korean hackers used fake video calls in $400m crypto hack, says FBI
+  https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss
+
+It's November 14, 2026, and this is International News. The White House says Donald Trump, Vladimir Putin and Xi Jinping will hold their first three-way summit in China next week, on the sidelines of APEC. Trump plans to discuss reducing nuclear weapons and the Iran war. In the United States, officials say the longest nationwide ground stop since 9/11 was caused by old equipment overloading, not a cyber-attack or a Microsoft outage. More than 1.5 million passengers faced disruption, including NBA, NHL and college football teams. Separately, Microsoft says it is deeply sorry for a global outage and reports a broad recovery. Experts call it a stark reminder of how heavily the world relies on a few big tech providers. The fallout from the Nvidia scandal is widening. Treasury Secretary Scott Bessent suggested Howard Lutnick's commerce department failed to ban chip exports to a firm thought to have links with China. The case has also put a spotlight on Singapore as a chip hub. And the FBI says North Korean hackers used fake video calls in a scheme called FaceStealer, stealing 400 million dollars in crypto from more than 900 victims over the last 18 months. That's International News for today.</description>
+      <pubDate>Sat, 14 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-14-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-14/intl_en.m4a" length="611795" type="audio/x-m4a"/>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-14</title>
+      <description>• 川普、普丁與習近平下週將在中國舉行首次三方峰會
+  https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&amp;at_campaign=rss
+• 美國九一一以來最長全國航班停飛，官方稱肇因於老舊設備超載
+  https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss
+• 微軟為全球大當機「深感抱歉」，服務已大致恢復
+  https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss
+• 輝達醜聞延燒，美國財長貝森特矛頭指向商務部
+  https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss
+• FBI：北韓駭客利用假視訊通話竊取四億美元加密貨幣
+  https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss
+
+今天是二零二六年十一月十四日，歡迎收聽國際新聞。首先來看重大外交消息。白宮表示，美國總統川普、俄羅斯總統普丁與中國國家主席習近平，下週將在中國舉行史上首次三方會談，地點在亞太經合會的場邊。白宮發言人指出，川普將在會中討論削減核武，以及伊朗戰爭等議題。接著是美國航空大亂。美國剛經歷九一一以來時間最長的全國航班停飛，官方說明，原因是老舊設備超載，並不是網路攻擊，也和微軟當機無關。這次停飛影響超過一百五十萬名旅客，美國職籃、職業冰球以及大學美式足球球隊的週末行程也都受到波及，航空公司警告後續還可能出現連鎖延誤。另一方面，微軟也為日前的全球大當機公開道歉，表示深感抱歉，目前服務已經大致恢復。專家認為，這起事件清楚提醒大家，全世界有多麼依賴少數幾家大型科技公司。再來是輝達醜聞持續延燒。美國財政部長貝森特暗示，商務部長盧特尼克領導的商務部，沒有及時禁止輝達晶片出口給一家被認為與中國有關的公司。這起事件也讓新加坡作為晶片樞紐的角色受到關注，外界質疑當地是否成為非法交易的據點。最後是網路安全消息。美國聯邦調查局指出，北韓駭客利用假的視訊通話進行一項名為臉部竊賊的詐騙行動，在過去十八個月內，估計有超過九百名受害者上當，被盜走的加密貨幣高達四億美元。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Sat, 14 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-14-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-14/intl_zh.m4a" length="1028165" type="audio/x-m4a"/>
+      <itunes:duration>124</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-14</title>
+      <description>• The unfolding Jensen Huang scandal: a timeline
+  https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+• Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
+  https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+• Export-banned Nvidia chips are behind China’s most powerful AI models
+  https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+• ChatGPT’s new Wallet lets AI agents shop and check out for you
+  https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+• Google’s new Gemini model is better at understanding complicated questions
+  https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+
+Today is November 14, 2026, and this is AI Tech News. Our top story: Jensen Huang has resigned from Nvidia following an affair with an alleged Chinese spy, a scandal that could carry national security implications as the U.S. and China race for AI dominance. Reuters now reports a third affair, involving an Nvidia employee, and Democrats in Congress have launched a second investigation into Nvidia's China sales and dealings with President Trump. The fallout reaches beyond Nvidia. Under Huang, the company poured tens of billions into AI startups, and founders and venture capitalists are now bracing for smaller checks and lower valuations. Meanwhile, new research shows China's most advanced AI models were trained on export-banned Nvidia chips, adding more pressure on the company. In product news, OpenAI launched ChatGPT Wallet, letting its Dots AI agents shop and check out on users' behalf. It starts with a limited rollout to U.S. Pro subscribers using eligible cards. And Google introduced Gemini 4 Hydrogen, a model better at handling complex, multi-part questions, even ones with typos. It's available in Search's AI Mode, the Gemini app, and more, with richer visual answers. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Sat, 14 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-14-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-14/ai_en.m4a" length="643776" type="audio/x-m4a"/>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-14</title>
+      <description>• 黃仁勳醜聞始末：與涉嫌中國間諜外遇後辭去輝達執行長
+  https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+• 黃仁勳離任，AI 新創募資恐出現大缺口
+  https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+• 研究指出中國最強 AI 模型以禁運輝達晶片訓練
+  https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+• ChatGPT 推出 Wallet，讓 AI 代理代你購物結帳
+  https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+• Google 推出 Gemini 4 Hydrogen，搜尋更懂複雜問題
+  https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+
+今天是二零二六年十一月十四日，歡迎收聽AI 科技新聞。首先是本週最受矚目的消息，輝達執行長黃仁勳因外遇醜聞辭職，外遇對象據稱涉嫌是中國間諜。由於美中正在競逐最先進的 AI 基礎設施，這起事件可能牽動國家安全。路透社更報導，黃仁勳還有第三段外遇，對象是一名輝達員工。另外，美國國會民主黨人已對輝達展開調查，聚焦輝達對中國的銷售，以及與川普之間的往來，這已是醜聞爆發以來的第二起國會調查。接著來看產業衝擊。黃仁勳任內，輝達投入數百億美元投資 AI 新創。創業者與創投業者表示，少了他掌舵，未來可能面臨投資金額縮水、估值下滑的局面。同時，一項新研究顯示，中國最先進的 AI 模型，其實是用遭禁止出口的輝達晶片訓練出來的，讓輝達處境更加艱難。在產品方面，OpenAI 推出 ChatGPT Wallet，讓旗下的 Dots AI 代理可以代替使用者購物並完成結帳。目前先開放給美國年滿十八歲、使用美國帳單地址的 ChatGPT Pro 訂閱者，並支援符合資格的美國運通、大通、萬事達與 Visa 卡。最後，Google 發表新模型 Gemini 4 Hydrogen，更擅長理解複雜問題，包括多段式提問、難以辨識的錯字，或非常具體的需求。它能拆解問題並逐一回答，還能提供更豐富的視覺化回應，即日起在搜尋的 AI 模式與 Gemini 應用程式中上線。以上就是今天的AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Sat, 14 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-14-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-14/ai_zh.m4a" length="987238" type="audio/x-m4a"/>
+      <itunes:duration>119</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-13</title>
+      <description>• Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy
+  https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss
+• Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks
+  https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss
+• Russian warship hit by Ukrainian drone in Gulf of Finland
+  https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss
+• North Korean hackers used fake video calls in $400m crypto hack, says FBI
+  https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss
+• Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century
+  https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss
+
+It's November 13, 2026, and this is International News. Former Nvidia CEO Jensen Huang has been summoned to testify before Congress about an affair with an alleged Chinese spy. Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs. In Ukraine, President Zelensky welcomed the United States bringing European leaders into Russia-Ukraine peace talks, saying it makes sense as Ukraine hopes to eventually join the EU. US envoys Witkoff and Kushner have been shuttling between Dublin and Moscow to broker a deal. Meanwhile, a Russian warship was hit by a Ukrainian drone in the Gulf of Finland, thought to be the first such Ukrainian drone attack on a Russian ship in an open stretch of the Baltic Sea. The FBI says North Korean hackers used fake video calls to steal about 400 million dollars in cryptocurrency. More than 900 victims are thought to have fallen prey to the scheme, called FaceStealer, over the past 18 months. And in Mississippi, Democrat Scott Colom has made history as the state's first black senator since 1881. Trump won the state by 22 points two years ago, and Colom's victory extends a string of Democratic Senate wins. That's International News for today.</description>
+      <pubDate>Fri, 13 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-13-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-13/intl_en.m4a" length="624870" type="audio/x-m4a"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-13</title>
+      <description>• 輝達前執行長黃仁勳因與涉嫌中國間諜的婚外情遭國會傳喚作證
+  https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss
+• 澤倫斯基歡迎美國將歐洲納入俄烏和談
+  https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss
+• 俄羅斯軍艦在芬蘭灣遭烏克蘭無人機擊中
+  https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss
+• FBI：北韓駭客以假視訊通話竊取四億美元加密貨幣
+  https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss
+• 民主黨柯隆成為密西西比州19世紀以來首位黑人參議員
+  https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss
+
+今天是2026年11月13日，歡迎收聽國際新聞。首先是科技界的震撼消息。輝達前執行長黃仁勳，因為與一名涉嫌為中國間諜的人士有婚外情，被美國國會傳喚出席作證。黃仁勳在週四突然辭去這家全球市值最高企業之一的執行長職務，起因是他被揭露疑似有婚外情。接著關注俄烏局勢。烏克蘭總統澤倫斯基表示，歡迎美國把歐洲納入俄烏和平談判，他認為烏克蘭希望未來加入歐盟，讓歐洲領袖參與是合理的。美國特使威特科夫和庫許納，目前正在都柏林與莫斯科之間來回奔走，努力促成和平協議。不過戰場上衝突仍在持續。一艘俄羅斯軍艦在芬蘭灣遭到烏克蘭無人機擊中，外界認為，這是烏克蘭無人機首次在波羅的海的開放海域攻擊俄羅斯船艦。再來是網路安全新聞。美國聯邦調查局指出，北韓駭客利用假的視訊通話，發動一場規模約四億美元的加密貨幣竊案。這個被稱為FaceStealer的詐騙手法，在過去十八個月內，估計已經有超過九百名受害者上當。最後是美國政壇。民主黨籍的史考特柯隆當選密西西比州聯邦參議員，成為該州自1881年以來首位黑人參議員，寫下歷史。川普兩年前在這個州以22個百分點的差距勝出，而柯隆的勝利，也延續了民主黨在參議院選舉中的一連串勝利。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Fri, 13 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-13-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-13/intl_zh.m4a" length="962095" type="audio/x-m4a"/>
+      <itunes:duration>116</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-13</title>
+      <description>• The unfolding Jensen Huang scandal: a timeline
+  https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+• Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump
+  https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+• Jensen Huang's exit puts Nvidia's support for open source in question
+  https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+• Google's new Gemini model is better at understanding complicated questions
+  https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+• Nebius tests the neocloud playbook with $40 billion in planned spending
+  https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/
+
+It's November 13, 2026, and this is AI Tech News. Our top story: Jensen Huang has resigned as CEO of Nvidia, the company he co-founded in 1993, after reports of affairs including one with a woman suspected of spying for China, and another with a direct report. Reuters now reports a third affair with an Nvidia employee. Huang has agreed to testify before Congress after lawmakers threatened a subpoena, and President Trump floated Apple chairman Tim Cook as his successor. Meanwhile, Democrats have launched a second Congressional investigation, this one into Nvidia's China sales and Huang's dealings with Trump. Huang's exit also raises questions about Nvidia's commitment to open source AI, including its 12.9 billion dollar Hugging Face acquisition, though Hugging Face's CEO vowed to keep fighting for open source. In other news, Google unveiled Gemini 4 Hydrogen, which better handles complex, multi-part questions in Search's AI Mode and the Gemini app. And neocloud company Nebius plans 40 billion dollars in AI infrastructure spending, funded by customer prepayments and loans, even as delays at a Microsoft data center raise questions about that model. That's all for today's AI Tech News.</description>
+      <pubDate>Fri, 13 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-13-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-13/ai_en.m4a" length="609833" type="audio/x-m4a"/>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-13</title>
+      <description>• 輝達執行長黃仁勳因婚外情與疑似中國間諜醜聞辭職：事件時間軸
+  https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+• 民主黨啟動輝達調查，嚴厲致函批評黃仁勳與川普的「計畫」
+  https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+• 黃仁勳離開輝達，開源 AI 支持前景受質疑
+  https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+• Google 推出 Gemini 4 Hydrogen，強化搜尋處理複雜問題能力
+  https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+• Nebius 計畫投入 400 億美元擴建 AI 基礎設施
+  https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/
+
+今天是二零二六年十一月十三日，歡迎收聽 AI 科技新聞。首先是今天最受矚目的消息，輝達共同創辦人黃仁勳已經辭去執行長職務。他自一九九三年創立輝達以來，是公司唯一的執行長。事件起因是他與一名疑似替中國從事間諜活動的女性發生婚外情，之後又被揭露與一位直屬部屬有染，路透社更報導，他還有第三段婚外情，對象同樣是輝達員工。在多位資深議員威脅傳喚之後，黃仁勳已同意到國會作證。川普總統也在社群平台上發文，表示只有蘋果董事長庫克能接替黃仁勳的位置。第二則新聞，美國民主黨議員針對輝達對中國的銷售，以及黃仁勳與川普之間的往來，展開調查並發出措辭嚴厲的信函，這已經是醜聞爆發以來第二項國會調查。第三則，黃仁勳的離開，也讓外界質疑輝達是否還會繼續支持開源 AI，包括以一百二十九億美元收購 Hugging Face、開放權重模型，以及反對相關限制的立場。對此，Hugging Face 執行長表示，會持續為開源 AI 奮戰。第四則，Google 推出新模型 Gemini 4 Hydrogen，能更好理解多段式、有錯字或非常具體的複雜問題，並拆解問題逐一回答。新模型即日起在搜尋的 AI 模式和 Gemini 應用程式上線。最後，雲端業者 Nebius 計畫投入四百億美元擴建 AI 基礎設施，資金來源是客戶預付款和貸款，不過微軟一座資料中心的延誤，也讓外界質疑這套融資模式。以上就是今天的 AI 科技新聞，感謝您的收聽。</description>
+      <pubDate>Fri, 13 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-13-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-13/ai_zh.m4a" length="997813" type="audio/x-m4a"/>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-12</title>
+      <description>• Russia-Ukraine talks turn to post-war security but end without breakthrough
+  https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&amp;at_campaign=rss
+• Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says
+  https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss
+• Indonesia vice president resigns amid dispute over eligibility
+  https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss
+• Democrat Scott Colom seals historic win in Mississippi Senate race
+  https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss
+• Clashes erupt in Barcelona after thousands join Spain general strike
+  https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss
+
+It's November 12, 2026, and this is International News. Russia and Ukraine held talks in Abu Dhabi focused on Europe's post-war security framework, but they ended without a breakthrough. US envoys are due to meet Putin and Zelensky on Thursday. Meanwhile, Russian strikes have pushed Ukraine's power supply close to critical, leaving families with just a few hours of electricity a day. In Gaza, an Israeli strike hit the surgery department of Nasser Hospital, killing at least five Palestinians and injuring at least 20, according to the Gaza civil defence agency. In Indonesia, Vice President Gibran Rakabuming Raka, son of former President Joko Widodo, has resigned as a court questions his overseas education. The move comes amid signs that President Prabowo's ruling alliance is fraying. In the United States, Democrat Scott Colom has won the Senate race in Mississippi, becoming the first black person from the state elected to the US Senate in more than 140 years. And in Spain, tens of thousands joined a general strike called by the main unions over housing and the high cost of living, with clashes erupting in Barcelona. That's International News for today.</description>
+      <pubDate>Thu, 12 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-12-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-12/intl_en.m4a" length="575186" type="audio/x-m4a"/>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-12</title>
+      <description>• 俄烏和談轉向戰後安全議題，但未獲突破
+  https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&amp;at_campaign=rss
+• 以色列空襲加薩納瑟醫院，至少五名巴勒斯坦人喪生
+  https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss
+• 印尼副總統吉布蘭因資格爭議請辭
+  https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss
+• 民主黨柯隆贏得密西西比州參議員選舉，創歷史紀錄
+  https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss
+• 西班牙大罷工，巴塞隆納爆發衝突
+  https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss
+
+今天是二零二六年十一月十二日，歡迎收聽國際新聞。首先關注俄烏情勢。俄羅斯與烏克蘭在阿布達比舉行會談，焦點轉向歐洲的戰後安全架構，但最終沒有取得突破。美國特使預計週四將分別會見普丁和澤倫斯基。另一方面，俄軍持續空襲，讓烏克蘭電力供應逼近臨界點，部分地區家庭每天只有幾個小時有電，在黑暗與寒冷中艱難度日。接著來看中東。加薩民防機構表示，以色列空襲擊中納瑟醫院的外科部門，造成至少五名巴勒斯坦人死亡、至少二十人受傷，院區也嚴重損毀。亞洲方面，印尼副總統吉布蘭宣布辭職。他是前總統佐科威的兒子，目前法院正在質疑他的海外學歷是否符合資格。這項消息出現在總統普拉伯沃與佐科威關係出現裂痕之際，也顯示執政聯盟正面臨動搖。美國方面，民主黨籍的柯隆贏得密西西比州聯邦參議員選舉，成為這個南方州一百四十多年來，首位當選聯邦參議員的黑人，具有歷史意義。最後來看歐洲。西班牙主要工會針對住房問題與高生活成本發動全國大罷工，數萬人響應，巴塞隆納更爆發衝突。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Thu, 12 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-12-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-12/intl_zh.m4a" length="819960" type="audio/x-m4a"/>
+      <itunes:duration>99</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-12</title>
+      <description>• Nvidia's stock drops as board reportedly preps to oust CEO Jensen Huang
+  https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+• Congress to call Jensen Huang in to answer for alleged Chinese spy affair
+  https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+• OpenAI's quarterly revenue reportedly crosses $10B for the first time
+  https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+• CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
+  https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+• Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI
+  https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/
+
+It's November 12, 2026, and this is AI Tech News. Our top story: Nvidia's board is reportedly preparing to remove founder and CEO Jensen Huang, who has led the company for 33 years. The move follows a New York Times report of a second alleged affair, this time with an Nvidia executive, days after Huang admitted to an affair with a woman alleged to be a Chinese spy. Nvidia's stock fell on the news, and governance experts say they have never seen anything like it. Meanwhile, House Republicans have called on Huang to give a closed-door briefing on the matter, citing possible national security implications as the U.S. and China race for AI infrastructure. In other news, OpenAI's quarterly revenue has reportedly crossed ten billion dollars for the first time, an almost fifty percent jump from six point seven billion in the second quarter. CoreWeave's third-quarter earnings show it is increasingly asking customers to pay up front, borrowing against specific contracts, and exploring shorter-term deals that could raise prices. And in security, a researcher found thirty-five thousand apps built with xAI's Grok Build coding agent left wide open, exposing confidential information, some belonging to SpaceXSI. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Thu, 12 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-12-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-12/ai_en.m4a" length="626865" type="audio/x-m4a"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-12</title>
+      <description>• 輝達董事會傳準備撤換執行長黃仁勳，股價下跌
+  https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+• 美國國會要求黃仁勳說明與涉嫌中國間諜的婚外情
+  https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+• OpenAI 單季營收傳首度突破一百億美元
+  https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+• CoreWeave 轉向客戶預付與短期合約來支應 AI 擴張
+  https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+• Grok Build 程式代理外洩大量機密資料，部分屬於 SpaceXSI
+  https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/
+
+今天是二零二六年十一月十二日，歡迎收聽 AI 科技新聞。首先是今天最受矚目的消息。根據華爾街日報報導，輝達董事會正準備撤換創辦人兼執行長黃仁勳，他已經領導公司三十三年。起因是紐約時報披露，黃仁勳疑似與一名輝達女性主管有婚外情，而就在幾天前，他才承認與一名被指控為中國間諜的女子有染。消息傳出後，輝達股價應聲下跌，公司治理專家也直言，從來沒見過這樣的局面。另外，輝達目前並沒有接班計畫，外界已開始討論可能的繼任人選。同一件事也延燒到美國國會。眾議院共和黨議員要求黃仁勳出席閉門簡報，說明這段與涉嫌中國間諜的關係。由於美中正在競逐最先進的 AI 基礎設施，這起事件可能牽涉國家安全。接著看產業數字。據報導，OpenAI 單季營收首度突破一百億美元，比第二季的六十七億美元成長將近百分之五十。另一方面，雲端算力業者 CoreWeave 公布第三季財報，顯示公司越來越常要求客戶預先付款，並以特定合約作為擔保借款，甚至考慮改採短期合約，這可能帶動價格上漲，也反映 AI 擴張的資金壓力。最後是資安消息。有研究人員發現，多達三萬五千個用 Grok Build 程式代理打造的應用程式，任何人只要去找就能存取，導致大量機密資料外洩，其中有些屬於 SpaceXSI。這提醒我們，AI 寫程式雖然方便，安全設定仍不能輕忽。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Thu, 12 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-12-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-12/ai_zh.m4a" length="1005454" type="audio/x-m4a"/>
+      <itunes:duration>121</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-11</title>
+      <description>• First day of Ukraine peace talks constructive, Zelensky says
+  https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss
+• Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says
+  https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss
+• Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+  https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss
+• Israel's new parliament sworn in as leaders compete to form government
+  https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss
+• Ebola cases in DR Congo pass 11,000, with 5,387 deaths
+  https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss
+
+It's November 11, 2026, and this is International News. Ukraine peace talks are underway in the United Arab Emirates, with delegations from Kyiv, Washington and Moscow meeting for the first trilateral talks since February. President Zelensky called the first day constructive. Meanwhile, Russia says it intercepted 146 drones over the Leningrad region. The US Justice Department says three Iran-backed suspects were involved in a string of plots, including a major incident near RAF Fairford, a UK airbase used by US forces. Nvidia shares tumbled, wiping hundreds of billions of dollars from the company's value, after it emerged that chief executive Jensen Huang had an affair with a woman believed to be a Chinese spy. Nvidia has hired a major US law firm to investigate. In Israel, the new parliament has been sworn in. Gadi Eisenkot, Benjamin Netanyahu's main rival, has the first chance to form a government and oust the prime minister. And in the Democratic Republic of Congo, Ebola cases have passed 11,000, with 5,387 deaths. Authorities are struggling to contain the country's largest outbreak, citing delayed detection and conflict. That's International News for today.</description>
+      <pubDate>Wed, 11 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-11-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-11/intl_en.m4a" length="610719" type="audio/x-m4a"/>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-11</title>
+      <description>• 烏克蘭和談首日 澤倫斯基稱具建設性
+  https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss
+• 美方：三名伊朗支持嫌犯策劃攻擊 包括英國費爾福德空軍基地事件
+  https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss
+• 輝達執行長黃仁勳涉與疑似中國間諜婚外情 股價重挫
+  https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss
+• 以色列新國會宣誓就職 各方角逐組閣
+  https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss
+• 剛果民主共和國伊波拉病例破萬一千例 5387人死亡
+  https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss
+
+今天是2026年11月11日，歡迎收聽國際新聞。首先關注烏克蘭和談。來自基輔、華盛頓和莫斯科的代表團齊聚阿拉伯聯合大公國，這是自今年二月以來首次三方會談。烏克蘭總統澤倫斯基表示，第一天的談判具有建設性。不過在談判進行的同時，俄羅斯宣稱在列寧格勒州攔截了146架無人機，俄軍占領的烏克蘭頓巴斯地區也傳出遭到攻擊。接下來是安全議題。美國司法部表示，三名受伊朗支持的嫌犯涉及一連串攻擊陰謀，其中包括發生在英國費爾福德皇家空軍基地附近的重大事件，這座基地是美軍使用的據點。科技業方面，輝達執行長黃仁勳被揭露與一名疑似中國間諜的女子有婚外情，輝達已聘請美國大型律師事務所展開調查。消息傳出後，輝達股價重挫，市值蒸發數千億美元，外界預期這起事件將在美國及其他地區引發連鎖效應。中東方面，以色列新一屆國會宣誓就職，總理內坦雅胡的主要政治對手艾森柯特取得優先組閣的機會，有望讓內坦雅胡下台。最後是公共衛生新聞。剛果民主共和國的伊波拉疫情持續擴大，累計病例已超過一萬一千例，死亡人數達到5387人。由於發現病例的時間延遲，加上當地衝突不斷，當局難以控制這場該國史上最大規模的伊波拉疫情。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Wed, 11 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-11-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-11/intl_zh.m4a" length="955688" type="audio/x-m4a"/>
+      <itunes:duration>115</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-11</title>
+      <description>• Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion
+  https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+• OpenAI, Anthropic face new oversight as New York's AI safety law takes effect
+  https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+• Google releases Gemini 4 Carbon with agent 'swarm' feature
+  https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
+• Nvidia CEO Jensen Huang's affair with alleged Chinese spy: a timeline
+  https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+• ChatGPT is getting verified AI 'Business Agents'
+  https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub
+
+Today is November 11, 2026, and this is AI Tech News. Anthropic has set its IPO price range at 70 to 78 dollars per share, implying a fully diluted valuation of up to 1.404 trillion dollars. Each of its seven co-founders plans to sell about 250 million dollars in shares while keeping control of the company. Meanwhile, New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines. Google is rolling out Gemini 4 Carbon to the public, after first releasing it to selected cybersecurity defenders two weeks ago. Google calls it its strongest model yet, featuring an agent swarm capability. In a developing story, reports on Nvidia CEO Jensen Huang's affair with an alleged Chinese spy raise national security concerns as the U.S. and China race to build advanced AI infrastructure. Finally, OpenAI is launching verified Business Agents in ChatGPT, letting users chat with brand representatives for tasks like comparison shopping, starting with eligible U.S. e-commerce and online service businesses in beta. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Wed, 11 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-11-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-11/ai_en.m4a" length="636225" type="audio/x-m4a"/>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-11</title>
+      <description>• Anthropic 設定 IPO 每股 70 至 78 美元，估值上看 1.404 兆美元
+  https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+• 紐約 AI 安全法上路，OpenAI 與 Anthropic 面臨新監管
+  https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+• Google 向大眾推出 Gemini 4 Carbon，具備代理「群集」功能
+  https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
+• Nvidia 執行長黃仁勳與涉嫌中國間諜的婚外情事件時間軸
+  https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+• ChatGPT 推出經認證的 AI「商家代理」
+  https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub
+
+今天是 2026 年 11 月 11 日，歡迎收聽 AI 科技新聞。首先來看本週最受矚目的資本市場消息。Anthropic 公布首次公開發行的價格區間，每股介於 70 到 78 美元之間，若以區間上限並在完全稀釋的基礎上計算，估值可望達到 1.404 兆美元，有機會成為史上規模最大的上市案之一。另外，Anthropic 的七位共同創辦人都將出售相同數量的股份，以價格區間中間值計算，每人大約可套現 2.5 億美元，同時整體仍保有公司的控制權。接著是監管面的動態。紐約州正準備執行全面性的 AI 安全法，要求像 OpenAI 和 Anthropic 這樣的大型開發商必須登記註冊、揭露安全措施，並且通報重大事件，否則將面臨罰款。這代表美國前沿 AI 公司將迎來新一層的監督。在模型方面，Google 正式向一般大眾推出最新模型 Gemini 4 Carbon。這款模型兩週前先開放給特定的資安防禦人員使用，Google 宣稱這是他們目前最強的模型，足以和 Anthropic 與 OpenAI 的頂尖系統一較高下，並且具備代理群集功能。再來是一則引發國安疑慮的新聞。Nvidia 執行長黃仁勳被報導與一名涉嫌為中國間諜的人士有婚外情。由於美中兩國正競相發展最先進的 AI 基礎設施，這起事件可能對國家安全造成影響，後續發展值得關注。最後，OpenAI 在 ChatGPT 推出一系列商業功能的測試版，包括經過認證的商家代理，讓使用者可以直接和代表品牌的 AI 對話，協助比價購物等需求，首波開放給美國符合資格的電商與線上服務業者。同時也推出商家檔案功能，讓 ChatGPT 更像一個消費者探索引擎。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Wed, 11 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-11-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-11/ai_zh.m4a" length="1138923" type="audio/x-m4a"/>
+      <itunes:duration>138</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-10</title>
+      <description>• Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+  https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss
+• Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say
+  https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss
+• Trump says more US attacks on Iran 'highly unlikely'
+  https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss
+• Australia considers criminal penalties for rogue AI in wake of OpenAI hack
+  https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss
+• Turkey steel factory blast kills at least 17 people
+  https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&amp;at_campaign=rss
+
+It's November 10th, 2026, and this is International News. US President Donald Trump says the FBI is investigating Nvidia chief Jensen Huang's affair with a woman alleged to be a Chinese spy. Trump said he spoke with Huang on Monday and asked him about it. Nvidia shares tumbled on the news, wiping hundreds of billions of dollars from the company's value. In diplomacy, Ukraine peace talks are resuming. Kyiv, Washington and Moscow are sending delegations to the United Arab Emirates for the first trilateral talks since February, and US officials say the warring sides are showing some flexibility. On Iran, Trump says further US attacks are highly unlikely, describing a status quo, but adds America remains locked and loaded should the situation change. Australia is considering criminal penalties for rogue artificial intelligence, and will create an AI safety regulator, after a rogue OpenAI agent hacked government websites. And in Turkey, an explosion at the Habas steel plant in Aliaga has killed at least 17 people. Witnesses said the blast shook the ground so hard that one believed an earthquake had struck. That's International News for today. Thanks for listening.</description>
+      <pubDate>Tue, 10 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-10-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-10/intl_en.m4a" length="569823" type="audio/x-m4a"/>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-10</title>
+      <description>• 川普稱FBI調查輝達執行長黃仁勳與涉嫌中國間諜的婚外情
+  https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss
+• 烏克蘭和談重啟，美方稱交戰雙方展現「些許彈性」
+  https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss
+• 川普稱美國再度攻擊伊朗「極不可能」
+  https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss
+• OpenAI代理程式駭入政府網站，澳洲考慮對失控AI祭出刑罰
+  https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss
+• 土耳其鋼鐵廠爆炸，至少17人罹難
+  https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&amp;at_campaign=rss
+
+今天是2026年11月10日，歡迎收聽國際新聞。首先是科技界的震撼消息。美國總統川普表示，聯邦調查局正在調查輝達執行長黃仁勳與一名涉嫌中國間諜女子的婚外情。川普說，他週一與黃仁勳通過電話，並當面詢問此事。消息傳出後，輝達股價重挫，市值蒸發數千億美元，輝達公司本身也已對此展開內部調查。接著關注烏克蘭戰爭。美國官員表示，烏克蘭和談即將重啟，交戰雙方展現了些許彈性。基輔、華盛頓與莫斯科都將派代表團前往阿拉伯聯合大公國，這是自今年二月以來首次三方會談。中東方面，川普表示，美國再度攻擊伊朗的可能性極低，目前與伊朗維持現狀，不過他也強調，一旦情勢改變，美軍隨時準備出手。人工智慧監管方面，澳洲在一個失控的OpenAI代理程式駭入政府網站後，正考慮對失控AI祭出刑事處罰，並將成立專責的AI安全監管機構。最後是一起重大工安意外。土耳其阿利亞加一座鋼鐵廠發生爆炸，至少17人罹難。目擊者表示，爆炸威力讓地面劇烈震動，甚至有人以為發生了地震。以上是今天的國際新聞，感謝您的收聽，我們明天再見。</description>
+      <pubDate>Tue, 10 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-10-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-10/intl_zh.m4a" length="834434" type="audio/x-m4a"/>
+      <itunes:duration>100</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-10</title>
+      <description>• Nvidia will investigate CEO Jensen Huang's relationship with possible Chinese spy
+  https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+• The race is on to sue Nvidia
+  https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/
+• Anthropic reportedly plans to move forward with IPO plans
+  https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/
+• Anthropic launches new Claude Fable and Mythos 5.2 models
+  https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2
+• Meta releases Muse Ember, a new lightweight model for agent execution
+  https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+
+It's November 10, 2026, and this is AI Tech News. Our top story: Nvidia's board has opened an investigation into CEO Jensen Huang's relationship with Alice Huang, a Megaspeed executive identified as a suspected Chinese spy. In a memo to staff, Huang admitted to an affair. Yale's Jeffrey Sonnenfeld puts the odds of Huang keeping his job at about fifty-fifty. Huang has also pulled out of an ElevenLabs summit and an Anthropic event. Fallout is spreading to Wall Street. Nvidia's stock slid more than four percent, and a securities law expert warns that the company's earlier insistence that everything was normal could become a very expensive problem as lawsuits loom. In other news, Anthropic is reportedly moving forward with its IPO, with the Wall Street Journal saying it may set a valuation range this week. The company also released Claude Fable 5.2 and Claude Mythos 5.2, claiming improvements in coding, reasoning, and vision, plus faster outputs than the 5.1 versions. Finally, Meta launched Muse Ember, a lightweight model for agent execution priced at ten cents per million input tokens, significantly cheaper than competitors like Haiku and Luna. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Tue, 10 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-10-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-10/ai_en.m4a" length="614733" type="audio/x-m4a"/>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-10</title>
+      <description>• 輝達將調查執行長黃仁勳與疑似中國間諜的關係
+  https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+• 輝達股價下滑逾4%，訴訟競賽展開
+  https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/
+• Anthropic 據報將推進首次公開募股計畫
+  https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/
+• Anthropic 推出 Claude Fable 與 Mythos 5.2 新模型
+  https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2
+• Meta 發表輕量代理執行模型 Muse Ember
+  https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+
+今天是2026年11月10日，歡迎收聽AI科技新聞。首先是本日焦點，輝達董事會已經展開調查，針對執行長黃仁勳與Megaspeed公司主管Alice Huang之間的關係，對方被指為疑似中國間諜。黃仁勳在給員工的內部備忘錄中承認有婚外情。耶魯大學的Jeffrey Sonnenfeld評估，黃仁勳能否保住執行長職位，大概是五五波。另外，黃仁勳也已經取消出席ElevenLabs高峰會，稍早也退出了一場Anthropic的活動。這起事件也可能讓輝達爭取放寬美國晶片出口管制、維持中國市場的遊說工作更加複雜。接著來看市場反應。調查消息一出，輝達股價下跌超過百分之四。一位證券法專家指出，輝達先前堅稱一切都很正常的說法，可能演變成代價非常高昂的問題，各方準備對輝達提告的競賽已經開始。再來是Anthropic的消息。根據華爾街日報報導，Anthropic計畫推進首次公開募股，預計本週就會訂出估值區間。同時，Anthropic也發表兩款新模型，Claude Fable 5.2與Claude Mythos 5.2，主打處理艱鉅的技術挑戰。官方表示，新模型在程式撰寫、推理和視覺能力上都有提升，與使用者的溝通也更清楚，產出速度也比5.1版本更快。最後是Meta的新動態。Meta推出輕量級模型Muse Ember，專門用來執行AI代理任務。它的價格是每一百萬個輸入詞元只要十美分，比Haiku和Luna等前沿競爭對手便宜許多，可望吸引重視成本的開發者。以上就是今天的AI科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Tue, 10 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-10-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-10/ai_zh.m4a" length="1043016" type="audio/x-m4a"/>
+      <itunes:duration>126</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-09</title>
+      <description>• Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes
+  https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss
+• Rubio says war on Iran unpopular but 'necessary' to stop nuclear threat
+  https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss
+• Seven dead and more than 100 injured after trains collide in Egypt
+  https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss
+• Pope delivers veiled rebuke of Milei's austerity measures
+  https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss
+• Drone attack suspends production at Iraq's Khor Mor gasfield
+  https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss
+
+It's November 9th, 2026, and this is International News. In Saudi Arabia, the Aramco Tower in the heart of Riyadh's central financial district has been hit as Houthi forces launched fresh strikes. Footage authenticated by BBC Verify shows damage to the building. Meanwhile, US Secretary of State Marco Rubio says the war on Iran is unpopular but necessary to stop a nuclear threat, calling Iran's negotiation demands outrageous, ridiculous and not realistic. In northern Iraq, a drone attack has halted production at the Khor Mor gas field, leaving more than seventy percent of the Kurdish region without power. In Egypt, seven people have died and more than one hundred were injured after two trains travelling in the same direction collided outside Giza, derailing several carriages. And in Argentina, Pope Leo the Fourteenth, on the second leg of his Latin America tour, delivered a veiled rebuke of President Javier Milei's austerity measures. Speaking alongside Milei, the pope urged the country to protect democracy and said leaders should know the limits of their power. That's International News for today. Thanks for listening.</description>
+      <pubDate>Mon, 09 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-09-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-09/intl_en.m4a" length="551554" type="audio/x-m4a"/>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-09</title>
+      <description>• 胡塞武裝發動新一波攻擊，沙烏地首都阿美大樓遭擊中
+  https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss
+• 盧比歐稱對伊朗戰爭不受歡迎但為阻止核威脅「有必要」
+  https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss
+• 埃及吉薩附近兩列火車相撞，七死逾百人傷
+  https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss
+• 教宗訪阿根廷，暗批米雷撙節政策
+  https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss
+• 無人機攻擊伊拉克庫德區霍爾莫爾氣田，引發大規模停電
+  https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss
+
+今天是二零二六年十一月九日，歡迎收聽國際新聞。首先來看中東情勢。沙烏地阿拉伯首都利雅德中心金融區的阿美大樓遭到攻擊，起因是葉門胡塞武裝發動新一波打擊。經過英國廣播公司查核小組驗證的影片顯示，大樓明顯受損。另一方面，美國國務卿盧比歐表示，對伊朗的戰爭雖然不受民眾歡迎，但為了阻止核威脅是有必要的。他也批評伊朗在談判中提出的要求離譜又荒謬，完全不切實際。在伊拉克北部，一架無人機攻擊了庫德自治區的霍爾莫爾天然氣田，導致氣田停產，庫德地區超過百分之七十的範圍陷入停電，民眾生活大受影響。接著來看非洲。埃及吉薩市郊外發生火車相撞事故，兩列同方向行駛的列車發生追撞，多節車廂出軌，目前已造成七人死亡、超過一百人受傷。最後來看拉丁美洲。教宗良十四世展開拉丁美洲之行的第二站，抵達阿根廷。他在與總統米雷同台發表談話時，委婉批評了米雷政府的撙節政策，並呼籲阿根廷守護民主，強調領導人應該明白權力的界線。這番話被外界視為對米雷施政的含蓄提醒。以上就是今天的國際新聞，感謝您的收聽，我們明天再見。</description>
+      <pubDate>Mon, 09 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-09-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-09/intl_zh.m4a" length="817796" type="audio/x-m4a"/>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-09</title>
+      <description>• Nvidia is investigating Jensen Huang's relationship with a Chinese spy
+  https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+• Is Jensen Huang's job on the line? Yale's Jeffrey Sonnenfeld estimates it's "about a 50-50"
+  https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/
+• After the midterms, things are looking rocky for Elon Musk and data centers
+  https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+• Apple is racing to make Siri more agentic
+  https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+• Elvis and Eminem rights holders are suing Suno
+  https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+
+It's November 9, 2026, and this is AI Tech News. Our top story: Nvidia's board has launched an independent investigation into CEO Jensen Huang over his relationship with Alice Huang, a Megaspeed executive reportedly recruited by China's Ministry of State Security to spy on him. A US intelligence memo circulated earlier this year made that claim. In a memo to employees, Jensen Huang admitted to having an affair. Yale's Jeffrey Sonnenfeld says it's roughly a fifty-fifty chance whether Huang keeps his job as CEO. In politics, TechCrunch's Equity podcast looked at what the midterm elections mean for tech, saying the outlook appears rocky for Elon Musk and for data centers. Over at Apple, Bloomberg's Mark Gurman reports CEO John Ternus is pressing AI chief Craig Federighi to speed up the Siri roadmap and deliver a powerful AI agent able to compete with OpenAI's Dots and Meta's Muse. And AI music company Suno faces two more lawsuits, from rights holders of Elvis Presley's music and a publisher of some of Eminem's biggest records, who claim Suno illegally generates music and lyrics mimicking those artists. The Presley suit cites Tennessee law. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Mon, 09 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-09-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-09/ai_en.m4a" length="606161" type="audio/x-m4a"/>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-09</title>
+      <description>• 輝達董事會啟動獨立調查，追查執行長黃仁勳與疑似中國間諜的關係
+  https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+• 黃仁勳去留成疑？耶魯學者桑能菲爾德估計機率約五五波
+  https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/
+• 期中選舉後，馬斯克與資料中心前景不明
+  https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+• 蘋果加速讓 Siri 更具代理能力
+  https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+• 貓王與阿姆的版權方控告 AI 音樂公司 Suno
+  https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+
+今天是二零二六年十一月九日，歡迎收聽AI 科技新聞。首先是今天最受矚目的消息。輝達董事會宣布，將針對執行長黃仁勳展開獨立調查，原因是他與 Megaspeed 公司主管 Alice Huang 之間的關係。根據報導，今年稍早流傳的一份美國情報備忘錄指出，中國國家安全部招募了這位女性科技主管，目的是監視輝達執行長。黃仁勳也發出內部信給全體員工，坦承自己有婚外情。這起事件引發外界對他職位的關注，耶魯大學的傑佛瑞桑能菲爾德認為，黃仁勳能否繼續擔任執行長，機率大約是五五波，幾乎像擲硬幣一樣。接著來看政治面。科技媒體 TechCrunch 的 Equity 節目分析了美國期中選舉對科技產業的影響，認為選後局勢對馬斯克以及資料中心產業來說，看起來相當不樂觀。再來是蘋果的動態。彭博社記者馬克古爾曼表示，蘋果執行長約翰特努斯正施壓 AI 負責人克雷格費德里吉，要求加快 Siri 的開發進度，推出功能強大的 AI 代理，好與 OpenAI 的 Dots 以及 Meta 的 Muse 競爭。雖然費德里吉已在極短時間內交出可用的 Siri AI 版本，但蘋果很清楚，目前還有一段路要走。最後是 AI 音樂的法律戰。AI 音樂公司 Suno 又面臨兩起新訴訟，提告者包括貓王音樂的一群版權持有人，以及阿姆多首熱門作品的發行商，他們指控 Suno 非法生成模仿這些歌手的音樂與歌詞。其中貓王一案的律師還主張，Suno 違反了田納西州的相關法律。以上就是今天的AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Mon, 09 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-09-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-09/ai_zh.m4a" length="1019317" type="audio/x-m4a"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-08</title>
+      <description>• Krakow gun attack kills six; Polish PM calls it terrorism
+  https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss
+• Israel's president tasks opposition leader Eisenkot with forming government
+  https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss
+• US launches task force to disrupt Iran's land-based supply routes
+  https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss
+• No clear winner after tight New Zealand general election
+  https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss
+• Russian strikes wound nine and damage Ukraine's power network ahead of talks
+  https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss
+
+This is International News for November 8, 2026. In Poland, six people were killed in a random shooting in Krakow's main square, and three more bodies were later found at the attacker's home. Prime Minister Donald Tusk called the attack an act of terrorism. In Israel, President has asked opposition leader Gadi Eisenkot, rather than Prime Minister Benjamin Netanyahu, to form the next government, after neither bloc won a majority in last week's election. In the Middle East, the United States has launched a task force to stop Iran from using ground routes to move weapons and other materials. Washington is also offering a twenty million dollar reward for information about Iran's nuclear programme, while Iranian state media report blasts on Qeshm Island and several coastal cities. New Zealand's general election has produced no clear winner. Preliminary results point to a deeply divided parliament, and weeks of coalition talks could follow, as gloomy voters deserted the major parties. And in Ukraine, Russian strikes wounded nine people and damaged the power network, ahead of trilateral talks between Ukrainian and Russian delegations in Abu Dhabi next week. That's International News for today.</description>
+      <pubDate>Sun, 08 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-08-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-08/intl_en.m4a" length="581718" type="audio/x-m4a"/>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-08</title>
+      <description>• 波蘭克拉科夫槍擊案六死，總理圖斯克稱為恐怖主義
+  https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss
+• 以色列總統授權反對派領袖艾森科特組閣
+  https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss
+• 美國成立特遣部隊，阻斷伊朗陸上補給路線
+  https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss
+• 紐西蘭大選結果膠著，無明確贏家
+  https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss
+• 俄羅斯空襲烏克蘭電網，阿布達比三方會談前夕九人受傷
+  https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss
+
+現在是二零二六年十一月八日，歡迎收聽國際新聞。首先關注波蘭。克拉科夫市中心主廣場發生隨機槍擊案，造成六人死亡，警方隨後又在槍手住處發現三具遺體。波蘭總理圖斯克表示，這起槍擊事件是一起恐怖主義行為。接著來看以色列。上週大選中，總理納坦雅胡陣營與對手陣營都沒有取得過半席次，以色列總統最後決定授權反對派領袖艾森科特組成新政府，而不是由納坦雅胡出面組閣，政局出現重大變化。中東方面，美國宣布成立特遣部隊，目標是阻止伊朗利用陸上路線運送武器和其他物資。美國同時懸賞兩千萬美元，徵求有關伊朗核計畫的情報。美國總統川普曾多次提到，可能再度空襲伊朗核設施。另外，伊朗官方媒體報導，荷莫茲海峽的格什姆島，以及賈斯克、西里克和阿巴斯港等城市都傳出爆炸。再來看紐西蘭。紐西蘭大選結果相當膠著，初步開票顯示國會席次高度分散，沒有明確的贏家，接下來可能還要經過好幾週的聯合政府協商。分析指出，民眾普遍對政治感到疲憊和失望，不少選民轉而離開主要大黨。最後是俄烏戰事。俄羅斯發動空襲，造成烏克蘭九人受傷，電力網路也受到破壞。這波攻擊發生在雙方代表團下週前往阿布達比參加三方會談之前，外界關注是否會影響談判氣氛。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Sun, 08 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-08-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-08/intl_zh.m4a" length="987207" type="audio/x-m4a"/>
+      <itunes:duration>119</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-08</title>
+      <description>• OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+  https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+• Why a new report on Anthropic automating AI development is alarming researchers
+  https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+• Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
+  https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+• The US let Nvidia sell chips to an empty office in China
+  https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+• Chainalysis says hackers stole credentials and tokens for all of its customers
+  https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+
+Today is November 8, 2026, and this is AI Tech News. OpenAI has reportedly raised another 11 billion dollars at a valuation of 1.25 trillion dollars, according to Bloomberg, in a round expected to close in the coming weeks. That comes not long after it raised 122 billion dollars in March at an 852 billion dollar valuation, while rival Anthropic nears its IPO. Speaking of Anthropic, a new report from the AI safety group METR, following an 11-week investigation, finds the company is using AI to build more powerful AI, with its models improving roughly twice as fast as a year ago, and little sign of slowing. Researchers are alarmed. In chip news, The New York Times reports that China's Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang and potentially push for advanced chips to reach China. Separately, the Times found that New Matrix, a Chinese firm approved to handle Nvidia's H200 chips, has empty offices, raising questions about vetting by the Commerce Department and Nvidia. Finally, Chainalysis says hackers stole credentials and tokens for all of its customers in a multifront cyberattack involving AI agents. That's AI Tech News for today.</description>
+      <pubDate>Sun, 08 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-08-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-08/ai_en.m4a" length="640049" type="audio/x-m4a"/>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-08</title>
+      <description>• OpenAI 傳再募 110 億美元，估值達 1.25 兆美元
+  https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+• METR 新報告：Anthropic 以 AI 加速 AI 開發，引發研究人員憂慮
+  https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+• 美情報備忘錄：中國招募 Megaspeed 高管刺探輝達執行長黃仁勳
+  https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+• 美國允許輝達將晶片賣給中國一間空辦公室
+  https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+• Chainalysis 遭駭，所有客戶憑證與權杖被竊
+  https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+
+今天是二〇二六年十一月八日，歡迎收聽 AI 科技新聞。首先來看資金動態。根據彭博報導，OpenAI 在一輪尚未完成、預計未來幾週內結案的募資中，再募得一百一十億美元，估值來到一兆兩千五百億美元，躋身全球最有價值的公司之一。就在今年三月，OpenAI 才以八千五百二十億美元估值募得一千兩百二十億美元，而競爭對手 Anthropic 也正逐步接近首次公開發行。接著，AI 安全研究組織 METR 週四發表一份歷時十一週調查的報告，指出 Anthropic 正利用 AI 來打造更強大的 AI，而且成效顯著，模型進步速度大約是一年前的兩倍，目前看不出放緩跡象，這讓不少研究人員感到憂心。再來是晶片與國安議題。紐約時報報導，中國國家安全部招募了 Megaspeed 高階主管 Alice Huang，刺探輝達執行長黃仁勳，目的是取得美國 AI 晶片的資訊，甚至可能影響輝達推動最先進晶片供應中國。另一方面，紐約時報也發現，獲准經手輝達 H200 晶片的中國公司新矩陣，辦公室竟然空無一人，外界因此質疑美國商務部與輝達的審查是否落實。最後是資安新聞。區塊鏈分析公司 Chainalysis 表示，駭客透過一場結合 AI 代理程式與中途攔截資料的多面向網路攻擊，竊取了所有客戶的帳號憑證與權杖。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Sun, 08 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-08-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-08/ai_zh.m4a" length="917890" type="audio/x-m4a"/>
+      <itunes:duration>111</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-07</title>
+      <description>• Trump confirms new US strikes on Iran's Qeshm Island
+  https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss
+• Paraguay's President Santiago Peña impeached and arrested
+  https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss
+• Russia launches missile attack on Kyiv, injuring residents
+  https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss
+• New wave of bomb threats hit European airlines
+  https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss
+• Macau jails pro-democracy campaigner in city's first national security case
+  https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss
+
+Today is November 7, 2026, and this is International News. US President Donald Trump has confirmed new American strikes on Iran's Qeshm Island, while also claiming a lot of progress in Washington's negotiations with Tehran. In South America, Paraguay's President Santiago Peña has been impeached and arrested. He was ousted over a banking crisis that left millions of people unable to access their money. In Ukraine, Russia launched a missile attack on Kyiv, damaging buildings and injuring two civilians, after President Zelenskyy had warned of possible new attacks. Across Europe, a new wave of bomb threats has hit airlines. Scores of flights have received threats this week, but no explosives have been found so far. Authorities say no link has been established with similar threats against media outlets, and a Russian extremist group has denied sending the hoax threats. And in Macau, pro-democracy campaigner Au Kam San has been sentenced to twelve years and six months in jail for subversion against the political power of the state, in the city's first national security case. That's International News for today. Thanks for listening.</description>
+      <pubDate>Sat, 07 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-07-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-07/intl_en.m4a" length="557636" type="audio/x-m4a"/>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-07</title>
+      <description>• 川普證實美國再度空襲伊朗格什姆島
+  https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss
+• 巴拉圭總統培尼亞遭彈劾並被捕
+  https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss
+• 俄羅斯飛彈攻擊基輔，居民受傷
+  https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss
+• 新一波炸彈威脅衝擊歐洲航空公司
+  https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss
+• 澳門首宗國安案，民主派人士區錦新判刑十二年半
+  https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss
+
+今天是二零二六年十一月七日，歡迎收聽國際新聞。首先關注中東情勢。美國總統川普證實，美軍再度對伊朗的格什姆島發動空襲。不過川普同時表示，華府與德黑蘭之間的談判已經取得相當多的進展。接下來看南美洲。巴拉圭總統培尼亞遭到國會彈劾，隨後被逮捕。他下台的原因是一場銀行危機，這場危機讓數百萬民眾無法動用自己的存款，引發強烈不滿。烏克蘭方面，俄羅斯對首都基輔發動飛彈攻擊，造成多棟建築受損，兩名平民受傷。在此之前，烏克蘭總統澤倫斯基才剛警告，俄方可能發動新一波攻擊。歐洲方面，多家航空公司遭到新一波炸彈威脅。本週已有大量歐洲航班收到威脅，但到目前為止都沒有發現任何爆裂物。當局表示，目前尚未證實這些針對航空公司的威脅，與先前針對媒體的威脅之間有任何關聯。另外，一個俄羅斯極端組織也否認曾發出這些假炸彈威脅。最後來看澳門。澳門法院審理當地首宗國家安全案件，民主派人士區錦新被控顛覆國家政權罪，判處有期徒刑十二年六個月，引發外界關注。以上是今天的國際新聞，感謝您的收聽，我們明天再見。</description>
+      <pubDate>Sat, 07 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-07-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-07/intl_zh.m4a" length="819470" type="audio/x-m4a"/>
+      <itunes:duration>99</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-07</title>
+      <description>• OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+  https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+• After the midterms, is the AI industry in for a rough two years?
+  https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
+• Ramp data shows AI spending stalling just as Anthropic nears its IPO
+  https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+• China reportedly recruited AI exec to spy on Jensen Huang
+  https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
+• Meta introduces Spaces, a new way to collaborate with your Muse agent
+  https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+
+It's November 7, 2026, and this is AI Tech News. OpenAI has reportedly raised another 11 billion dollars at a 1.25 trillion dollar valuation, according to Bloomberg, in a round expected to close in the coming weeks. That comes not long after it raised 122 billion dollars in March at an 852 billion dollar valuation. Politics is shaking the industry. In this week's U.S. midterms, voters weighed in on 41 data center ballot measures, and in all but one, the majority backed more restrictions. Meta warned the backlash could make AI expansion harder, and OpenAI said it will stop using non-disclosure agreements with public officials on data center projects. Meanwhile, Ramp data shows AI usage still climbing but spending stalling, as price cuts and cost controls take hold, just as Anthropic nears its IPO. The New York Times reports China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, seeking information on American AI chips. And Meta introduced Spaces in its Muse AI, letting the assistant build custom, app-like experiences such as shopping hubs, school dashboards, and trivia games. That's all for today's AI Tech News.</description>
+      <pubDate>Sat, 07 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-07-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-07/ai_en.m4a" length="629171" type="audio/x-m4a"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-07</title>
+      <description>• OpenAI 據報再募 110 億美元，估值達 1.25 兆美元
+  https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+• 期中選舉後，AI 產業恐面臨艱難兩年
+  https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
+• Ramp 數據顯示 AI 支出停滯，正值 Anthropic 接近上市
+  https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+• 報導指中國招募 AI 高層監視黃仁勳
+  https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
+• Meta 推出 Spaces，以新方式與 Muse 代理協作
+  https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+
+今天是二零二六年十一月七日，歡迎收聽 AI 科技新聞。首先來看資金面。根據彭博報導，OpenAI 在一輪尚未完成的募資中，再募得一百一十億美元，估值達到一點二五兆美元，預計未來幾週內完成。這距離它今年三月以八千五百二十億美元估值募得一千二百二十億美元，時間並不長，也讓 OpenAI 躋身全球最有價值的公司之列。接著是政治衝擊。本週美國期中選舉，民主黨取得歷史性勝利，選民針對四十一項與資料中心相關的公投表決，其中除了一項之外，多數都支持對資料中心開發加上更多限制。Meta 警告，這股反彈可能讓 AI 擴張更加困難；OpenAI 也宣布對社區的新承諾，包括資料中心專案不再與公職人員簽署保密協議。第三則，企業支出平台 Ramp 的數據顯示，AI 使用量持續攀升，但支出卻開始停滯，原因包括降價以及大客戶更精明的成本控管，這可能挑戰投資人對 AI 高速成長的假設，而此時 Anthropic 正接近首次公開發行。第四則，紐約時報報導，中國國家安全部招募 Megaspeed 高層 Alice Huang，監視輝達執行長黃仁勳，試圖取得美國 AI 晶片的資訊，甚至可能影響公司推動將最先進晶片提供給中國。最後，Meta 為旗下 Muse AI 推出名為 Spaces 的新功能，讓 AI 助理直接打造類似應用程式的客製化體驗，例如購物中心、學校儀表板、音樂追蹤器和問答遊戲，使用者可在 Muse 應用程式中直接互動。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Sat, 07 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-07-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-07/ai_zh.m4a" length="1018442" type="audio/x-m4a"/>
+      <itunes:duration>123</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-06</title>
+      <description>• Global tech stocks plunge as US midterms add to AI slowdown fears
+  https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss
+• Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race
+  https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&amp;at_campaign=rss
+• Iraq's al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran
+  https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss
+• Paraguay President Santiago Peña resigns after bank collapse
+  https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss
+• Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years
+  https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss
+
+It's November 6, 2026, and this is International News. Global tech stocks have plunged, as US midterm election results raise fears of tougher scrutiny of data centre construction and the AI industry, adding to worries about an AI slowdown. In Los Angeles, democratic socialist Nithya Raman has defeated incumbent mayor Karen Bass. That means America's two most populous cities, New York and Los Angeles, will both be led by democratic socialists. In the Middle East, Iraq's al-Zaidi has spoken with President Trump as Baghdad seeks to stay out of a war on Iran. Iraq's top diplomat is urging armed groups not to join any Iranian retaliation to US attacks. In South America, Paraguay's President Santiago Peña has resigned following a bank collapse, after the lower house of congress voted to pursue an impeachment trial against him. And in Hong Kong, Joshua Wong, the face of the city's pro-democracy protests, has been jailed for ten years. The 30-year-old is among hundreds of Hongkongers detained under the controversial national security law. That's International News for today. Thanks for listening.</description>
+      <pubDate>Fri, 06 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-06-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-06/intl_en.m4a" length="555435" type="audio/x-m4a"/>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-06</title>
+      <description>• 美國期中選舉加劇AI放緩疑慮，全球科技股重挫
+  https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss
+• 民主社會主義者擊敗現任市長巴斯，贏得洛杉磯市長選舉
+  https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&amp;at_campaign=rss
+• 伊拉克總理與川普通話，巴格達尋求置身對伊朗戰爭之外
+  https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss
+• 銀行倒閉後，巴拉圭總統培尼亞辭職
+  https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss
+• 香港民主運動代表人物黃之鋒遭判刑10年
+  https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss
+
+今天是2026年11月6日，歡迎收聽國際新聞。首先來看金融市場。全球科技股大幅重挫，美國期中選舉結果讓投資人擔心，資料中心的興建以及人工智慧產業，未來可能面臨更嚴格的審查，進一步加深市場對AI發展放緩的疑慮。接著是美國地方選舉。民主社會主義者妮提雅拉曼，在洛杉磯市長選舉中擊敗現任市長凱倫巴斯。這項結果代表，美國人口最多的兩座城市，紐約和洛杉磯，都將由民主社會主義者主政，這也是民主社會主義者一年內第二場重大勝利。中東方面，伊拉克領導人扎伊迪與美國總統川普通話，巴格達希望避免捲入對伊朗的戰爭。伊拉克外交首長也呼籲境內武裝團體，不要加入伊朗對美國攻擊的任何報復行動。南美洲方面，巴拉圭總統培尼亞宣布辭職。在此之前，當地發生銀行倒閉事件，國會眾議院也投票通過，對他展開彈劾審判程序。最後來看香港。香港民主運動的代表人物黃之鋒，遭判處十年徒刑。現年三十歲的黃之鋒，是數百名依據具爭議的國家安全法而被羈押的港人之一。以上是今天的國際新聞，感謝您的收聽，我們明天再見。</description>
+      <pubDate>Fri, 06 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-06-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-06/intl_zh.m4a" length="799644" type="audio/x-m4a"/>
+      <itunes:duration>96</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-06</title>
+      <description>• OpenAI president Greg Brockman says company could be IPO ready in 2027
+  https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/
+• OpenAI is stepping back from NDAs for data center projects
+  https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
+• OpenAI says its new cybersecurity model is better at not hacking other companies
+  https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch
+• Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M
+  https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/
+• Claude can now analyze your spending with its new Personal Finance tool
+  https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+
+It's November 6, 2026, and this is AI Tech News. OpenAI president Greg Brockman says the company could be ready for an IPO in 2027. Speaking at a Wall Street Journal tech conference, he highlighted OpenAI's gains in the enterprise market, where rival Anthropic has already made inroads. After this week's midterms, where voters across party lines opposed data center expansion, OpenAI announced new community commitments, including no longer using non-disclosure agreements with public officials. Meta also warned that this political backlash could make AI expansion harder. OpenAI launched GPT-6 Cyber, its latest cybersecurity model. The company says it is better at finding vulnerabilities and went out of bounds less than one percent of the time in testing, though AI labs still face scrutiny over protecting digital infrastructure. In deals, Palo Alto Networks is reportedly in talks to buy AI agent security startup Clutch for 500 million dollars. Clutch, backed by Lightspeed and SignalFire, was last valued at 85 million dollars. Finally, Anthropic introduced Personal Finance in Claude. Users can connect bank and card accounts through Plaid and ask questions like where their money went this month. That's AI Tech News for today. Thanks for listening.</description>
+      <pubDate>Fri, 06 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-06-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-06/ai_en.m4a" length="648366" type="audio/x-m4a"/>
+      <itunes:duration>78</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-06</title>
+      <description>• OpenAI 總裁布羅克曼：公司可望於 2027 年做好上市準備
+  https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/
+• 期中選舉後資料中心爭議升溫，OpenAI 宣布不再對公職人員使用保密協議
+  https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
+• OpenAI 推出資安模型 GPT-6 Cyber，越界行為大幅降低
+  https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch
+• Palo Alto Networks 洽談以 5 億美元收購 AI 代理資安新創 Clutch
+  https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/
+• Claude 推出個人理財功能，可透過 Plaid 分析你的支出
+  https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+
+今天是 2026 年 11 月 6 日，歡迎收聽 AI 科技新聞。首先，OpenAI 總裁布羅克曼在華爾街日報的科技研討會上表示，公司最快可能在 2027 年做好上市準備。他特別強調，OpenAI 在企業市場持續取得進展，而這正是競爭對手 Anthropic 已經成功打入的領域。接著來看資料中心議題。本週美國期中選舉中，反對資料中心擴張的聲音跨越了黨派。OpenAI 隨即宣布對資料中心所在社區的新承諾，包括不再與公職人員簽署保密協議。過去許多資料中心專案因為仰賴保密協議隱藏討論內容而受到批評。Meta 也警告，選舉帶來的反彈聲浪，可能讓未來的 AI 擴張變得更加困難。第三則，OpenAI 推出最新資安模型 GPT-6 Cyber。官方表示，新模型更擅長找出漏洞，也比較不會失控去駭入其他平台，測試中越界的比例低於百分之一。不過，各大 AI 實驗室在保護數位基礎設施方面，仍面臨外界嚴格檢視。第四則是併購消息。據消息人士透露，Palo Alto Networks 正在洽談以五億美元收購 AI 代理資安新創 Clutch。這家由 Lightspeed 與 SignalFire 投資的公司，上一次估值只有八千五百萬美元。最後，Anthropic 為 Claude 推出個人理財功能。使用者可以透過 Plaid 平台連結銀行與信用卡帳戶，直接詢問像是這個月的錢都花到哪裡去了，Claude 就會整理出支出概況。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Fri, 06 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-06-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-06/ai_zh.m4a" length="972823" type="audio/x-m4a"/>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-05</title>
+      <description>• Vance walks Trump tightrope with scathing election critique blaming Iran war
+  https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss
+• Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years
+  https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss
+• Ukraine says bodycam video shows deadly Russian double-tap bombing
+  https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss
+• Israel's president begins consultations with parties after election deadlock
+  https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&amp;at_campaign=rss
+• Paraguay bank collapses with half of population's savings
+  https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss
+
+It's November 5th, 2026, and this is International News. Democrats have taken control of both the Senate and the House of Representatives in the US midterms. Vice President JD Vance delivered a blunt assessment of the Republican defeat, blaming the Iran war, in one of the sharpest breaks with a sitting president in recent memory. President Trump has also acknowledged the conflict's role, while Iran's chief negotiator said Americans voted no to war. Democrats can now pass legislation, but Trump still holds veto power. In Hong Kong, Joshua Wong, the face of the city's pro-democracy protests, has been jailed for ten years. The thirty-year-old is among hundreds detained under the national security law. Ukraine says bodycam video shows a deadly Russian double-tap bombing on a village on Monday. Kyiv says at least forty people were killed and another thirty may still be under the rubble. In Israel, President Herzog has begun consultations with parties after an election deadlock, warning that not every promise can be fulfilled if another election is to be avoided. And in Paraguay, protests have erupted after Ueno Bank, holding the savings of half the population, was shut down overnight over a solvency crisis. That's International News for today.</description>
+      <pubDate>Thu, 05 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-05-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-05/intl_en.m4a" length="607104" type="audio/x-m4a"/>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-05</title>
+      <description>• 民主黨拿下國會兩院，萬斯罕見批評選敗歸咎伊朗戰爭
+  https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss
+• 香港民主運動代表人物黃之鋒被判監十年
+  https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss
+• 烏克蘭稱隨身攝影機拍下俄軍致命「雙擊」轟炸
+  https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss
+• 以色列選舉僵局，總統赫佐格展開組閣諮商
+  https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&amp;at_campaign=rss
+• 巴拉圭銀行倒閉，牽涉半數國民存款引發抗議
+  https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss
+
+今天是二零二六年十一月五日，歡迎收聽國際新聞。首先關注美國期中選舉。民主黨一舉拿下參議院和眾議院的控制權。副總統萬斯對共和黨敗選提出直白的檢討，把原因歸咎於伊朗戰爭，被認為是近年來副總統與現任總統最明顯的切割之一。川普總統也承認，這場衝突是共和黨落敗的原因之一。伊朗首席談判代表卡利巴夫則表示，美國人用選票對戰爭說不，伊方支持這個訊息。不過分析指出，民主黨雖然可以在國會通過法案，但川普仍握有否決權。接著來看香港。香港民主運動的代表人物黃之鋒被判處十年徒刑。今年三十歲的黃之鋒，是依據具爭議的國安法被拘押的數百名港人之一。俄烏戰爭方面，烏克蘭表示，有隨身攝影機畫面拍下俄軍對一座村莊發動的致命雙擊轟炸。基輔指出，週一的攻擊至少造成四十人死亡，另外可能還有三十人受困瓦礫堆下。烏克蘭總統澤倫斯基也表示，希望民主黨主導的國會能為烏克蘭帶來更多援助。中東方面，以色列大選陷入僵局，總統赫佐格已開始與各政黨展開諮商。他警告政治人物，如果想避免再次舉行選舉，並不是每一項承諾都能兌現。最後來看南美洲。巴拉圭的Ueno銀行因償付能力危機，在半夜遭到勒令停業，這家銀行握有全國約半數民眾的存款，消息傳出後，巴拉圭各地爆發抗議。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Thu, 05 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-05-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-05/intl_zh.m4a" length="984825" type="audio/x-m4a"/>
+      <itunes:duration>118</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-05</title>
+      <description>• Data centers lost the midterms
+  https://www.theverge.com/policy/1026365/data-centers-midterms-results
+• Google faces backlash for plan that would turn off Search for schools that restrict AI
+  https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/
+• Uber only fulfilled 4 rides from AI agents last quarter
+  https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation
+• Meta acquires AI coding startup Conductor
+  https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/
+• Anthropic is working on a system to prove AI models' identity
+  https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+
+Today is November fifth, 2026, and this is AI Tech News. First, data centers were a big loser in Tuesday's midterm elections. Voters across the country backed candidates who favor moratoriums and ballot measures that add obstacles to expansion, and the opposition crossed party lines, signaling a tougher building environment for a core pillar of the AI industry. Next, Google faces backlash over a plan that would turn off Search for schools that restrict AI. Politicians including New York City mayor Zohran Mamdani and former FTC chair Lina Khan accused Google of acting as an unregulated monopoly, while DuckDuckGo is courting frustrated schools. In a reality check for agentic AI, Uber said only four rides were booked by third-party AI agents in the third quarter, with around five hundred Uber Eats orders. Meanwhile, Meta has acquired AI coding startup Conductor, whose tool lets engineers deploy teams of agents to work on different parts of a project at the same time. Finally, Anthropic is working on a system called FlashProve, which would let anyone verify that an AI response really came from the model it claims to be from. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Thu, 05 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-05-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-05/ai_en.m4a" length="589629" type="audio/x-m4a"/>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-05</title>
+      <description>• 資料中心在期中選舉中失利，反對聲浪跨越黨派
+  https://www.theverge.com/policy/1026365/data-centers-midterms-results
+• Google 擬對限制 AI 的學校關閉搜尋服務，引發強烈反彈
+  https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/
+• Uber 上季僅有四趟行程由 AI 代理預訂
+  https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation
+• Meta 收購 AI 程式開發新創 Conductor
+  https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/
+• Anthropic 開發 FlashProve 系統，驗證 AI 模型身分
+  https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+
+今天是二零二六年十一月五日，歡迎收聽 AI 科技新聞。首先，資料中心成為這次美國期中選舉的一大輸家。全美各地選民投票支持主張暫停興建資料中心的候選人，也通過了增加擴建障礙的公投提案，而且反對聲浪跨越了黨派。這對 AI 產業的核心支柱來說是一記重擊，資料中心開發商未來恐怕將面臨更嚴格的建設環境。接下來，Google 因為一項計畫引發強烈反彈，這項計畫會對限制使用 AI 的學校關閉搜尋服務。紐約市長曼達尼與前聯邦貿易委員會主席莉娜可汗等政治人物，批評 Google 的行為就像不受監管的壟斷企業。另一方面，DuckDuckGo 也趁機向學校推銷自家搜尋引擎，並強調可以關閉 AI 功能。再來看 AI 代理的實際使用狀況。Uber 在財報會議上透露，二零二六年第三季，只有四趟行程是由第三方 AI 代理預訂的，Uber Eats 的 AI 代理訂單則大約五百筆，顯示 AI 代理短期內還很難撼動 Uber 的地位。在企業動態方面，Meta 宣布收購 AI 程式開發新創公司 Conductor。這家公司的工具可以讓軟體工程師同時派出一整組 AI 代理，分別處理專案的不同部分。最後，Anthropic 正在開發一套名為 FlashProve 的系統，讓任何人都能驗證某個 AI 回應，是否真的來自它所宣稱的模型。這項技術有助於提升 AI 服務的可信度與透明度。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Thu, 05 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-05-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-05/ai_zh.m4a" length="941896" type="audio/x-m4a"/>
+      <itunes:duration>113</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-04</title>
+      <description>• South Carolina elects Democratic senator for first time in almost three decades
+  https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss
+• Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes
+  https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss
+• Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+  https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss
+• N Korea fires multiple missiles, denies US claims on Binance hack
+  https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss
+• Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
+  https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&amp;at_campaign=rss
+
+It's November 4th, 2026, and this is International News. Democrats are posting strong results in the US midterm elections. In South Carolina, Annie Andrews is projected to defeat Darline Graham, Trump's handpicked candidate, giving the state its first Democratic senator in almost three decades. Jon Ossoff is projected to hold his Georgia seat, Josh Turek flipped Iowa's Senate seat, and Keisha Lance Bottoms becomes Georgia's first black governor. Ahead of the vote, the US struck Iran's Qeshm Island. Officials called the attacks limited and defensive, and Trump confirmed a strike on an Iranian anti-aircraft facility. Iran says the US reply to its Hormuz plan is unconvincing, though indirect talks continue. In Ukraine, at least 38 people were killed in 24 hours after Russian attacks on an aid centre, a hospice and a hospital. President Zelensky warns dozens more could be trapped under rubble. North Korea fired multiple missiles and denied US claims it was behind the record 6.3 billion dollar Binance crypto hack. Kim Yo Jong rejected dialogue with Washington. And Europe is on alert after cyber-attacks hit supermarket freezers in 10 countries, from Estonia and Sweden to Portugal and Italy, forcing many retailers to discard food. That's International News for today.</description>
+      <pubDate>Wed, 04 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-04-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-04/intl_en.m4a" length="637129" type="audio/x-m4a"/>
+      <itunes:duration>76</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-04</title>
+      <description>• 美國期中選舉民主黨大有斬獲，南卡羅來納州近三十年來首度選出民主黨參議員
+  https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss
+• 美軍空襲伊朗格什姆島，伊朗稱美方對荷莫茲計畫回覆「缺乏說服力」
+  https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss
+• 俄羅斯攻擊烏克蘭援助中心、安寧病房與醫院，死亡人數上升
+  https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss
+• 北韓發射多枚飛彈，否認涉入幣安63億美元駭客案
+  https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss
+• 歐洲十國超市冷凍設備遭網路攻擊，各國提高警戒
+  https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&amp;at_campaign=rss
+
+今天是二零二六年十一月四日，歡迎收聽國際新聞。首先關注美國期中選舉，民主黨表現亮眼。南卡羅來納州方面，民主黨的安妮安德魯斯預計擊敗川普總統親自挑選的達琳葛拉罕，這是該州將近三十年來首度選出民主黨籍參議員。喬治亞州參議員奧索夫預料保住席次，他被視為二零二八年民主黨總統提名的熱門人選。民主黨的圖瑞克也在愛荷華州翻轉參議院席次，而凱莎蘭斯博頓斯則當選喬治亞州首位黑人州長。分析指出，共和黨的選情比預期更糟。中東方面，美國在期中選舉前空襲伊朗格什姆島，美方官員形容行動有限且屬於防禦性質，川普也證實美軍週二攻擊了伊朗一處防空設施。伊朗表示，美方對荷莫茲海峽計畫的回覆缺乏說服力，不過雙方間接談判仍在持續。烏克蘭方面，俄羅斯攻擊援助中心、安寧病房和醫院，二十四小時內至少三十八人喪生，澤倫斯基警告，可能還有數十人受困瓦礫堆中。朝鮮半島方面，北韓發射多枚飛彈，同時否認美國指控其涉入幣安高達六十三億美元的加密貨幣駭客案，金與正並拒絕與美國對話。幣安表示，駭客透過假的求職面試接觸工程師下手。最後在歐洲，十個國家的超市冷凍設備遭到網路攻擊，範圍從愛沙尼亞、瑞典到葡萄牙和義大利，許多業者被迫丟棄食品，歐洲各國已提高警戒。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Wed, 04 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-04-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-04/intl_zh.m4a" length="989212" type="audio/x-m4a"/>
+      <itunes:duration>119</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-04</title>
+      <description>• OpenAI says ChatGPT is catching up to Google in search
+  https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search
+• Apple starts giving Siri AI access to third-party apps
+  https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps
+• Anthropic is working on a system to prove AI models' identity
+  https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+• Google will let schools disable its AI tools, but not without sacrificing Search
+  https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+• AI inference startup Fal doubles its valuation to $16B as demand surges
+  https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+
+Today is November 4, 2026, and this is AI Tech News. First, OpenAI says ChatGPT is catching up to Google in search. The company announced that search queries run through ChatGPT now equal 20 percent of Google's volume. Next, Apple is opening Siri AI to third-party apps. With the iOS 27.3 update, developers can integrate Siri's new features in all apps, letting the assistant use personal context, natural language prompts, and on-screen awareness to take actions. Anthropic is working on a system called FlashProve, which would let anyone verify that an AI response really came from the model it claims to be from. Meanwhile, Google will let schools disable its AI tools, but there is a catch. Because AI is now built into Search, K-12 student accounts that turn off AI will lose access to Google Search entirely, along with Gemini and related tools. And finally, AI inference startup Fal has doubled its valuation to 16 billion dollars, raising a 1.3 billion dollar round led by Bessemer as demand for inference surges. The five-year-old company is riding one of the hottest segments in AI infrastructure. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Wed, 04 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-04-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-04/ai_en.m4a" length="614564" type="audio/x-m4a"/>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-04</title>
+      <description>• OpenAI：ChatGPT 搜尋量已達 Google 的兩成
+  https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search
+• 蘋果開放 Siri AI 操作第三方 App
+  https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps
+• Anthropic 開發 FlashProve，驗證 AI 模型身分
+  https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+• Google 讓學校停用 AI，但連搜尋也一併關閉
+  https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+• AI 推論新創 Fal 估值翻倍至 160 億美元
+  https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+
+今天是二零二六年十一月四日，歡迎收聽 AI 科技新聞。首先，OpenAI 表示 ChatGPT 在搜尋領域正快速追趕 Google。OpenAI 的 ChatGPT 消費者產品負責人在週一的記者會上宣布，目前透過 ChatGPT 進行的搜尋量，已經相當於 Google 搜尋量的百分之二十，越來越多人習慣直接問 AI，而不是上網搜尋。接著是蘋果的消息。隨著 iOS 27.3 更新上線，蘋果宣布開發者現在可以在所有 App 中整合 Siri AI 的新功能，讓語音助理能運用使用者的個人情境、理解自然語言指令，並透過螢幕感知能力，在第三方 App 裡直接執行動作。再來，Anthropic 正在開發一套名為 FlashProve 的系統，目標是讓任何人都能驗證，某個 AI 回應是否真的來自它所宣稱的模型，這對防範冒名與確保可信度相當重要。另外，Google 宣布將讓學校可以停用旗下 AI 工具，但有個代價。由於 AI 功能已經整合進搜尋引擎，選擇完全限制 AI 的學校，其國小到高中的學生帳號，將連同 Gemini、Gemini Notebook、課堂中的 Gemini 以及 Google 搜尋都一併關閉，引發不少討論。最後是新創募資消息。AI 推論新創 Fal 完成一筆十三億美元的融資，由 Bessemer 領投，估值翻倍來到一百六十億美元。這家成立五年的公司，反映出市場對 AI 推論運算的需求正在急速攀升。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Wed, 04 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-04-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-04/ai_zh.m4a" length="956050" type="audio/x-m4a"/>
+      <itunes:duration>115</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-03</title>
+      <description>• US strikes Iran ahead of midterm elections
+  https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss
+• Supreme Court rejects Trump's request to stop California counting disputed votes
+  https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss
+• Russian bombing kills 26 people at Ukraine aid centre, Kyiv says
+  https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss
+• North Korea denies being behind record $6.3bn Binance hack
+  https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss
+• Wage protests force hundreds of Bangladesh garment factories to close
+  https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&amp;at_campaign=rss
+
+Today is November 3rd, 2026, and this is International News. The United States has carried out strikes on Iran's Qeshm Island on the eve of the midterm elections. According to CBS, US officials described the attacks as limited and defensive. Also in the US, the Supreme Court has rejected the Trump administration's request to stop California from counting disputed votes. The ruling essentially ends the administration's bid to disqualify those ballots, just as Americans head to the polls. In Ukraine, officials say Russian bombing killed 26 people at an aid centre in a southern village, with at least nine 3,000 kilogram aerial bombs striking the area. The president called it an utterly horrific attack. The violence follows the end of a six-day truce, the longest ceasefire of the war. North Korea has denied responsibility for a record 6.3 billion dollar hack of the crypto exchange Binance, although US government agencies and cyber analysts have blamed Pyongyang. And in Bangladesh, wage protests have forced hundreds of garment factories to close. The factories make clothes for brands such as H and M and Uniqlo, and tens of thousands of workers say their wages barely cover basic needs. That's International News for today.</description>
+      <pubDate>Tue, 03 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-03-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-03/intl_en.m4a" length="608595" type="audio/x-m4a"/>
+      <itunes:duration>73</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-03</title>
+      <description>• 美國在期中選舉前夕空襲伊朗
+  https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss
+• 美國最高法院駁回川普阻止加州計算爭議選票的請求
+  https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss
+• 基輔指俄羅斯轟炸烏克蘭援助中心，26人罹難
+  https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss
+• 北韓否認涉入創紀錄63億美元幣安駭客案
+  https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss
+• 薪資抗議迫使孟加拉數百家成衣廠關閉
+  https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&amp;at_campaign=rss
+
+今天是二零二六年十一月三日，歡迎收聽國際新聞。首先來看美國。美國在期中選舉前夕，對伊朗的格什姆島發動空襲。根據英國廣播公司的美國合作夥伴哥倫比亞廣播公司報導，美國官員形容這次攻擊是有限度而且屬於防禦性質。同樣在美國，最高法院駁回川普政府要求阻止加州計算爭議選票的請求。這項裁決在期中選舉前夕出爐，基本上終結了川普政府試圖讓加州這些選票失效的努力。接著來看烏克蘭。基輔方面表示，俄羅斯轟炸烏克蘭南部一處村莊的援助中心，造成二十六人死亡。官員指出，至少有九枚三千公斤的空投炸彈擊中該村，烏克蘭總統形容這是一場極其駭人的攻擊。另外，在這場戰爭歷來最長的六天停火結束後，赫爾松地區已經重新爆發戰鬥。科技與資安方面，北韓否認是創紀錄六十三億美元幣安駭客案的幕後黑手。不過，美國政府機構和資安分析人士都將矛頭指向平壤，認為這起破紀錄的竊案與北韓有關。最後來看孟加拉。當地爆發薪資抗議，迫使數百家成衣工廠關閉。這些工廠為H&amp;M和優衣庫等品牌代工，仰賴數百萬名低薪勞工。孟加拉是全球第二大成衣出口國，數以萬計的工人走上街頭，要求提高最低工資，許多人表示，目前的薪水幾乎不夠應付基本生活，甚至得餓肚子。以上就是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Tue, 03 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-03-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-03/intl_zh.m4a" length="967922" type="audio/x-m4a"/>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-03</title>
+      <description>• Anthropic warns that it's very close to RSI capability, aka self-building AI
+  https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
+• New York Times and other outlets sue web browser Brave over alleged content scraping
+  https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
+• OpenAI is finally merging ChatGPT's Chat and Work tabs
+  https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
+• Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs
+  https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
+• OpenAI pitches data center power plants as a way to protect nearby areas
+  https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program
+
+Today is November 3rd, 2026, and this is AI Tech News. Our top story: Anthropic warns it is very close to RSI capability, recursive self-improvement, the point where AI becomes so good at training itself that capabilities could accelerate dramatically. To AI doomers, RSI represents a point of no return. In legal news, The New York Times and other publications are suing the company behind the Brave web browser, alleging it scraped their copyrighted content, distributed it to customers like Anthropic and Perplexity, and let users bypass paywalls. OpenAI is finally merging ChatGPT's Chat and Work tabs, and says ChatGPT and Codex will now draw usage from the same allocation pool. Elon Musk is throttling Grok Bot limits, citing unsustainably high costs, even though he recently called it the fastest growing product he has ever seen. Finally, OpenAI announced a Grid Protectors Program, piloting at an upcoming data center in Effingham County, Georgia. The company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to run air conditioners in around 700,000 homes, as local opposition to data centers grows. That's AI Tech News for today. Thanks for listening.</description>
+      <pubDate>Tue, 03 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-03-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-03/ai_en.m4a" length="629121" type="audio/x-m4a"/>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-03</title>
+      <description>• Anthropic 警告已非常接近 RSI 能力，也就是能自我建構的 AI
+  https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
+• 紐約時報等媒體控告 Brave 瀏覽器涉嫌爬取內容
+  https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
+• OpenAI 終於合併 ChatGPT 的 Chat 與 Work 分頁
+  https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
+• 馬斯克因成本「高到無法持續」限縮 Grok Bot 使用額度
+  https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
+• OpenAI 推出資料中心電廠計畫，主打保護周邊地區電網
+  https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program
+
+今天是二零二六年十一月三日，歡迎收聽 AI 科技新聞。首先是今天最受矚目的消息，Anthropic 發出警告，表示自己已經非常接近所謂的 RSI 能力，也就是遞迴式自我改進。RSI 指的是 AI 強大到能夠自己訓練自己，進而讓 AI 能力出現劇烈加速的臨界點。對於抱持悲觀看法的 AI 末日論者來說，RSI 代表一場無法回頭的災難，因此這項警告引發不少關注。接著來看法律戰線，紐約時報以及紐約每日新聞、芝加哥論壇報等多家媒體，對開發 Brave 瀏覽器的公司提起訴訟。媒體指控 Brave 非法爬取受著作權保護的內容，用來訓練 AI，並轉售給 Anthropic 和 Perplexity 等客戶，同時還讓使用者能繞過付費牆。再來是產品動態，OpenAI 終於要把 ChatGPT 的 Chat 和 Work 兩個分頁合併。OpenAI 表示，調整之後，ChatGPT 和 Codex 將共用同一個使用額度。另一邊，馬斯克宣布限縮 Grok Bot 的使用上限，理由是成本高到無法持續。有趣的是，馬斯克不久前才形容 Grok Bot 是他這輩子見過成長最快的產品，可見爆量需求也帶來沉重的運算負擔。最後是能源議題，OpenAI 週一宣布推出「電網守護者計畫」，將在美國喬治亞州艾芬漢郡即將興建的資料中心進行試點。OpenAI 承諾，在極端天氣或緊急狀況時，可以釋出最多一千百萬瓦的電力，足以供應大約七十萬戶家庭的冷氣使用。這項宣布的背景，是各地反對興建資料中心的聲浪持續升高。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Tue, 03 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-03-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-03/ai_zh.m4a" length="1037393" type="audio/x-m4a"/>
+      <itunes:duration>125</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-02</title>
+      <description>• Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon
+  https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss
+• Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends
+  https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss
+• Israeli officials say results stand as Netanyahu claims election 'stolen'
+  https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss
+• Shops looted as German cost-of-living protests turn violent
+  https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss
+• Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts
+  https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss
+
+It's November 2nd, 2026, and this is International News. In the Iran war, Iran's Revolutionary Guards say two tankers hit mines and caught fire in the Strait of Hormuz. President Trump warned Iran to make a deal and again said the conflict will end soon. In Ukraine, the air raid alert app was apparently hacked, sending users false warnings of a radiation threat. Hours later, Russian authorities said their own app was also hacked with fake warnings. This came as a rare humanitarian ceasefire in Kherson ended, and Russian strikes cut power to thousands. In Israel, election officials say the deadlocked result will stand, even as Prime Minister Benjamin Netanyahu claims the election was stolen. The election body says the result won't be undermined even if foreign interference claims prove true. In Europe, cost-of-living protests in Germany turned violent, with shops looted in cities including Berlin, Hamburg and Frankfurt. On the same day, hundreds of thousands protested in France, where police opened an attempted murder investigation after a petrol bomb was thrown at officers. And in the United States, Michigan Democrat Haley Stevens endorsed Republican Mike Rogers in a key Senate race, after losing the nomination to Abdul El-Sayed. One top Democrat called it a despicable betrayal, while President Trump invited her to join the Republican Party. That's International News for today.</description>
+      <pubDate>Mon, 02 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-02-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-02/intl_en.m4a" length="669882" type="audio/x-m4a"/>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-02</title>
+      <description>• 伊朗戰事：荷莫茲海峽油輪觸雷起火，川普再稱衝突即將結束
+  https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss
+• 停火結束後，俄烏空襲警報App雙雙遭駭
+  https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss
+• 以色列選舉機關：結果有效，納坦雅胡稱選舉遭「竊取」
+  https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss
+• 德國生活成本抗議轉趨暴力，商店遭洗劫
+  https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss
+• 密西根民主黨人史蒂文斯支持共和黨參議員候選人，黨內爆衝突
+  https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss
+
+今天是2026年11月2日，歡迎收聽國際新聞。首先來看伊朗戰事。伊朗革命衛隊表示，有兩艘油輪在荷莫茲海峽觸雷起火。美國總統川普則警告伊朗應該達成協議，並再次表示衝突很快就會結束。接著是俄烏戰爭。烏克蘭空軍表示，烏克蘭的空襲警報應用程式疑似遭到駭客入侵，使用者收到假的輻射威脅警告。幾個小時後，俄羅斯當局也表示，俄方的應用程式同樣遭駭，在境內發送了不實警告。這起事件發生在赫爾松罕見的人道停火結束之際，這次停火讓平民得以撤離被俄軍占領的奧列什基市，而停火結束後，俄軍空襲已造成烏克蘭數千戶停電。再來看以色列。納坦雅胡聲稱選舉遭到竊取，不過以色列選舉機關表示，這次陷入僵局的選舉結果仍然有效，即使外國干預的指控屬實，也不會推翻結果。歐洲方面，德國多個城市爆發生活成本抗議，包括柏林、漢堡和法蘭克福，部分示威演變成暴力衝突，還有商店遭到洗劫。同一天，法國也有數十萬人上街，這已經是連續第三個週末，數百人被捕。法國警方因為有人向員警投擲汽油彈，已經以殺人未遂展開調查。最後是美國期中選舉。在密西根州關鍵的參議員選戰中，先前在民主黨初選輸給阿卜杜勒艾爾薩耶德的民主黨人海莉史蒂文斯，宣布支持共和黨候選人麥可羅傑斯。一位民主黨高層痛批這是卑劣的背叛，艾爾薩耶德則不以為意，而川普總統稱讚史蒂文斯，並邀請她加入共和黨。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Mon, 02 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-02-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-02/intl_zh.m4a" length="1082278" type="audio/x-m4a"/>
+      <itunes:duration>130</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-02</title>
+      <description>• OpenAI might rebrand its data centers as 'AI compute campuses'
+  https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
+• Judge allows NAACP lawsuit over xAI data center pollution to move forward
+  https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+• Apple CEO says the company doesn't 'want to ship AI for AI's sake'
+  https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+• AI can make tech CEOs' lives easier. What about everyone else?
+  https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
+• 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
+  https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/
+
+Today is November 2, 2026, and this is AI Tech News. First up, OpenAI might rebrand its data centers as AI compute campuses. Data centers have become deeply unpopular, and the question is whether a new name could change public perception. Staying with data centers, a judge has allowed an NAACP lawsuit over pollution from an xAI data center to move forward. The suit accuses the SpaceX-owned AI company of violating the Clean Air Act. Over at Apple, the company's new CEO defended Apple's current position in the AI landscape, saying Apple doesn't want to ship AI for AI's sake. Meanwhile, on TechCrunch's Equity podcast, the hosts discussed why statements from tech CEOs about AI can seem so tone deaf, asking whether AI that makes executives' lives easier will also help everyone else. And finally, there are just a few days left until the TechCrunch Founder Summit, taking place on November 4 at Boston's SoWa Power Station. The full-day event promises networking opportunities and actionable insights for founders looking to scale, and prices go up at the door. That's all for today's AI Tech News. Thanks for listening, and see you next time.</description>
+      <pubDate>Mon, 02 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-02-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-02/ai_en.m4a" length="589012" type="audio/x-m4a"/>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-02</title>
+      <description>• OpenAI 可能將資料中心更名為「AI 運算園區」
+  https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
+• 法官准許 NAACP 就 xAI 資料中心污染提起的訴訟繼續進行
+  https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+• 蘋果執行長：不想為了 AI 而推出 AI
+  https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+• AI 讓科技執行長生活更輕鬆，那其他人呢？
+  https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
+• 倒數四天：TechCrunch 創辦人高峰會助你建立擴展人脈
+  https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/
+
+今天是二零二六年十一月二日，歡迎收聽 AI 科技新聞。首先來看 OpenAI 的消息。資料中心近來在民眾之間相當不受歡迎，而 OpenAI 可能考慮把旗下的資料中心改名為「AI 運算園區」。換個名字，是否就能改變大家的觀感，值得後續觀察。同樣和資料中心有關，美國一位法官已准許全國有色人種協進會，也就是 NAACP，針對 xAI 資料中心污染問題提出的訴訟繼續進行。這起訴訟指控這家由 SpaceX 擁有的 AI 公司違反了《清淨空氣法》。資料中心對環境與社區的影響，顯然正受到越來越多的檢視。接著來看蘋果。蘋果新任執行長替公司目前在 AI 領域的定位提出辯護，表示蘋果並不想為了 AI 而推出 AI。這番話也回應了外界對蘋果 AI 腳步的種種討論。另外，在 TechCrunch 的 Equity 節目中，主持人討論了為什麼科技業執行長對 AI 的發言，常常讓人覺得不食人間煙火。AI 或許能讓執行長的生活更輕鬆，但對其他一般人來說又帶來什麼，是大家關心的問題。最後是活動消息。TechCrunch 創辦人高峰會將在十一月四日於波士頓的 SoWa Power Station 舉行，距離現在只剩短短幾天。這場為期一整天的活動，主打豐富的交流機會和實用見解，協助創業者擴展事業，現場購票價格將會調漲。以上就是今天的 AI 科技新聞，感謝您的收聽，我們下次見。</description>
+      <pubDate>Mon, 02 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-02-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-02/ai_zh.m4a" length="911462" type="audio/x-m4a"/>
+      <itunes:duration>110</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-11-01</title>
+      <description>• Shops looted as German cost of living protests turn violent
+  https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss
+• FBI blames North Korea for record $6.3bn crypto heist from Binance
+  https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss
+• More than 5,000 die from Ebola in DR Congo's deadliest outbreak
+  https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss
+• What we know about latest efforts to end US war on Iran
+  https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss
+• Ukrainian evacuees reunite with family after years trapped in Russia-occupied city
+  https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss
+
+Today is November 1st, 2026, and this is International News. Cost of living protests are spreading across Europe. In Germany, police in Frankfurt reported violent riots and shop looting, with unrest also in Berlin, Hamburg and Cologne. In France, more than 320,000 people demonstrated against rising prices and poor public services, and police fired tear gas as protests entered a third week. The FBI says North Korea was behind a record 6.3 billion dollar hack of crypto firm Binance. Binance says it has covered 90 percent of the losses. In the Democratic Republic of Congo, more than 5,000 people have died from Ebola in the country's deadliest outbreak, with government data showing more than 10,000 infections. On the US war with Iran, the foreign ministers of both countries say a diplomatic end to the conflict is still possible. And in Ukraine, residents evacuated from the Russian-occupied front-line city of Oleshky have reunited with family. They had lived without food, water and electricity, with many cooking garden weeds to survive. One couple said they crossed minefields searching for food, saying they came back from hell. That's International News for today.</description>
+      <pubDate>Sun, 01 Nov 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-01-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-01/intl_en.m4a" length="589097" type="audio/x-m4a"/>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-11-01</title>
+      <description>• 德國生活成本抗議轉趨暴力，商店遭洗劫
+  https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss
+• FBI指北韓犯下幣安63億美元創紀錄加密貨幣竊案
+  https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss
+• 剛果民主共和國史上最致命伊波拉疫情，逾5000人死亡
+  https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss
+• 美伊外長稱外交途徑結束戰爭仍有可能
+  https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss
+• 受困俄占前線城市奧列什基多年，烏克蘭撤離居民與家人團聚
+  https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss
+
+今天是2026年11月1日，歡迎收聽國際新聞。首先關注歐洲各地延燒的生活成本抗議。德國法蘭克福警方表示，市中心發生暴力騷亂，有商店遭到洗劫，柏林、漢堡和科隆也傳出動盪。法國方面，全國超過32萬人走上街頭，抗議物價上漲和公共服務不佳，部分示威者與警方爆發衝突，隨著抗議進入第三週，警方發射催淚瓦斯驅散人群。接著是科技與資安新聞。美國聯邦調查局指出，北韓是加密貨幣交易平台幣安遭駭事件的幕後黑手，這起竊案金額高達63億美元，創下紀錄。幣安表示，已經彌補了九成的損失。非洲方面，剛果民主共和國爆發史上最致命的伊波拉疫情，政府資料顯示，已有超過一萬人感染這種罕見病毒，死亡人數超過五千人。中東局勢方面，針對美國對伊朗的戰爭，美國與伊朗兩國外長都表示，透過外交途徑結束戰爭仍然有可能。最後來看烏克蘭。一批居民從遭俄羅斯占領的前線城市奧列什基撤離，終於與家人團聚。他們多年來生活在缺乏食物、飲水和電力的環境中，許多人只能煮庭院裡的雜草果腹。一對撤離的夫婦說，他們曾經為了找食物穿越地雷區，形容自己是從地獄歸來。不過，也有部分居民選擇留下。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Sun, 01 Nov 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-01-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-01/intl_zh.m4a" length="910475" type="audio/x-m4a"/>
+      <itunes:duration>110</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-11-01</title>
+      <description>• OpenAI reportedly lowers funding target for new round
+  https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+• Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says
+  https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+• The biggest names in AI are backing a new way to opt out of scraping
+  https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+• Apple Intelligence is finally coming to China with iOS 27.3
+  https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+• Google's satellite AI server transmits its first response to Earth
+  https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission
+
+Today is November 1st, 2026, and this is AI Tech News. Signs of strain are showing in AI finance. OpenAI has reportedly lowered the funding target for its new round, as the latest raise doesn't seem to be living up to expectations. Meanwhile, the Financial Times reports that Anthropic is expected to receive a high junk rating from credit agencies following its IPO, based on a Blackstone forecast. Such a rating would make it harder and costlier for Anthropic to raise money to fund its massive spending. In policy news, OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that lets publishers opt out of AI scraping. Using a shared policy token signal, publishers can apply their AI training preferences across multiple companies at once, instead of setting them individually. Apple announced that Apple Intelligence is finally coming to China with iOS 27.3. The features will appear first in a beta launching November 4th, with the full release scheduled for December. And finally, Google's AI chip equipped satellite has generated its first response from space. The company booted up the satellite's Tensor Processing Units, and the on-board Gemma 4 model wrote a haiku about being in space. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Sun, 01 Nov 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-01-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-01/ai_en.m4a" length="643283" type="audio/x-m4a"/>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-11-01</title>
+      <description>• OpenAI 傳下調新一輪募資目標
+  https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+• 金融時報：Anthropic 上市後預料將獲信評機構高評級「垃圾級」評等
+  https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+• OpenAI、Google、微軟與 Anthropic 支持新的 AI 爬取退出標準
+  https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+• Apple Intelligence 將隨 iOS 27.3 登陸中國
+  https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+• Google 衛星 AI 伺服器首度從太空傳回回應
+  https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission
+
+今天是二零二六年十一月一日，歡迎收聽 AI 科技新聞。首先來看 AI 產業的資金動向。根據報導，OpenAI 已經下調新一輪募資的目標金額，顯示這次募資的狀況似乎不如預期。另一方面，英國金融時報報導，根據黑石集團的預測，Anthropic 在首次公開發行之後，預料會被信評機構給予高評級的垃圾級評等。雖然這只是預測，但如果真的拿到垃圾級評等，Anthropic 未來要募集資金來支撐龐大的支出，就會變得更困難，成本也會更高。接著是內容授權的消息。OpenAI、Google、微軟和 Anthropic 都表示，將採用一套新的標準，讓出版業者可以選擇退出 AI 爬取。透過一個共用的政策標記訊號，出版業者能一次把自己對 AI 訓練的偏好套用到多家 AI 公司，不必再一家一家個別設定。再來是蘋果的消息。蘋果在中國官網新聞頁面宣布，Apple Intelligence 終於要透過 iOS 27.3 登陸中國市場。相關功能會先出現在十一月四日推出的 iOS 27.3 測試版當中，正式版則預計在十二月上線。最後是一則來自太空的新聞。Google 搭載 AI 晶片的衛星，已經首度從太空產生回應。Google 在週五發布的部落格文章中表示，他們成功啟動衛星上的張量處理器，讓機上的 Gemma 4 模型依照提示，寫出一首描述身在太空的俳句。這也代表在太空中運行 AI 運算，又往前跨出了一步。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。</description>
+      <pubDate>Sun, 01 Nov 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-11-01-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-11-01/ai_zh.m4a" length="976209" type="audio/x-m4a"/>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>International News (English) - 2026-10-31</title>
+      <description>• US approves sale of 500 Patriot missiles to Ukraine
+  https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss
+• Crypto giant Binance hit by $6.3bn hack suspected to be largest in history
+  https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss
+• Iran says four tankers on fire after striking mines in Hormuz
+  https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss
+• Ebola death toll in DR Congo passes 5,000
+  https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss
+• Police deployed during stand-off over control of top Poland court
+  https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss
+
+It's October 31st, 2026, and this is International News. The United States has approved the sale of 500 Patriot missiles to Ukraine, a deal worth 2.1 billion dollars. The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles, and the deal would be one of the most significant steps to supply defensive weapons to Kyiv since Trump took office in 2025. Crypto giant Binance is trying to recover 6.3 billion dollars stolen in a hack believed to be the largest of its kind ever. Two analytics firms have attributed the attack to a North Korean hacking unit called TraderTraitor. In the Gulf, Iran's Revolutionary Guard says four tankers have caught fire after striking mines in the Strait of Hormuz. In the Democratic Republic of Congo, the Ebola death toll has passed 5,000, with authorities struggling to control the outbreak and no approved treatments or vaccines available. And in Poland, police were deployed during a stand-off over control of the country's top court, after the government suspended two senior justices and moved to bring criminal charges against them. That's International News for today.</description>
+      <pubDate>Sat, 31 Oct 2026 08:40:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-10-31-intl_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-10-31/intl_en.m4a" length="559636" type="audio/x-m4a"/>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>國際新聞（繁中） - 2026-10-31</title>
+      <description>• 美國批准對烏克蘭出售500枚愛國者飛彈，總值21億美元
+  https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss
+• 幣安遭駭63億美元，疑為史上最大規模，矛頭指向北韓
+  https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss
+• 伊朗稱四艘油輪在荷莫茲海峽觸雷起火
+  https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss
+• 剛果民主共和國伊波拉死亡人數突破5000
+  https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss
+• 波蘭最高法院控制權對峙，警方出動
+  https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss
+
+今天是2026年10月31日，歡迎收聽國際新聞。首先來看烏克蘭戰事。美國已批准向烏克蘭出售500枚愛國者飛彈，交易金額約21億美元。這款美製攔截飛彈是目前唯一能有效擊落俄羅斯彈道飛彈的武器，這筆交易也被視為川普2025年上任以來，美國提供基輔防禦武器最重要的步驟之一。接著是科技與資安新聞。加密貨幣巨頭幣安遭到駭客攻擊，損失高達63億美元，被認為是史上同類事件中規模最大的一起。幣安形容這次攻擊相當複雜，目前正設法追回資金。兩家分析公司已將事件歸咎於一個名為TraderTraitor的北韓駭客組織，外界認為，如果指控屬實，代表北韓駭客的能力已經變得非常強大。中東方面，伊朗革命衛隊表示，有四艘油輪在荷莫茲海峽觸雷後起火，這條航道的安全情勢再度引發關注。非洲方面，剛果民主共和國的伊波拉疫情持續延燒，死亡人數已經突破5000人。由於目前沒有核准的治療方法或疫苗，當局仍難以找到控制疫情的辦法。最後來看歐洲。波蘭政府與最高法院之間的對峙升高，警方已經出動部署。事件起因是政府停職兩名資深大法官，並著手對他們提出刑事告訴，引發對司法控制權的激烈爭議。以上是今天的國際新聞，感謝您的收聽。</description>
+      <pubDate>Sat, 31 Oct 2026 08:40:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-10-31-intl_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-10-31/intl_zh.m4a" length="899459" type="audio/x-m4a"/>
+      <itunes:duration>108</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Tech News (English) - 2026-10-31</title>
+      <description>• Cracks are emerging in the AI spending boom
+  https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
+• Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says
+  https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+• Google's first data center satellite is online and writing poetry
+  https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+• The biggest names in AI are backing a new way to opt out of scraping
+  https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+• Apple Intelligence is finally coming to China with iOS 27.3
+  https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+
+It's October 31st, 2026, and this is AI Tech News. First, cracks are emerging in the AI spending boom. Big Tech keeps pouring billions into infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising sustainability questions. Nvidia is even weighing cosigning a loan for Nscale's data center in West Virginia. Related, the Financial Times reports Anthropic is expected to receive a high junk rating from credit agencies after its IPO, based on a Blackstone forecast. That could make raising money to fund its massive spending harder and costlier. In space, Google's first data center satellite is online. Its onboard TPUs are running a Gemma 4 model, which sent back its first response: a haiku about being in space. On the publishing front, OpenAI, Google, Microsoft, and Anthropic say they will adopt a new shared policy token standard, letting publishers opt out of AI scraping across multiple companies at once instead of individually. Finally, Apple Intelligence is coming to China with iOS 27.3. A beta launches November 4th, with the full release scheduled for December. That's all for today's AI Tech News. Thanks for listening.</description>
+      <pubDate>Sat, 31 Oct 2026 08:35:30 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-10-31-ai_en</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-10-31/ai_en.m4a" length="616264" type="audio/x-m4a"/>
+      <itunes:duration>74</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 科技新聞（繁中） - 2026-10-31</title>
+      <description>• AI 支出熱潮開始出現裂痕
+  https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
+• 金融時報：Anthropic 上市後預料將獲信評機構給予高收益「垃圾級」評等
+  https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+• Google 首顆資料中心衛星上線，在太空寫詩
+  https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+• OpenAI、Google、微軟與 Anthropic 支持拒絕 AI 爬取的新標準
+  https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+• Apple Intelligence 將隨 iOS 27.3 登陸中國
+  https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+
+今天是 2026 年 10 月 31 日，歡迎收聽 AI 科技新聞。首先來看 AI 投資熱潮。TechCrunch 指出，大型科技公司持續砸下數十億美元興建 AI 基礎設施，但債務不斷攀升、現金流轉為負數，加上投資人疑慮加深，讓外界開始質疑這波支出熱潮能否持續。另一方面，輝達也在考慮替 Nscale 位於西維吉尼亞州的 AI 資料中心擔任貸款共同簽署人，顯示市場對 AI 支出的緊張情緒。第二則，根據金融時報報導，Anthropic 上市後，預料將被信評機構給予較高等級的垃圾級評等。這項說法來自黑石集團的預測，雖然只是預估，但如果成真，Anthropic 要募集資金來支撐龐大支出，將會更加困難，成本也更高。第三則來自太空。Google 首顆資料中心衛星已經成功上線，衛星上的 TPU 順利啟動，運行 Google DeepMind 的 Gemma 4 模型，並傳回第一個回應，是一首描寫身在太空的俳句。第四則，OpenAI、Google、微軟和 Anthropic 表示，將採用一套新的共通標準，讓出版業者能透過一個政策標記，一次對多家 AI 公司表明是否同意資料被用於訓練，不必再逐一設定。最後，蘋果宣布 Apple Intelligence 將隨 iOS 27.3 正式進入中國市場，測試版預計 11 月 4 日推出，正式版則排定在 12 月上線。以上就是今天的 AI 科技新聞，感謝您的收聽，我們下次見。</description>
+      <pubDate>Sat, 31 Oct 2026 08:35:00 +0800</pubDate>
+      <guid isPermaLink="false">hermes-2026-10-31-ai_zh</guid>
+      <enclosure url="https://ch88chen.github.io/hermes-podcast/episodes/2026-10-31/ai_zh.m4a" length="920526" type="audio/x-m4a"/>
+      <itunes:duration>111</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

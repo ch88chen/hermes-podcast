@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-09",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 123,
+  "length": 1019317,
+  "headlines": [
+   {
+    "title_zh": "輝達董事會啟動獨立調查，追查執行長黃仁勳與疑似中國間諜的關係",
+    "title_en": "Nvidia is investigating Jensen Huang's relationship with a Chinese spy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+   },
+   {
+    "title_zh": "黃仁勳去留成疑？耶魯學者桑能菲爾德估計機率約五五波",
+    "title_en": "Is Jensen Huang's job on the line? Yale's Jeffrey Sonnenfeld estimates it's \"about a 50-50\"",
+    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+   },
+   {
+    "title_zh": "期中選舉後，馬斯克與資料中心前景不明",
+    "title_en": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+   },
+   {
+    "title_zh": "蘋果加速讓 Siri 更具代理能力",
+    "title_en": "Apple is racing to make Siri more agentic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+   },
+   {
+    "title_zh": "貓王與阿姆的版權方控告 AI 音樂公司 Suno",
+    "title_en": "Elvis and Eminem rights holders are suing Suno",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+   }
+  ],
+  "script": "今天是二零二六年十一月九日，歡迎收聽AI 科技新聞。首先是今天最受矚目的消息。輝達董事會宣布，將針對執行長黃仁勳展開獨立調查，原因是他與 Megaspeed 公司主管 Alice Huang 之間的關係。根據報導，今年稍早流傳的一份美國情報備忘錄指出，中國國家安全部招募了這位女性科技主管，目的是監視輝達執行長。黃仁勳也發出內部信給全體員工，坦承自己有婚外情。這起事件引發外界對他職位的關注，耶魯大學的傑佛瑞桑能菲爾德認為，黃仁勳能否繼續擔任執行長，機率大約是五五波，幾乎像擲硬幣一樣。接著來看政治面。科技媒體 TechCrunch 的 Equity 節目分析了美國期中選舉對科技產業的影響，認為選後局勢對馬斯克以及資料中心產業來說，看起來相當不樂觀。再來是蘋果的動態。彭博社記者馬克古爾曼表示，蘋果執行長約翰特努斯正施壓 AI 負責人克雷格費德里吉，要求加快 Siri 的開發進度，推出功能強大的 AI 代理，好與 OpenAI 的 Dots 以及 Meta 的 Muse 競爭。雖然費德里吉已在極短時間內交出可用的 Siri AI 版本，但蘋果很清楚，目前還有一段路要走。最後是 AI 音樂的法律戰。AI 音樂公司 Suno 又面臨兩起新訴訟，提告者包括貓王音樂的一群版權持有人，以及阿姆多首熱門作品的發行商，他們指控 Suno 非法生成模仿這些歌手的音樂與歌詞。其中貓王一案的律師還主張，Suno 違反了田納西州的相關法律。以上就是今天的AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-09",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 73,
+  "length": 606161,
+  "headlines": [
+   {
+    "title_zh": "輝達董事會啟動獨立調查，追查執行長黃仁勳與疑似中國間諜的關係",
+    "title_en": "Nvidia is investigating Jensen Huang's relationship with a Chinese spy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+   },
+   {
+    "title_zh": "黃仁勳去留成疑？耶魯學者桑能菲爾德估計機率約五五波",
+    "title_en": "Is Jensen Huang's job on the line? Yale's Jeffrey Sonnenfeld estimates it's \"about a 50-50\"",
+    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+   },
+   {
+    "title_zh": "期中選舉後，馬斯克與資料中心前景不明",
+    "title_en": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+   },
+   {
+    "title_zh": "蘋果加速讓 Siri 更具代理能力",
+    "title_en": "Apple is racing to make Siri more agentic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+   },
+   {
+    "title_zh": "貓王與阿姆的版權方控告 AI 音樂公司 Suno",
+    "title_en": "Elvis and Eminem rights holders are suing Suno",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+   }
+  ],
+  "script": "It's November 9, 2026, and this is AI Tech News. Our top story: Nvidia's board has launched an independent investigation into CEO Jensen Huang over his relationship with Alice Huang, a Megaspeed executive reportedly recruited by China's Ministry of State Security to spy on him. A US intelligence memo circulated earlier this year made that claim. In a memo to employees, Jensen Huang admitted to having an affair. Yale's Jeffrey Sonnenfeld says it's roughly a fifty-fifty chance whether Huang keeps his job as CEO. In politics, TechCrunch's Equity podcast looked at what the midterm elections mean for tech, saying the outlook appears rocky for Elon Musk and for data centers. Over at Apple, Bloomberg's Mark Gurman reports CEO John Ternus is pressing AI chief Craig Federighi to speed up the Siri roadmap and deliver a powerful AI agent able to compete with OpenAI's Dots and Meta's Muse. And AI music company Suno faces two more lawsuits, from rights holders of Elvis Presley's music and a publisher of some of Eminem's biggest records, who claim Suno illegally generates music and lyrics mimicking those artists. The Presley suit cites Tennessee law. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-09",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 98,
+  "length": 817796,
+  "headlines": [
+   {
+    "title_zh": "胡塞武裝發動新一波攻擊，沙烏地首都阿美大樓遭擊中",
+    "title_en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "盧比歐稱對伊朗戰爭不受歡迎但為阻止核威脅「有必要」",
+    "title_en": "Rubio says war on Iran unpopular but 'necessary' to stop nuclear threat",
+    "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
+   },
+   {
+    "title_zh": "埃及吉薩附近兩列火車相撞，七死逾百人傷",
+    "title_en": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "教宗訪阿根廷，暗批米雷撙節政策",
+    "title_en": "Pope delivers veiled rebuke of Milei's austerity measures",
+    "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "無人機攻擊伊拉克庫德區霍爾莫爾氣田，引發大規模停電",
+    "title_en": "Drone attack suspends production at Iraq's Khor Mor gasfield",
+    "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月九日，歡迎收聽國際新聞。首先來看中東情勢。沙烏地阿拉伯首都利雅德中心金融區的阿美大樓遭到攻擊，起因是葉門胡塞武裝發動新一波打擊。經過英國廣播公司查核小組驗證的影片顯示，大樓明顯受損。另一方面，美國國務卿盧比歐表示，對伊朗的戰爭雖然不受民眾歡迎，但為了阻止核威脅是有必要的。他也批評伊朗在談判中提出的要求離譜又荒謬，完全不切實際。在伊拉克北部，一架無人機攻擊了庫德自治區的霍爾莫爾天然氣田，導致氣田停產，庫德地區超過百分之七十的範圍陷入停電，民眾生活大受影響。接著來看非洲。埃及吉薩市郊外發生火車相撞事故，兩列同方向行駛的列車發生追撞，多節車廂出軌，目前已造成七人死亡、超過一百人受傷。最後來看拉丁美洲。教宗良十四世展開拉丁美洲之行的第二站，抵達阿根廷。他在與總統米雷同台發表談話時，委婉批評了米雷政府的撙節政策，並呼籲阿根廷守護民主，強調領導人應該明白權力的界線。這番話被外界視為對米雷施政的含蓄提醒。以上就是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-09",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 66,
+  "length": 551554,
+  "headlines": [
+   {
+    "title_zh": "胡塞武裝發動新一波攻擊，沙烏地首都阿美大樓遭擊中",
+    "title_en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "盧比歐稱對伊朗戰爭不受歡迎但為阻止核威脅「有必要」",
+    "title_en": "Rubio says war on Iran unpopular but 'necessary' to stop nuclear threat",
+    "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
+   },
+   {
+    "title_zh": "埃及吉薩附近兩列火車相撞，七死逾百人傷",
+    "title_en": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "教宗訪阿根廷，暗批米雷撙節政策",
+    "title_en": "Pope delivers veiled rebuke of Milei's austerity measures",
+    "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "無人機攻擊伊拉克庫德區霍爾莫爾氣田，引發大規模停電",
+    "title_en": "Drone attack suspends production at Iraq's Khor Mor gasfield",
+    "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 9th, 2026, and this is International News. In Saudi Arabia, the Aramco Tower in the heart of Riyadh's central financial district has been hit as Houthi forces launched fresh strikes. Footage authenticated by BBC Verify shows damage to the building. Meanwhile, US Secretary of State Marco Rubio says the war on Iran is unpopular but necessary to stop a nuclear threat, calling Iran's negotiation demands outrageous, ridiculous and not realistic. In northern Iraq, a drone attack has halted production at the Khor Mor gas field, leaving more than seventy percent of the Kurdish region without power. In Egypt, seven people have died and more than one hundred were injured after two trains travelling in the same direction collided outside Giza, derailing several carriages. And in Argentina, Pope Leo the Fourteenth, on the second leg of his Latin America tour, delivered a veiled rebuke of President Javier Milei's austerity measures. Speaking alongside Milei, the pope urged the country to protect democracy and said leaders should know the limits of their power. That's International News for today. Thanks for listening."
+ }
+]
