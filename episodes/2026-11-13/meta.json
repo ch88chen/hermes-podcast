@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-13",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 120,
+  "length": 997813,
+  "headlines": [
+   {
+    "title_zh": "輝達執行長黃仁勳因婚外情與疑似中國間諜醜聞辭職：事件時間軸",
+    "title_en": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "民主黨啟動輝達調查，嚴厲致函批評黃仁勳與川普的「計畫」",
+    "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+   },
+   {
+    "title_zh": "黃仁勳離開輝達，開源 AI 支持前景受質疑",
+    "title_en": "Jensen Huang's exit puts Nvidia's support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+   },
+   {
+    "title_zh": "Google 推出 Gemini 4 Hydrogen，強化搜尋處理複雜問題能力",
+    "title_en": "Google's new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+   },
+   {
+    "title_zh": "Nebius 計畫投入 400 億美元擴建 AI 基礎設施",
+    "title_en": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+   }
+  ],
+  "script": "今天是二零二六年十一月十三日，歡迎收聽 AI 科技新聞。首先是今天最受矚目的消息，輝達共同創辦人黃仁勳已經辭去執行長職務。他自一九九三年創立輝達以來，是公司唯一的執行長。事件起因是他與一名疑似替中國從事間諜活動的女性發生婚外情，之後又被揭露與一位直屬部屬有染，路透社更報導，他還有第三段婚外情，對象同樣是輝達員工。在多位資深議員威脅傳喚之後，黃仁勳已同意到國會作證。川普總統也在社群平台上發文，表示只有蘋果董事長庫克能接替黃仁勳的位置。第二則新聞，美國民主黨議員針對輝達對中國的銷售，以及黃仁勳與川普之間的往來，展開調查並發出措辭嚴厲的信函，這已經是醜聞爆發以來第二項國會調查。第三則，黃仁勳的離開，也讓外界質疑輝達是否還會繼續支持開源 AI，包括以一百二十九億美元收購 Hugging Face、開放權重模型，以及反對相關限制的立場。對此，Hugging Face 執行長表示，會持續為開源 AI 奮戰。第四則，Google 推出新模型 Gemini 4 Hydrogen，能更好理解多段式、有錯字或非常具體的複雜問題，並拆解問題逐一回答。新模型即日起在搜尋的 AI 模式和 Gemini 應用程式上線。最後，雲端業者 Nebius 計畫投入四百億美元擴建 AI 基礎設施，資金來源是客戶預付款和貸款，不過微軟一座資料中心的延誤，也讓外界質疑這套融資模式。以上就是今天的 AI 科技新聞，感謝您的收聽。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-13",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 73,
+  "length": 609833,
+  "headlines": [
+   {
+    "title_zh": "輝達執行長黃仁勳因婚外情與疑似中國間諜醜聞辭職：事件時間軸",
+    "title_en": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "民主黨啟動輝達調查，嚴厲致函批評黃仁勳與川普的「計畫」",
+    "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+   },
+   {
+    "title_zh": "黃仁勳離開輝達，開源 AI 支持前景受質疑",
+    "title_en": "Jensen Huang's exit puts Nvidia's support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+   },
+   {
+    "title_zh": "Google 推出 Gemini 4 Hydrogen，強化搜尋處理複雜問題能力",
+    "title_en": "Google's new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+   },
+   {
+    "title_zh": "Nebius 計畫投入 400 億美元擴建 AI 基礎設施",
+    "title_en": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+   }
+  ],
+  "script": "It's November 13, 2026, and this is AI Tech News. Our top story: Jensen Huang has resigned as CEO of Nvidia, the company he co-founded in 1993, after reports of affairs including one with a woman suspected of spying for China, and another with a direct report. Reuters now reports a third affair with an Nvidia employee. Huang has agreed to testify before Congress after lawmakers threatened a subpoena, and President Trump floated Apple chairman Tim Cook as his successor. Meanwhile, Democrats have launched a second Congressional investigation, this one into Nvidia's China sales and Huang's dealings with Trump. Huang's exit also raises questions about Nvidia's commitment to open source AI, including its 12.9 billion dollar Hugging Face acquisition, though Hugging Face's CEO vowed to keep fighting for open source. In other news, Google unveiled Gemini 4 Hydrogen, which better handles complex, multi-part questions in Search's AI Mode and the Gemini app. And neocloud company Nebius plans 40 billion dollars in AI infrastructure spending, funded by customer prepayments and loans, even as delays at a Microsoft data center raise questions about that model. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-13",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 116,
+  "length": 962095,
+  "headlines": [
+   {
+    "title_zh": "輝達前執行長黃仁勳因與涉嫌中國間諜的婚外情遭國會傳喚作證",
+    "title_en": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基歡迎美國將歐洲納入俄烏和談",
+    "title_en": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯軍艦在芬蘭灣遭烏克蘭無人機擊中",
+    "title_en": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "FBI：北韓駭客以假視訊通話竊取四億美元加密貨幣",
+    "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "民主黨柯隆成為密西西比州19世紀以來首位黑人參議員",
+    "title_en": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月13日，歡迎收聽國際新聞。首先是科技界的震撼消息。輝達前執行長黃仁勳，因為與一名涉嫌為中國間諜的人士有婚外情，被美國國會傳喚出席作證。黃仁勳在週四突然辭去這家全球市值最高企業之一的執行長職務，起因是他被揭露疑似有婚外情。接著關注俄烏局勢。烏克蘭總統澤倫斯基表示，歡迎美國把歐洲納入俄烏和平談判，他認為烏克蘭希望未來加入歐盟，讓歐洲領袖參與是合理的。美國特使威特科夫和庫許納，目前正在都柏林與莫斯科之間來回奔走，努力促成和平協議。不過戰場上衝突仍在持續。一艘俄羅斯軍艦在芬蘭灣遭到烏克蘭無人機擊中，外界認為，這是烏克蘭無人機首次在波羅的海的開放海域攻擊俄羅斯船艦。再來是網路安全新聞。美國聯邦調查局指出，北韓駭客利用假的視訊通話，發動一場規模約四億美元的加密貨幣竊案。這個被稱為FaceStealer的詐騙手法，在過去十八個月內，估計已經有超過九百名受害者上當。最後是美國政壇。民主黨籍的史考特柯隆當選密西西比州聯邦參議員，成為該州自1881年以來首位黑人參議員，寫下歷史。川普兩年前在這個州以22個百分點的差距勝出，而柯隆的勝利，也延續了民主黨在參議院選舉中的一連串勝利。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-13",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 75,
+  "length": 624870,
+  "headlines": [
+   {
+    "title_zh": "輝達前執行長黃仁勳因與涉嫌中國間諜的婚外情遭國會傳喚作證",
+    "title_en": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基歡迎美國將歐洲納入俄烏和談",
+    "title_en": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯軍艦在芬蘭灣遭烏克蘭無人機擊中",
+    "title_en": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "FBI：北韓駭客以假視訊通話竊取四億美元加密貨幣",
+    "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "民主黨柯隆成為密西西比州19世紀以來首位黑人參議員",
+    "title_en": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 13, 2026, and this is International News. Former Nvidia CEO Jensen Huang has been summoned to testify before Congress about an affair with an alleged Chinese spy. Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs. In Ukraine, President Zelensky welcomed the United States bringing European leaders into Russia-Ukraine peace talks, saying it makes sense as Ukraine hopes to eventually join the EU. US envoys Witkoff and Kushner have been shuttling between Dublin and Moscow to broker a deal. Meanwhile, a Russian warship was hit by a Ukrainian drone in the Gulf of Finland, thought to be the first such Ukrainian drone attack on a Russian ship in an open stretch of the Baltic Sea. The FBI says North Korean hackers used fake video calls to steal about 400 million dollars in cryptocurrency. More than 900 victims are thought to have fallen prey to the scheme, called FaceStealer, over the past 18 months. And in Mississippi, Democrat Scott Colom has made history as the state's first black senator since 1881. Trump won the state by 22 points two years ago, and Colom's victory extends a string of Democratic Senate wins. That's International News for today."
+ }
+]

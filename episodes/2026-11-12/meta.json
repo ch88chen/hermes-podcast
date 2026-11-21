@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-12",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 121,
+  "length": 1005454,
+  "headlines": [
+   {
+    "title_zh": "輝達董事會傳準備撤換執行長黃仁勳，股價下跌",
+    "title_en": "Nvidia's stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+   },
+   {
+    "title_zh": "美國國會要求黃仁勳說明與涉嫌中國間諜的婚外情",
+    "title_en": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+   },
+   {
+    "title_zh": "OpenAI 單季營收傳首度突破一百億美元",
+    "title_en": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+   },
+   {
+    "title_zh": "CoreWeave 轉向客戶預付與短期合約來支應 AI 擴張",
+    "title_en": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+   },
+   {
+    "title_zh": "Grok Build 程式代理外洩大量機密資料，部分屬於 SpaceXSI",
+    "title_en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+   }
+  ],
+  "script": "今天是二零二六年十一月十二日，歡迎收聽 AI 科技新聞。首先是今天最受矚目的消息。根據華爾街日報報導，輝達董事會正準備撤換創辦人兼執行長黃仁勳，他已經領導公司三十三年。起因是紐約時報披露，黃仁勳疑似與一名輝達女性主管有婚外情，而就在幾天前，他才承認與一名被指控為中國間諜的女子有染。消息傳出後，輝達股價應聲下跌，公司治理專家也直言，從來沒見過這樣的局面。另外，輝達目前並沒有接班計畫，外界已開始討論可能的繼任人選。同一件事也延燒到美國國會。眾議院共和黨議員要求黃仁勳出席閉門簡報，說明這段與涉嫌中國間諜的關係。由於美中正在競逐最先進的 AI 基礎設施，這起事件可能牽涉國家安全。接著看產業數字。據報導，OpenAI 單季營收首度突破一百億美元，比第二季的六十七億美元成長將近百分之五十。另一方面，雲端算力業者 CoreWeave 公布第三季財報，顯示公司越來越常要求客戶預先付款，並以特定合約作為擔保借款，甚至考慮改採短期合約，這可能帶動價格上漲，也反映 AI 擴張的資金壓力。最後是資安消息。有研究人員發現，多達三萬五千個用 Grok Build 程式代理打造的應用程式，任何人只要去找就能存取，導致大量機密資料外洩，其中有些屬於 SpaceXSI。這提醒我們，AI 寫程式雖然方便，安全設定仍不能輕忽。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-12",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 75,
+  "length": 626865,
+  "headlines": [
+   {
+    "title_zh": "輝達董事會傳準備撤換執行長黃仁勳，股價下跌",
+    "title_en": "Nvidia's stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+   },
+   {
+    "title_zh": "美國國會要求黃仁勳說明與涉嫌中國間諜的婚外情",
+    "title_en": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+   },
+   {
+    "title_zh": "OpenAI 單季營收傳首度突破一百億美元",
+    "title_en": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+   },
+   {
+    "title_zh": "CoreWeave 轉向客戶預付與短期合約來支應 AI 擴張",
+    "title_en": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+   },
+   {
+    "title_zh": "Grok Build 程式代理外洩大量機密資料，部分屬於 SpaceXSI",
+    "title_en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+   }
+  ],
+  "script": "It's November 12, 2026, and this is AI Tech News. Our top story: Nvidia's board is reportedly preparing to remove founder and CEO Jensen Huang, who has led the company for 33 years. The move follows a New York Times report of a second alleged affair, this time with an Nvidia executive, days after Huang admitted to an affair with a woman alleged to be a Chinese spy. Nvidia's stock fell on the news, and governance experts say they have never seen anything like it. Meanwhile, House Republicans have called on Huang to give a closed-door briefing on the matter, citing possible national security implications as the U.S. and China race for AI infrastructure. In other news, OpenAI's quarterly revenue has reportedly crossed ten billion dollars for the first time, an almost fifty percent jump from six point seven billion in the second quarter. CoreWeave's third-quarter earnings show it is increasingly asking customers to pay up front, borrowing against specific contracts, and exploring shorter-term deals that could raise prices. And in security, a researcher found thirty-five thousand apps built with xAI's Grok Build coding agent left wide open, exposing confidential information, some belonging to SpaceXSI. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-12",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 99,
+  "length": 819960,
+  "headlines": [
+   {
+    "title_zh": "俄烏和談轉向戰後安全議題，但未獲突破",
+    "title_en": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列空襲加薩納瑟醫院，至少五名巴勒斯坦人喪生",
+    "title_en": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印尼副總統吉布蘭因資格爭議請辭",
+    "title_en": "Indonesia vice president resigns amid dispute over eligibility",
+    "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
+   },
+   {
+    "title_zh": "民主黨柯隆贏得密西西比州參議員選舉，創歷史紀錄",
+    "title_en": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "西班牙大罷工，巴塞隆納爆發衝突",
+    "title_en": "Clashes erupt in Barcelona after thousands join Spain general strike",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月十二日，歡迎收聽國際新聞。首先關注俄烏情勢。俄羅斯與烏克蘭在阿布達比舉行會談，焦點轉向歐洲的戰後安全架構，但最終沒有取得突破。美國特使預計週四將分別會見普丁和澤倫斯基。另一方面，俄軍持續空襲，讓烏克蘭電力供應逼近臨界點，部分地區家庭每天只有幾個小時有電，在黑暗與寒冷中艱難度日。接著來看中東。加薩民防機構表示，以色列空襲擊中納瑟醫院的外科部門，造成至少五名巴勒斯坦人死亡、至少二十人受傷，院區也嚴重損毀。亞洲方面，印尼副總統吉布蘭宣布辭職。他是前總統佐科威的兒子，目前法院正在質疑他的海外學歷是否符合資格。這項消息出現在總統普拉伯沃與佐科威關係出現裂痕之際，也顯示執政聯盟正面臨動搖。美國方面，民主黨籍的柯隆贏得密西西比州聯邦參議員選舉，成為這個南方州一百四十多年來，首位當選聯邦參議員的黑人，具有歷史意義。最後來看歐洲。西班牙主要工會針對住房問題與高生活成本發動全國大罷工，數萬人響應，巴塞隆納更爆發衝突。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-12",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 69,
+  "length": 575186,
+  "headlines": [
+   {
+    "title_zh": "俄烏和談轉向戰後安全議題，但未獲突破",
+    "title_en": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列空襲加薩納瑟醫院，至少五名巴勒斯坦人喪生",
+    "title_en": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印尼副總統吉布蘭因資格爭議請辭",
+    "title_en": "Indonesia vice president resigns amid dispute over eligibility",
+    "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
+   },
+   {
+    "title_zh": "民主黨柯隆贏得密西西比州參議員選舉，創歷史紀錄",
+    "title_en": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "西班牙大罷工，巴塞隆納爆發衝突",
+    "title_en": "Clashes erupt in Barcelona after thousands join Spain general strike",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 12, 2026, and this is International News. Russia and Ukraine held talks in Abu Dhabi focused on Europe's post-war security framework, but they ended without a breakthrough. US envoys are due to meet Putin and Zelensky on Thursday. Meanwhile, Russian strikes have pushed Ukraine's power supply close to critical, leaving families with just a few hours of electricity a day. In Gaza, an Israeli strike hit the surgery department of Nasser Hospital, killing at least five Palestinians and injuring at least 20, according to the Gaza civil defence agency. In Indonesia, Vice President Gibran Rakabuming Raka, son of former President Joko Widodo, has resigned as a court questions his overseas education. The move comes amid signs that President Prabowo's ruling alliance is fraying. In the United States, Democrat Scott Colom has won the Senate race in Mississippi, becoming the first black person from the state elected to the US Senate in more than 140 years. And in Spain, tens of thousands joined a general strike called by the main unions over housing and the high cost of living, with clashes erupting in Barcelona. That's International News for today."
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-19",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 121,
+  "length": 1003351,
+  "headlines": [
+   {
+    "title_zh": "Anthropic IPO 定價每股 83 美元，高於預期區間",
+    "title_en": "Anthropic prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+   },
+   {
+    "title_zh": "Nvidia 停止向中國出售先進 AI 晶片",
+    "title_en": "Nvidia isn't selling any more AI chips to China",
+    "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+   },
+   {
+    "title_zh": "馬斯克：撤換黃仁勳就像把喬丹踢出球隊",
+    "title_en": "Elon Musk says ousting Jensen Huang is like 'kicking Michael Jordan off your team'",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+   },
+   {
+    "title_zh": "微軟執行長納德拉解釋為何請六萬名員工自願離職",
+    "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+   },
+   {
+    "title_zh": "更多銀行表示，使用 AI 代理的客戶須自負風險",
+    "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+   }
+  ],
+  "script": "今天是二零二六年十一月十九日，歡迎收聽 AI 科技新聞。首先是資本市場的大消息，Anthropic 備受矚目的首次公開發行，定價為每股八十三美元，高於原先預估的區間。根據報導，以完全稀釋基礎計算，公司估值達到一點五兆美元，成為今年最受關注的上市案之一。接著來看 Nvidia。代理執行長克芮絲在週二的財報電話會議上宣布，Nvidia 已經停止向中國出貨先進 AI 晶片，儘管白宮去年十二月就已核准相關銷售。這項決定與前執行長黃仁勳時期的路線明顯不同。黃仁勳上週在多起醜聞中下台，其中包括與一名涉嫌中國間諜人士的婚外情。不過，科技界不少重量級人物仍力挺黃仁勳。馬斯克表示，撤換黃仁勳就像把麥可喬丹踢出球隊，並說他不認為黃仁勳對美國不忠。Anduril 的帕爾默拉奇也認為，中國對黃仁勳離開感到很高興，把他拉下來只會讓美國變弱，因此希望他能復職。OpenAI 執行長奧特曼則說，很難想像沒有黃仁勳的 AI 產業。微軟方面，執行長納德拉說明，他在十月向六萬名員工提出自願離職方案，而不是再進行一次大規模裁員。他表示，簡單來說原因就是 AI，但並不是大家預期的那種方式。最後，花旗成為最新一家對個人理財 AI 代理踩煞車的大型金融機構。越來越多銀行表示，客戶如果使用 AI 代理處理財務，即使遭到駭客入侵，也必須自行承擔後果。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-19",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 71,
+  "length": 591066,
+  "headlines": [
+   {
+    "title_zh": "Anthropic IPO 定價每股 83 美元，高於預期區間",
+    "title_en": "Anthropic prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+   },
+   {
+    "title_zh": "Nvidia 停止向中國出售先進 AI 晶片",
+    "title_en": "Nvidia isn't selling any more AI chips to China",
+    "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+   },
+   {
+    "title_zh": "馬斯克：撤換黃仁勳就像把喬丹踢出球隊",
+    "title_en": "Elon Musk says ousting Jensen Huang is like 'kicking Michael Jordan off your team'",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+   },
+   {
+    "title_zh": "微軟執行長納德拉解釋為何請六萬名員工自願離職",
+    "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+   },
+   {
+    "title_zh": "更多銀行表示，使用 AI 代理的客戶須自負風險",
+    "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+   }
+  ],
+  "script": "Today is November 19, 2026, and this is AI Tech News. Anthropic has priced its long-awaited IPO at 83 dollars a share, above its projected range. The deal reportedly values the company at 1.5 trillion dollars on a fully diluted basis. At Nvidia, interim CEO Colette Kress announced on an earnings call that the company has stopped sending advanced AI chips to China, despite White House approval granted last December. The move marks a notable shift from the strategy under former CEO Jensen Huang, who stepped down last week amid several scandals. Tech leaders are rallying around Huang. Elon Musk said ousting him is like kicking Michael Jordan off your team, and Anduril's Palmer Luckey argued that removing him makes America weaker. Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 employees in October instead of another mass layoff. The short answer, he says, is AI, though not in the way you might expect. Finally, Citi has become the latest major bank to put the brakes on personal finance AI agents, warning that customers who use them are on their own, even if they get hacked. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-19",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 109,
+  "length": 902196,
+  "headlines": [
+   {
+    "title_zh": "習近平迎來重大外交時刻，與普丁、川普在中國會面",
+    "title_en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "緬甸羅興亞種族滅絕案，聯合國法院將作出歷史性判決",
+    "title_en": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+    "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國空襲伊朗格什姆島後，科威特稱擊退兩個月來首次伊朗攻擊",
+    "title_en": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列軍方罕見越過黃線在加薩展開地面行動",
+    "title_en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "AI巨頭Anthropic上市前估值達1.5兆美元",
+    "title_en": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月19日，歡迎收聽國際新聞。首先來看中國。中國國家主席習近平正與俄羅斯總統普丁、美國總統川普舉行峰會，這對習近平來說是一次重大的外交時刻，但也暗藏挑戰，因為有些議題習近平似乎不太願意和兩人討論。川普見到普丁時稱他是自己的朋友，並表示打算向兩位領袖提出核不擴散的議題。另一方面，遠離這場峰會的歐洲領袖將在柏林開會，因為烏克蘭明年面臨高達兩百五十億歐元的資金缺口。接著看國際司法。聯合國國際法院即將就羅興亞屠殺案，對緬甸作出種族滅絕案的判決。到目前為止，還沒有任何國家曾被國際法院判定犯下種族滅絕罪，因此這項判決備受矚目。中東方面，美國週二空襲伊朗位於波斯灣的格什姆島後，科威特表示擊退了兩個月來首次來自伊朗的攻擊，巴林也說遭到伊朗攻擊。加薩情勢同樣緊張。以色列軍方罕見越過所謂的黃線，在加薩展開地面行動，軍方表示是為了摧毀恐怖分子的地道。哈瑪斯則譴責這次行動是公然違反停火協議。最後是財經新聞。開發聊天機器人Claude的人工智慧公司Anthropic，在股票上市前估值達到一兆五千億美元，將躋身全球市值最高的企業之一。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-19",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 76,
+  "length": 634225,
+  "headlines": [
+   {
+    "title_zh": "習近平迎來重大外交時刻，與普丁、川普在中國會面",
+    "title_en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "緬甸羅興亞種族滅絕案，聯合國法院將作出歷史性判決",
+    "title_en": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+    "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國空襲伊朗格什姆島後，科威特稱擊退兩個月來首次伊朗攻擊",
+    "title_en": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列軍方罕見越過黃線在加薩展開地面行動",
+    "title_en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "AI巨頭Anthropic上市前估值達1.5兆美元",
+    "title_en": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is November 19, 2026, and this is International News. Chinese President Xi Jinping is hosting a summit with Russia's Vladimir Putin and US President Donald Trump, a remarkable diplomatic moment that also carries pitfalls, as there are topics Xi appears reluctant to discuss. Trump greeted Putin as his friend and says he wants to raise nuclear non-proliferation with both leaders. Meanwhile, European leaders will meet in Berlin as Ukraine faces a 25 billion euro financing gap next year. At the UN's top court, Myanmar faces a historic verdict in the genocide case over the Rohingya massacres. No state has ever been found guilty of genocide by an international court. In the Gulf, Kuwait says it repelled its first Iranian attack in two months, after a US air strike on the Iranian island of Qeshm on Tuesday. Bahrain says it was also attacked. In Gaza, the Israeli military launched a rare ground operation beyond the Yellow Line, saying it was dismantling a terror tunnel. Hamas condemned the move as a flagrant ceasefire violation. And in business, Anthropic, the company behind the Claude chatbot, has been valued at 1.5 trillion dollars ahead of its stock market debut, making it one of the world's most valuable firms. That's International News."
+ }
+]
