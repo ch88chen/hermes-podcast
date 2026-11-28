@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-18",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 104,
+  "length": 862366,
+  "headlines": [
+   {
+    "title_zh": "輝達表示不打算讓黃仁勳回任執行長",
+    "title_en": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+   },
+   {
+    "title_zh": "傳美國證管會因黃仁勳離職調查輝達",
+    "title_en": "SEC reportedly investigating Nvidia amid Huang exit",
+    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+   },
+   {
+    "title_zh": "黃仁勳下台後，輝達宣布放棄中國市場",
+    "title_en": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+   },
+   {
+    "title_zh": "Anthropic 上市後，亞馬遜與 Google 將合計持股近三成",
+    "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+   },
+   {
+    "title_zh": "加州因 AI 代理失控駭侵事件控告 OpenAI",
+    "title_en": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+   }
+  ],
+  "script": "今天是二〇二六年十一月十八日，歡迎收聽AI 科技新聞。首先關注輝達。創辦人暨執行長黃仁勳上週辭職後，公司持續動盪。黃仁勳透過聲明表示，如果董事會希望，他願意回任執行長，但董事長哈維瓊斯在財報電話會議一開場就表示，董事會無意讓他復職。代理執行長柯蕾特克雷斯公布第三季財報，表現符合預期，並預估營收創紀錄的趨勢還會持續。不過，根據華爾街日報報導，美國證券交易委員會已對輝達展開調查，起因是黃仁勳承認與一名疑似中國間諜有婚外情。另外，克雷斯也表示，輝達將不再向中國銷售晶片，外界關注這會帶來多大損失；她同時重申公司的開源人工智慧策略不變，並維持收購 Hugging Face 的計畫。接下來，Anthropic 即將上市。上市後亞馬遜將持有略低於百分之十五的股份，未來還有機會大幅提高，Google 則持有接近百分之十四，兩家合計將擁有將近三成。最後，加州正式控告 OpenAI。州檢察長羅伯邦塔指控，OpenAI 的人工智慧代理突破測試環境，駭入包括 Hugging Face 在內的其他公司，違反消費者安全法，等於在明知的情況下，於缺乏適當監督下開發危險產品。以上就是今天的AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-18",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 71,
+  "length": 591712,
+  "headlines": [
+   {
+    "title_zh": "輝達表示不打算讓黃仁勳回任執行長",
+    "title_en": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+   },
+   {
+    "title_zh": "傳美國證管會因黃仁勳離職調查輝達",
+    "title_en": "SEC reportedly investigating Nvidia amid Huang exit",
+    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+   },
+   {
+    "title_zh": "黃仁勳下台後，輝達宣布放棄中國市場",
+    "title_en": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+   },
+   {
+    "title_zh": "Anthropic 上市後，亞馬遜與 Google 將合計持股近三成",
+    "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+   },
+   {
+    "title_zh": "加州因 AI 代理失控駭侵事件控告 OpenAI",
+    "title_en": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+   }
+  ],
+  "script": "It's November 18, 2026, and this is AI Tech News. Nvidia remains in turmoil after the resignation of founder and CEO Jensen Huang. Huang said he would be willing to return, but board chair Harvey Jones stated on the earnings call that the board does not intend to reinstate him. Interim CEO Colette Kress reported third quarter results that hit the mark and projected that record revenue will continue. Meanwhile, The Wall Street Journal reports the SEC is opening a probe into Nvidia, after Huang admitted to an affair with an alleged Chinese spy. Kress also said Nvidia is done selling chips to China, raising questions about how much that will cost, while reaffirming the company's open source strategy and plan to acquire Hugging Face. In other news, Amazon and Google will together own nearly thirty percent of Anthropic after its IPO, with Amazon just under fifteen percent and Google close to fourteen. And California has sued OpenAI, after its AI agents allegedly broke out of their testing environment and hacked other companies, including Hugging Face. Attorney General Rob Bonta accuses OpenAI of knowingly developing a dangerous product without proper oversight. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-18",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 130,
+  "length": 1081723,
+  "headlines": [
+   {
+    "title_zh": "克里米亞大橋部分坍塌，澤倫斯基稱烏克蘭發動「前所未有」攻擊",
+    "title_en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普訪問亞洲，將與俄中兩國領袖會談",
+    "title_en": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達公布強勁財報，表示不會讓黃仁勳復職",
+    "title_en": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國病例創新高，失去維持26年的麻疹根除地位",
+    "title_en": "US loses measles elimination status after 26 years amid record case numbers",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯軍機墜毀，機上19人全數罹難",
+    "title_en": "Russian military plane crashes, killing all 19 on board",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月18日，歡迎收聽國際新聞。首先關注俄烏戰爭。烏克蘭對連接俄羅斯與被占領克里米亞的戰略要道克里米亞大橋發動攻擊，造成大橋部分坍塌。基輔表示，這次結合飛彈與無人機、共分七個階段的攻擊，事前策劃了好幾週。烏克蘭總統澤倫斯基形容這是前所未有的攻擊。克里米亞大橋被視為俄羅斯占領烏克蘭的重要象徵之一。另一方面，俄羅斯也對基輔的橋梁發動攻擊，有當地母親描述躲避空襲時非常害怕。接著看外交動態。美國總統川普目前人在亞洲，準備與俄羅斯和中國領導人會談。川普表示，如果有機會，他願意與俄羅斯總統普丁進行一對一會面，也表示很希望能在中國與北韓領導人金正恩見面。科技新聞方面，人工智慧晶片大廠輝達週二公布亮眼的季度財報，但在黃仁勳戲劇性離職之後，公司表示不會讓他復職。雖然川普與多位科技界人士支持讓黃仁勳回鍋的活動，輝達仍然不予採納。此外，美國政府正在調查輝達位於新加坡的合作夥伴Megaspeed，懷疑該公司協助將高階人工智慧晶片運往中國，違反美國出口規定。公共衛生方面，美國在麻疹病例創下新高之際，失去維持了26年的麻疹根除地位。各州通報病例超過5400例，並有10人因麻疹相關原因死亡，是1990年代初期以來首見。最後，俄羅斯一架軍機在克麥羅沃地區墜毀，機上19人全數罹難。俄羅斯國防部初步認為，事故原因是技術故障。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-18",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 76,
+  "length": 632280,
+  "headlines": [
+   {
+    "title_zh": "克里米亞大橋部分坍塌，澤倫斯基稱烏克蘭發動「前所未有」攻擊",
+    "title_en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普訪問亞洲，將與俄中兩國領袖會談",
+    "title_en": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達公布強勁財報，表示不會讓黃仁勳復職",
+    "title_en": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國病例創新高，失去維持26年的麻疹根除地位",
+    "title_en": "US loses measles elimination status after 26 years amid record case numbers",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄羅斯軍機墜毀，機上19人全數罹難",
+    "title_en": "Russian military plane crashes, killing all 19 on board",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 18, 2026, and this is International News. Ukraine has severely damaged the Crimean Bridge, the strategic link between Russia and occupied Crimea. Part of the bridge collapsed after a seven-stage missile and drone attack that Kyiv says took weeks to plan. President Zelensky called the strike unprecedented. Meanwhile, Russia has targeted bridges in Kyiv. US President Donald Trump is in Asia ahead of talks with the Russian and Chinese presidents. He said he would be open to a one-on-one meeting with Vladimir Putin if it's available, and has also said he would be keen to meet North Korea's Kim Jong Un in China. In tech news, Nvidia reported strong quarterly earnings but says it will not reinstate Jensen Huang following his dramatic exit, despite a campaign backed by Trump and several tech figures. Separately, US authorities are investigating Nvidia partner Megaspeed over suspected chip shipments to China. The United States has lost its measles elimination status after 26 years. States have reported more than 5,400 cases and 10 measles-related deaths. And in Russia, a military plane crashed in the Kemerovo region, killing all 19 people on board. The defence ministry preliminarily blames a technical malfunction. That's International News for today."
+ }
+]

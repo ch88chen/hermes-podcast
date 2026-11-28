@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-15",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 113,
+  "length": 943533,
+  "headlines": [
+   {
+    "title_zh": "輝達執行長黃仁勳下台後，各界質疑輝達安全團隊失職",
+    "title_en": "Where was Nvidia's security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+   },
+   {
+    "title_zh": "馬斯克等科技高層連署，要求輝達讓黃仁勳復職",
+    "title_en": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+   },
+   {
+    "title_zh": "黃仁勳離職重創AI新創募資，創投與創辦人憂心",
+    "title_en": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+   },
+   {
+    "title_zh": "研究顯示中國最強AI模型以禁運輝達晶片訓練",
+    "title_en": "Export-banned Nvidia chips are behind China's most powerful AI models",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+   },
+   {
+    "title_zh": "ChatGPT Wallet上線，讓OpenAI的Dots代理人替你購物",
+    "title_en": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+   }
+  ],
+  "script": "今天是二零二六年十一月十五日，歡迎收聽AI科技新聞。首先關注輝達的震盪。執行長黃仁勳因個人關係問題下台，其中一段關係的對象，是一家涉嫌將晶片輸往中國的公司高層。外界開始質疑輝達的安全團隊到底在哪裡，因為輝達的資安主管早在八月就悄悄離職。一位前情報官員表示，這類洩密往往發生在日常對話之中，而多數企業的安全團隊並沒有能力察覺。另一方面，馬斯克等多位科技業高層簽署連署，呼籲輝達讓黃仁勳復職，截至週六下午，連署人數已經超過十一萬五千人。黃仁勳離開的衝擊也延燒到新創圈。在他領導下，輝達曾向AI新創投入數百億美元，如今少了他掌舵，創投與創辦人都已做好心理準備，預期投資金額變小、估值也會下滑。雪上加霜的是，一項新研究指出，中國最先進的AI模型，是用遭到出口禁令限制的輝達晶片訓練出來的，讓輝達承受更多壓力。最後來看消費應用。OpenAI在今年稍早推出Dots AI代理人平台之後，現在推出了ChatGPT Wallet，讓AI代理人可以直接替使用者購物。這項功能從今天開始，開放給美國年滿十八歲、使用美國帳單地址的ChatGPT Pro訂閱用戶，並需搭配符合資格的美國發行信用卡，包括美國運通、大通、萬事達與Visa。以上就是今天的AI科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-15",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 72,
+  "length": 604797,
+  "headlines": [
+   {
+    "title_zh": "輝達執行長黃仁勳下台後，各界質疑輝達安全團隊失職",
+    "title_en": "Where was Nvidia's security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+   },
+   {
+    "title_zh": "馬斯克等科技高層連署，要求輝達讓黃仁勳復職",
+    "title_en": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+   },
+   {
+    "title_zh": "黃仁勳離職重創AI新創募資，創投與創辦人憂心",
+    "title_en": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+   },
+   {
+    "title_zh": "研究顯示中國最強AI模型以禁運輝達晶片訓練",
+    "title_en": "Export-banned Nvidia chips are behind China's most powerful AI models",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+   },
+   {
+    "title_zh": "ChatGPT Wallet上線，讓OpenAI的Dots代理人替你購物",
+    "title_en": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+   }
+  ],
+  "script": "It's November 15, 2026, and this is AI Tech News. Nvidia remains in turmoil after CEO Jensen Huang stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China. Questions are mounting about Nvidia's security team, whose chief quietly left in August. A former intelligence officer says leaks through everyday conversations are something most corporate security teams are poorly equipped to catch. Meanwhile, Elon Musk and other tech executives have signed a petition calling on Nvidia to reinstate Huang, with more than 115,000 signatures as of Saturday afternoon. The fallout extends to startups. Nvidia poured tens of billions into AI startups under Huang, and founders and venture capitalists now brace for smaller checks and lower valuations. Adding pressure, new research shows China's most advanced AI models were trained on export-banned Nvidia chips. In other news, OpenAI is launching ChatGPT Wallet, letting its Dots AI agents make purchases for you. It is rolling out to ChatGPT Pro subscribers in the US aged 18 and older with eligible US-issued cards. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-15",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 106,
+  "length": 877943,
+  "headlines": [
+   {
+    "title_zh": "白宮：川普、普丁與習近平下週將在中國舉行歷史性三方會談",
+    "title_en": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基：美方曾提議烏克蘭割讓頓巴斯以換取加入北約",
+    "title_en": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國運輸部長：銅線升級工程導致全國航班停飛",
+    "title_en": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "義大利因存取用戶照片重罰Meta 8.05億歐元",
+    "title_en": "Italy fines Meta €805m over accessing users' photos",
+    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "SpaceX以機械臂「筷子」成功接住返回的星艦火箭",
+    "title_en": "SpaceX catches part of its Starship rocket on return to Earth",
+    "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月15日，歡迎收聽國際新聞。首先是外交焦點，白宮表示，美國總統川普、俄羅斯總統普丁與中國國家主席習近平，計畫下週在中國舉行前所未有的三方會談。白宮發言人指出，川普將在會談中討論削減核武的議題，這場會議備受全球矚目。接著是俄烏戰爭的最新發展，烏克蘭總統澤倫斯基表示，美國曾提出讓烏克蘭割讓頓巴斯地區，以換取加入北約的構想。不過美方並未證實這項說法，一名美國官員只對英國廣播公司表示，目前仍有許多想法在討論當中。再來看美國國內，美國運輸部長表示，先前造成全國航班停飛的原因，是一項銅線升級工程。美國聯邦航空總署形容這是安全與通訊問題，全國各地旅客都受到影響。政府目前正在調查，這場混亂究竟是人為疏失，還是設備故障所造成。科技方面，義大利對社群媒體巨頭Meta開罰8億零5百萬歐元，指控Meta沒有告知2000萬名用戶，它能夠存取用戶的照片。最後是太空新聞，SpaceX成功在星艦火箭返回地球時，利用暱稱為「筷子」的巨型機械臂，把火箭的一部分穩穩接住，完成這項歷史性的回收壯舉。以上是今天的國際新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-15",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 66,
+  "length": 552868,
+  "headlines": [
+   {
+    "title_zh": "白宮：川普、普丁與習近平下週將在中國舉行歷史性三方會談",
+    "title_en": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "澤倫斯基：美方曾提議烏克蘭割讓頓巴斯以換取加入北約",
+    "title_en": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國運輸部長：銅線升級工程導致全國航班停飛",
+    "title_en": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "義大利因存取用戶照片重罰Meta 8.05億歐元",
+    "title_en": "Italy fines Meta €805m over accessing users' photos",
+    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "SpaceX以機械臂「筷子」成功接住返回的星艦火箭",
+    "title_en": "SpaceX catches part of its Starship rocket on return to Earth",
+    "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 15, 2026, and this is International News. The White House says President Trump, Vladimir Putin and Xi Jinping plan an unprecedented joint meeting in China next week. A spokeswoman says Trump will discuss the reduction of nuclear weapons. Meanwhile, Ukrainian President Volodymyr Zelensky says the United States has floated the idea of Ukraine ceding the Donbas region in exchange for Nato membership. Washington has not confirmed this, with a US official saying many ideas continue to be discussed. In the US, the transport secretary says a copper wire upgrade caused a nationwide flight suspension that stranded passengers across the country. The government is investigating whether the chaos stemmed from incompetence or faulty equipment. In Europe, Italy has fined Meta 805 million euros, accusing the social media giant of failing to inform 20 million users that it had access to their photos. And finally, SpaceX has made history by catching part of its Starship rocket on its return to Earth, using giant mechanical arms nicknamed chopsticks. That's International News for today. Thanks for listening."
+ }
+]

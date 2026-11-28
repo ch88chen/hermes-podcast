@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-25",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 116,
+  "length": 962229,
+  "headlines": [
+   {
+    "title_zh": "黃仁勳回任輝達執行長，全員大會致歉並感謝白宮",
+    "title_en": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+   },
+   {
+    "title_zh": "Anthropic 股價跌破 IPO 價格，AI 新創估值恐受壓",
+    "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+   },
+   {
+    "title_zh": "亞馬遜傳以 75 億美元收購 Decart，以軟體縮小與輝達的晶片差距",
+    "title_en": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+   },
+   {
+    "title_zh": "亞馬遜：駭客的 AI 代理幾乎無需人力即找到並利用零日漏洞",
+    "title_en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+   },
+   {
+    "title_zh": "Tidal 下月起禁止 AI 生成音樂，將刪除約 2900 萬首歌曲",
+    "title_en": "Tidal will start banning AI-generated music next month",
+    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+   }
+  ],
+  "script": "今天是 2026 年 11 月 25 日，歡迎收聽 AI 科技新聞。首先來看輝達。黃仁勳在白宮支持下重新回任輝達執行長與董事。他在回歸後的第一場全員大會上向員工道歉，感謝白宮，並表示自己正在接受心理治療，也很感激能有第二次機會帶領公司。不過根據報導，他也否認是川普讓他復職的說法。耶魯大學的桑能菲爾德則警告，這次回歸可能是個大錯，董事們恐怕會因為越來越多的訴訟，面臨歷史性的個人責任。接著看資本市場。Anthropic 的股價已經跌破首次公開發行的價格，這波下跌可能對整體 AI 新創公司的估值帶來壓力。在晶片競賽方面，亞馬遜據報將以約 75 億美元收購 Decart，目的是提升自家 Trainium 晶片的效率，希望透過軟體來縮小與輝達之間的差距。資安方面，亞馬遜表示，駭客利用 AI 代理，在幾乎不需要人力介入的情況下，找到並利用了一個零日漏洞。這套名為 Cairn 的 AI 框架，對攻擊者和防禦者來說都是一大助力。英國網路安全機構也警告，AI 驅動的攻擊正在暴露多年來薄弱的資安基礎，強調打好基本功比以往更重要。最後是音樂串流。Tidal 將從 12 月 9 日起正式禁止完全由 AI 生成的音樂，預計刪除約 2900 萬首歌曲，每天還會拒絕大約八萬到八萬五千首新上傳的曲目。不過，在 AI 輔助下創作的歌曲仍然可以上架。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-25",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 76,
+  "length": 635047,
+  "headlines": [
+   {
+    "title_zh": "黃仁勳回任輝達執行長，全員大會致歉並感謝白宮",
+    "title_en": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+   },
+   {
+    "title_zh": "Anthropic 股價跌破 IPO 價格，AI 新創估值恐受壓",
+    "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+   },
+   {
+    "title_zh": "亞馬遜傳以 75 億美元收購 Decart，以軟體縮小與輝達的晶片差距",
+    "title_en": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+   },
+   {
+    "title_zh": "亞馬遜：駭客的 AI 代理幾乎無需人力即找到並利用零日漏洞",
+    "title_en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+   },
+   {
+    "title_zh": "Tidal 下月起禁止 AI 生成音樂，將刪除約 2900 萬首歌曲",
+    "title_en": "Tidal will start banning AI-generated music next month",
+    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+   }
+  ],
+  "script": "Today is November 25, 2026, and this is AI Tech News. Jensen Huang is back as Nvidia's CEO. At his first all-hands meeting since returning, he apologized to staff, thanked the White House, and said he is in therapy, while reportedly denying that Trump got him rehired. Yale's Jeffrey Sonnenfeld warns the comeback could expose Nvidia's directors to historic personal liability from mounting lawsuits. In markets, Anthropic shares have fallen below their IPO price, a slump that could pressure valuations across AI startups. Amazon is reportedly acquiring Decart for 7.5 billion dollars, betting that software can improve the efficiency of its Trainium chips and narrow the gap with Nvidia. On security, Amazon says hackers used AI agents to find and exploit a zero-day vulnerability with little human input, using the Cairn AI framework, which is helping both attackers and defenders. Meanwhile, the UK's cyber agency warns AI-driven attacks are exposing years of weak security. Finally, Tidal will ban fully AI-generated music starting December 9th, deleting around 29 million tracks and rejecting an estimated 80 to 85 thousand per day. Songs made with AI assistance will still be accepted. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-25",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 107,
+  "length": 890516,
+  "headlines": [
+   {
+    "title_zh": "俄羅斯內部數據顯示烏克蘭戰爭死亡近50萬人",
+    "title_en": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "華為竊取美國商業機密罪成立，但敲詐勒索罪獲判無罪",
+    "title_en": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國將因輝達醜聞把亞洲AI公司Megaspeed列入黑名單",
+    "title_en": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "索羅門群島終止與中國的安全協議，改簽澳洲條約",
+    "title_en": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙烏地主導聯軍在荷台達空襲後攔截青年運動攻擊",
+    "title_en": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+    "link": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年11月25日，歡迎收聽國際新聞。首先關注俄烏戰爭。外洩的俄羅斯官方數據顯示，烏克蘭戰爭已造成將近50萬人死亡，也揭示全面入侵烏克蘭之後，俄羅斯國內的死亡模式出現了根本性的改變。接著是科技與法律新聞。在紐約經過長達數月的審判後，中國電信巨頭華為被判竊取美國商業機密罪名成立，不過敲詐勒索的指控則獲判無罪。另外，美國準備將亞洲人工智慧公司Megaspeed列入黑名單。這家公司被指控把AI晶片輸送到中國，事件起因是一名前高層與輝達執行長黃仁勳的婚外情曝光。同時，美國司法部長面對輝達調查相關提問時迴避回答，國會議員要求說明川普總統在黃仁勳復職一事中扮演的角色，輝達股價因此下跌百分之七。接下來看太平洋地區。索羅門群島宣布終止與中國之間備受爭議的安全協議，改與澳洲簽署條約。索羅門群島領導人華勒表示，國家將不再是區域不確定性的來源。最後是中東局勢。沙烏地阿拉伯主導的聯軍表示，在對葉門荷台達發動空襲之後，攔截了青年運動的攻擊。這波升級的起因，是葉門叛軍先前威脅要攻擊沙烏地在紅海的港口作為報復。以上是今天的國際新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-25",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 68,
+  "length": 566168,
+  "headlines": [
+   {
+    "title_zh": "俄羅斯內部數據顯示烏克蘭戰爭死亡近50萬人",
+    "title_en": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "華為竊取美國商業機密罪成立，但敲詐勒索罪獲判無罪",
+    "title_en": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國將因輝達醜聞把亞洲AI公司Megaspeed列入黑名單",
+    "title_en": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "索羅門群島終止與中國的安全協議，改簽澳洲條約",
+    "title_en": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙烏地主導聯軍在荷台達空襲後攔截青年運動攻擊",
+    "title_en": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+    "link": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 25, 2026, and this is International News. Leaked data from Russia's own figures show almost 500,000 deaths in the war in Ukraine, revealing how the full-scale invasion has fundamentally changed mortality patterns in Russia. In New York, Huawei has been found guilty of stealing US trade secrets but acquitted of racketeering, following a months-long trial. The United States plans to blacklist Asian AI firm Megaspeed, accused of funneling AI chips to China after a former executive's affair with Nvidia chief Jensen Huang became public. Meanwhile, Nvidia shares have fallen seven percent as the US attorney general dodged questions about the investigation. In the Pacific, Solomon Islands has ended its controversial security pact with China in favor of a treaty with Australia. Leader Matthew Wale said his country would no longer be a point of regional uncertainty. And in the Middle East, a Saudi-led coalition says it intercepted Houthi attacks after a strike on Hodeidah. The escalation follows threats by the Yemeni rebel group to attack the kingdom's Red Sea ports in retaliation. That's International News for today. Thanks for listening."
+ }
+]

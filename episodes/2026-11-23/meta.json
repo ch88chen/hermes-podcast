@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-23",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 107,
+  "length": 885471,
+  "headlines": [
+   {
+    "title_zh": "Notable Capital、GIC 與 Baillie Gifford 如何在 IPO 前重押 Anthropic",
+    "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+   },
+   {
+    "title_zh": "OpenAI 首席科學家談如何為 AI 發展設限",
+    "title_en": "OpenAI's chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+   },
+   {
+    "title_zh": "Signal 限制手機截圖，應對 AI 監控的「生存威脅」",
+    "title_en": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+   },
+   {
+    "title_zh": "兩個面貌的 Nvidia",
+    "title_en": "A tale of two Nvidias",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+   },
+   {
+    "title_zh": "聯合國未能就「殺手機器人」規範達成共識",
+    "title_en": "The UN fails to agree on rules regulating 'killer robots'",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+   }
+  ],
+  "script": "今天是2026年11月23日，歡迎收聽AI科技新聞。首先來看投資消息。Anthropic即將進行首次公開募股，三家重要投資方，Notable Capital、新加坡主權基金GIC，以及Baillie Gifford，分享了他們當初為什麼有信心砸下數十億美元押注Anthropic，也讓外界更了解這家AI公司在資本市場上的吸引力。接著，OpenAI的首席科學家針對如何限制AI發展提出看法。他認為，如果要替AI發展設下速限，大家首先必須對如何衡量速度達成共識，這也點出了AI治理中最基本卻最困難的問題。在隱私方面，通訊軟體Signal開始限制使用者在Android和iOS應用程式中截圖，Signal把AI監控形容為一種生存威脅，希望藉此保護使用者的對話內容。再來看Nvidia。這週外界看到了兩個截然不同的Nvidia，一邊是公司最新的財報表現，另一邊則是一些科技業高層公開大聲呼籲黃仁勳回歸，兩種畫面形成強烈對比，值得持續關注。最後是國際新聞。聯合國外交官本週在日內瓦開會，議程之一是研擬自主武器，也就是俗稱殺手機器人的使用規範。不過經過一整週幾乎沒有成果的談判，各國代表最後只同意開始討論可能的方案，距離真正的規範還有很長一段路。以上就是今天的AI科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-23",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 63,
+  "length": 522487,
+  "headlines": [
+   {
+    "title_zh": "Notable Capital、GIC 與 Baillie Gifford 如何在 IPO 前重押 Anthropic",
+    "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+   },
+   {
+    "title_zh": "OpenAI 首席科學家談如何為 AI 發展設限",
+    "title_en": "OpenAI's chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+   },
+   {
+    "title_zh": "Signal 限制手機截圖，應對 AI 監控的「生存威脅」",
+    "title_en": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+   },
+   {
+    "title_zh": "兩個面貌的 Nvidia",
+    "title_en": "A tale of two Nvidias",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+   },
+   {
+    "title_zh": "聯合國未能就「殺手機器人」規範達成共識",
+    "title_en": "The UN fails to agree on rules regulating 'killer robots'",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+   }
+  ],
+  "script": "Today is November 23, 2026, and this is AI Tech News. First, three major backers, Notable Capital, GIC, and Baillie Gifford, explain what gave them the conviction to bet billions on Anthropic ahead of its IPO. Next, OpenAI's chief scientist shared thoughts on limiting AI development, arguing that to set a speed limit on AI, the industry first needs to agree on how to measure speed. In privacy news, Signal is restricting screenshots in its Android and iOS apps, describing AI surveillance as an existential threat. Over at Nvidia, two very different pictures emerged this week: the company's latest earnings report on one side, and tech executives loudly calling for Jensen Huang's return on the other. Finally, UN diplomats meeting in Geneva failed to agree on rules for autonomous weapons, often called killer robots. After a largely fruitless week of negotiations, representatives only agreed to start discussing options. That's all for today's AI Tech News. Thanks for listening, and see you tomorrow."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-23",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 107,
+  "length": 889540,
+  "headlines": [
+   {
+    "title_zh": "史上最長聯合國氣候談判COP31破局，未達成協議",
+    "title_en": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄軍空襲烏克蘭德梅爾，7歲男童受困瓦礫14小時後獲救",
+    "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國期中選舉民主黨奪下1992年以來最大眾議院多數",
+    "title_en": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印尼糖果工廠大火，確認24人罹難",
+    "title_en": "Indonesia confirms 24 killed in candy factory fire as search continues",
+    "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss"
+   },
+   {
+    "title_zh": "南韓教育部長因大考AI作弊風波請辭",
+    "title_en": "South Korea education minister resigns over exam cheating scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月23日，歡迎收聽國際新聞。首先關注氣候議題。聯合國氣候峰會COP31在沒有達成任何協議的情況下落幕，這次談判是峰會史上耗時最長的一次，比原定結束時間多拖了兩天，最後仍然破局，也暴露出各國之間的深刻分歧。共同主辦這次會議的澳洲總理表示，失敗的原因在於目前艱困的地緣政治局勢。接著來看烏克蘭。俄羅斯對基輔州德梅爾一棟住宅大樓發動攻擊，造成至少十一人死亡。救難人員表示，一名叫做大衛的七歲男童，在瓦礫堆中受困十四個小時後被成功救出，目前搜救行動仍在持續，尋找其他失蹤的民眾。美國方面，民主黨在期中選舉中翻轉北卡羅來納州的一個席次後，拿下自1992年以來最大的眾議院多數。目前民主黨至少贏得二百五十八席，共和黨則至少有一百七十三席。亞洲方面，印尼一家糖果工廠發生大火，當局已確認有二十四人罹難，救難人員仍在搜尋三十名失蹤者，死亡人數恐怕還會增加。最後是南韓。教育部長崔教振因大學入學考試的作弊風波宣布請辭。他承認，為了防止考生利用人工智慧作弊而臨時推出的措施，在考試期間造成了混亂。以上就是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-23",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 74,
+  "length": 618428,
+  "headlines": [
+   {
+    "title_zh": "史上最長聯合國氣候談判COP31破局，未達成協議",
+    "title_en": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "俄軍空襲烏克蘭德梅爾，7歲男童受困瓦礫14小時後獲救",
+    "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國期中選舉民主黨奪下1992年以來最大眾議院多數",
+    "title_en": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "印尼糖果工廠大火，確認24人罹難",
+    "title_en": "Indonesia confirms 24 killed in candy factory fire as search continues",
+    "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss"
+   },
+   {
+    "title_zh": "南韓教育部長因大考AI作弊風波請辭",
+    "title_en": "South Korea education minister resigns over exam cheating scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 23, 2026, and this is International News. The UN climate talks, COP31, have ended with no deal after the longest negotiations in the summit's history, breaking down two days past their scheduled end. Australia's prime minister, whose country co-hosted the talks, blamed difficult geopolitical times. In Ukraine, a seven-year-old boy named David was pulled alive from the rubble after spending fourteen hours trapped, following a Russian strike on a residential building in Dymer, in the Kyiv region. At least eleven people were killed, and rescuers are still searching for the missing. In the United States, Democrats have won their largest House majority since 1992 after flipping a seat in North Carolina. They now hold at least 258 seats, compared with at least 173 for Republicans. In Indonesia, authorities have confirmed 24 people killed in a fire at a candy factory, with rescuers searching for 30 people still missing. And in South Korea, Education Minister Choi Kyo-jin has resigned over a cheating scandal, admitting that last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos. That's International News for today. Thanks for listening."
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-16",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 128,
+  "length": 1066888,
+  "headlines": [
+   {
+    "title_zh": "黃仁勳捲入間諜醜聞辭職後，傳出可能謀劃重返輝達",
+    "title_en": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+   },
+   {
+    "title_zh": "馬斯克等科技高層連署，要求輝達讓黃仁勳復職",
+    "title_en": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+   },
+   {
+    "title_zh": "輝達間諜醜聞後，美國國會擬收緊 AI 晶片出口規定",
+    "title_en": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+   },
+   {
+    "title_zh": "蘋果推出新研究，探討民眾如何使用 AI 健康工具",
+    "title_en": "Apple's new study looks to improve the effectiveness of AI health tools",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+   },
+   {
+    "title_zh": "印度晶片新創 Bharat Semi 獲 2400 萬美元種子輪，進軍全球 AI 感測器市場",
+    "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+   }
+  ],
+  "script": "今天是 2026 年 11 月 16 日，歡迎收聽 AI 科技新聞。首先，輝達的領導危機持續延燒。共同創辦人黃仁勳因個人關係問題辭去執行長職務，其中涉及一位任職於疑似將晶片輸往中國的公司的高層。最新消息指出，黃仁勳可能正在尋找重返執行長位置的途徑。外界對他的支持也在升溫，馬斯克與其他多位科技業高層連署請願，要求輝達讓黃仁勳復職，截至週六下午，連署人數已超過十一萬五千人。另一方面，外界也開始質疑輝達的資安團隊，因為該公司的資安主管在八月已悄悄離職。一位前情報官員表示，這類洩密往往發生在日常對話中，而多數企業的資安團隊並不擅長察覺。接著看華府動態。醜聞爆發後，美國國會兩黨議員都表態支持多項法案與措施，希望進一步收緊 AI 晶片的出口規定，並要求黃仁勳與輝達其他高層到國會作證。這起事件也讓外界擔憂，輝達的壞消息是否會波及整個 AI 產業，因為許多經濟活動都仰賴輝達。接下來是蘋果的新動向。蘋果宣布與臨床 AI 平台 OpenEvidence 合作，展開蘋果健康 AI 使用研究，並推出一款新 App 回答日常醫療問題，目的是了解民眾如何與對話式 AI 健康工具互動，以及這些回答到底有多實用。最後，印度晶片新創公司 Bharat Semi 宣布完成兩千四百萬美元的種子輪募資，目標瞄準全球 AI 感測器市場。該公司表示，旗下具備 AI 功能的感測器技術，已獲得包括 General Atomics 在內等企業的設計採用。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-16",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 78,
+  "length": 647430,
+  "headlines": [
+   {
+    "title_zh": "黃仁勳捲入間諜醜聞辭職後，傳出可能謀劃重返輝達",
+    "title_en": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+   },
+   {
+    "title_zh": "馬斯克等科技高層連署，要求輝達讓黃仁勳復職",
+    "title_en": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+   },
+   {
+    "title_zh": "輝達間諜醜聞後，美國國會擬收緊 AI 晶片出口規定",
+    "title_en": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+   },
+   {
+    "title_zh": "蘋果推出新研究，探討民眾如何使用 AI 健康工具",
+    "title_en": "Apple's new study looks to improve the effectiveness of AI health tools",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+   },
+   {
+    "title_zh": "印度晶片新創 Bharat Semi 獲 2400 萬美元種子輪，進軍全球 AI 感測器市場",
+    "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+   }
+  ],
+  "script": "Today is November 16, 2026, and this is AI Tech News. The Nvidia leadership crisis continues to dominate. Co-founder Jensen Huang stepped down as CEO over his relationships, including one with an executive at a company suspected of funneling chips to China. Now rumors suggest Huang may be looking for a path back to the top job. Support is growing too: Elon Musk and other tech executives signed a petition calling on Nvidia to reinstate him, with more than 115,000 signatures as of Saturday afternoon. Meanwhile, questions are mounting about Nvidia's security, after its security chief quietly left in August. In Washington, Democrats and Republicans alike are backing measures to tighten AI chip export rules, and are demanding that Huang and other Nvidia leaders testify before Congress. In other news, Apple announced the Apple Health AI Usage Study with clinical AI platform OpenEvidence. A new app will answer everyday medical questions, helping Apple understand how people use conversational AI health tools and how useful the answers really are. Finally, Indian chip startup Bharat Semi raised a 24 million dollar seed round. It says it has secured design wins for its AI-enabled sensor technology, including with General Atomics. That's AI Tech News for today."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-16",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 106,
+  "length": 881176,
+  "headlines": [
+   {
+    "title_zh": "澤倫斯基呼籲美國與馬斯克解除星鏈限制",
+    "title_en": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "葉門政府軍撤退，青年運動掌控紅海關鍵水道",
+    "title_en": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達醜聞核心公司稱涉嫌間諜者已於2025年離職",
+    "title_en": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+    "link": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss"
+   },
+   {
+    "title_zh": "東協與中國未能達成南海行為準則",
+    "title_en": "ASEAN, China fall short of agreeing on South China Sea code",
+    "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss"
+   },
+   {
+    "title_zh": "美國與對手角力下任聯合國秘書長人選",
+    "title_en": "US and rivals spar over next UN boss as race lurches towards deadline",
+    "link": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年11月16日，歡迎收聽國際新聞。首先關注烏克蘭。烏克蘭總統澤倫斯基呼籲美國與馬斯克解除星鏈的限制，他表示，網路速度被放慢，讓烏克蘭更難阻擋俄羅斯的攻擊，並喊話對方應該站在歷史正確的一邊。接著看中東。在葉門，沙烏地阿拉伯支持的政府軍表示，正把部隊從曼德海峽調回，防守臨時首都亞丁。這項撤退讓青年運動，也就是胡塞武裝，掌控了這條紅海關鍵水道。胡塞武裝持續推進，威脅政府僅存的重要據點之一。科技方面，輝達醜聞持續延燒。位於新加坡的Megaspeed公司表示，被懷疑是中國間諜、並傳出與輝達前執行長黃仁勳有感情關係的中國科技主管黃愛麗絲，已經在2025年8月離職。這起醜聞引發外界質疑，先進人工智慧晶片是否在美國限制下仍流入中國。亞洲方面，東協與中國未能就南海行為準則達成協議。東南亞各國領袖也譴責緬甸境內的暴力，並延長禁止緬甸領導人出席東協峰會的措施。最後，下一任聯合國秘書長的選舉逐漸逼近期限，美國與對手國家之間角力激烈。民調顯示，哥斯大黎加的葛林斯潘目前領先，但美國和俄羅斯都可能否決她的參選。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-16",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 73,
+  "length": 605128,
+  "headlines": [
+   {
+    "title_zh": "澤倫斯基呼籲美國與馬斯克解除星鏈限制",
+    "title_en": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "葉門政府軍撤退，青年運動掌控紅海關鍵水道",
+    "title_en": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達醜聞核心公司稱涉嫌間諜者已於2025年離職",
+    "title_en": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+    "link": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss"
+   },
+   {
+    "title_zh": "東協與中國未能達成南海行為準則",
+    "title_en": "ASEAN, China fall short of agreeing on South China Sea code",
+    "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss"
+   },
+   {
+    "title_zh": "美國與對手角力下任聯合國秘書長人選",
+    "title_en": "US and rivals spar over next UN boss as race lurches towards deadline",
+    "link": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 16, 2026, and this is International News. Ukrainian President Volodymyr Zelensky is urging the United States and Elon Musk to lift Starlink restrictions, saying slowed-down internet is making it harder to stop Russian attacks. He called on them to be on the right side of history. In Yemen, Saudi-backed forces are pulling troops from the Bab al-Mandab Strait to defend the interim capital Aden, leaving the Houthis in control of the key Red Sea waterway. The Houthi advance threatens one of the government's last strongholds. In the Nvidia scandal, Singapore-based firm Megaspeed says Alice Huang, a suspected Chinese spy romantically linked to former Nvidia chief Jensen Huang, left the company in August 2025. The case has raised questions over whether advanced AI chips reached China despite US restrictions. Southeast Asian leaders and China have fallen short of agreeing on a South China Sea code of conduct. ASEAN leaders also denounced violence in Myanmar and extended a ban on its leader attending summits. And the race for the next UN secretary-general is heating up. Costa Rica's Rebeca Grynspan is the frontrunner, polls suggest, but the US and Russia could veto her bid. That's International News for today."
+ }
+]

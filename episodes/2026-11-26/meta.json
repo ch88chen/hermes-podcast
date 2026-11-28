@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-26",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 123,
+  "length": 1020197,
+  "headlines": [
+   {
+    "title_zh": "標準普爾考慮因治理與「關鍵人物」風險調降輝達信用評等",
+    "title_en": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+   },
+   {
+    "title_zh": "OpenAI 合併 Chat 與 Work，重度 ChatGPT 使用者可能更快達到用量上限",
+    "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+   },
+   {
+    "title_zh": "FCC 核准 SpaceX 發射最多一百萬顆資料中心衛星",
+    "title_en": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+   },
+   {
+    "title_zh": "各州檢察長反對 Character.AI 拍賣使用者私人對話",
+    "title_en": "Character.AI's plan to auction off users' private chats challenged by state AGs",
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+   },
+   {
+    "title_zh": "亞馬遜與 Meta 傳協商解除對 AI 代理 Muse 的封鎖",
+    "title_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十六日，歡迎收聽「AI 科技新聞」。首先，信用評等機構標準普爾正在考慮把輝達的信用評等調降到 AA 減，原因是公司治理以及所謂的關鍵人物風險。這項消息出現在黃仁勳獲得白宮支持、重新回任執行長與董事之後。黃仁勳在全員大會上向員工道歉，承認自己違反公司行為準則，也表示正在接受心理諮商。不過外界仍在追問，輝達對於透過 Megaspeed 出貨的晶片最終流向究竟知道多少。接著是 OpenAI。OpenAI 宣布將把 ChatGPT 的 Chat 與 Work 兩種體驗合併，改用單一用量計算方式，並提醒重度使用者可能會比以往更快碰到使用上限。太空方面，美國聯邦通訊委員會核准 SpaceX 部署最多一百萬顆搭載 AI 晶片的衛星，屬於 Starmind 計畫。這也是該機構首次核准太空資料中心的構想，而 Google 和藍色起源也在發展類似計畫。在隱私議題上，多州檢察長出面反對 Character.AI 在破產程序中出售使用者資料的計畫。檢察長指出，這批資料涵蓋超過兩千一百萬個美國帳號，其中有兩百一十萬個是未成年人註冊的帳號，內容包含敏感的私人對話。最後，根據報導，亞馬遜正與 Meta 協商，可能結束長達兩個月對 Meta 的 AI 購物代理 Muse 的封鎖。討論重點在於 Muse 推薦的商品類型，以及對亞馬遜廣告收入的影響。另一方面，沃爾瑪已經讓消費者透過 Muse 選購黑色星期五的優惠商品。以上就是今天的「AI 科技新聞」，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-26",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 73,
+  "length": 611897,
+  "headlines": [
+   {
+    "title_zh": "標準普爾考慮因治理與「關鍵人物」風險調降輝達信用評等",
+    "title_en": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+   },
+   {
+    "title_zh": "OpenAI 合併 Chat 與 Work，重度 ChatGPT 使用者可能更快達到用量上限",
+    "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+   },
+   {
+    "title_zh": "FCC 核准 SpaceX 發射最多一百萬顆資料中心衛星",
+    "title_en": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+   },
+   {
+    "title_zh": "各州檢察長反對 Character.AI 拍賣使用者私人對話",
+    "title_en": "Character.AI's plan to auction off users' private chats challenged by state AGs",
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+   },
+   {
+    "title_zh": "亞馬遜與 Meta 傳協商解除對 AI 代理 Muse 的封鎖",
+    "title_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+   }
+  ],
+  "script": "This is AI Tech News for November 26, 2026. First, S&P is considering downgrading Nvidia's credit rating to AA minus, citing governance and key man risks. The move follows Jensen Huang's White House backed return as CEO, after he apologized to staff and admitted breaking the company's code of conduct, while questions remain over chips sold through Megaspeed. Next, OpenAI is merging ChatGPT's Chat and Work experiences under a single usage meter, warning that heavy users may hit limits sooner. In space, the FCC has authorized SpaceX to deploy up to one million AI chip equipped satellites for its Starmind initiative, the agency's first approval of orbital data centers. Meanwhile, state attorneys general are challenging Character.AI's bankruptcy plan to sell user data, which covers more than 21 million U.S. accounts, including 2.1 million registered to minors. Finally, Amazon and Meta are reportedly in talks to end Amazon's two month block on Meta's AI shopping agent Muse, with discussions focused on product recommendations and advertising revenue. Walmart has already brought Black Friday deals to Muse. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-26",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 110,
+  "length": 913786,
+  "headlines": [
+   {
+    "title_zh": "美國宣布對包括中國在內多國加徵新關稅",
+    "title_en": "US announces new tariffs on host of countries including China",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "AI疑慮加劇，美股持續下跌",
+    "title_en": "US stocks fall further as fears over AI intensify",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列法官建議撤銷納坦雅胡最嚴重的指控",
+    "title_en": "Israeli judges recommend dropping most serious charges against Netanyahu",
+    "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "索羅門群島終止與中國安全協議，改簽澳洲條約",
+    "title_en": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國伊波拉病例突破一萬兩千例",
+    "title_en": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+    "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年11月26日，歡迎收聽國際新聞。首先來看貿易消息。美國宣布一系列新關稅，對象涵蓋許多美國最大的貿易夥伴，包括中國與歐盟。這波新稅措施預料將對全球貿易帶來衝擊，各國反應值得持續關注。接著看金融市場。由於市場對人工智慧的疑慮升高，美股進一步下跌。美國三大指數在早盤全數走低，其中以科技股為主的那斯達克指數重挫將近百分之四，顯示投資人對科技產業前景的擔憂正在擴大。中東方面，以色列法官建議撤銷總理納坦雅胡所面臨最嚴重的指控。法官表示，在三起案件中的其中一起，定罪的可能性很低。納坦雅胡隨即表示，他的審判應該就此結束。這項發展可能對以色列政局帶來影響。再來看太平洋地區。索羅門群島宣布終止與中國之間備受爭議的安全協議，改與澳洲簽訂條約。索羅門群島領導人瓦勒表示，他的國家將不再是區域不確定性的來源。這項轉變被視為區域地緣政治的重要變化。最後是非洲的疫情消息。剛果民主共和國的伊波拉病例已經突破一萬兩千例，是該國有史以來最嚴重的疫情。當局正努力控制疫情擴散，但東部地區的戰火造成醫護人員和平民流離失所，使防疫工作更加困難。以上是今天的國際新聞，感謝您的收聽，我們明天再會。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-26",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 63,
+  "length": 522475,
+  "headlines": [
+   {
+    "title_zh": "美國宣布對包括中國在內多國加徵新關稅",
+    "title_en": "US announces new tariffs on host of countries including China",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "AI疑慮加劇，美股持續下跌",
+    "title_en": "US stocks fall further as fears over AI intensify",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "以色列法官建議撤銷納坦雅胡最嚴重的指控",
+    "title_en": "Israeli judges recommend dropping most serious charges against Netanyahu",
+    "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "索羅門群島終止與中國安全協議，改簽澳洲條約",
+    "title_en": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "剛果民主共和國伊波拉病例突破一萬兩千例",
+    "title_en": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+    "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 26, 2026, and this is International News. The United States has announced new tariffs on many of its biggest trading partners, including China and the European Union. On Wall Street, stocks fell further as fears over artificial intelligence intensified. All three main indexes were down in early trading, with the tech-heavy Nasdaq down almost four percent. In Israel, judges recommended dropping the most serious charges against Prime Minister Benjamin Netanyahu, saying there was little chance of conviction in one of his three cases. Netanyahu says his trial should now end. In the Pacific, Solomon Islands has ended its controversial security pact with China in favor of a treaty with Australia. Leader Matthew Wale said his country would no longer be a point of regional uncertainty. And in the Democratic Republic of Congo, Ebola cases have surpassed twelve thousand in the country's worst outbreak. Authorities are struggling to contain it, as fighting in the east displaces health workers and civilians. That's International News for today. Thanks for listening."
+ }
+]

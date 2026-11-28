@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-21",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 133,
+  "length": 1103918,
+  "headlines": [
+   {
+    "title_zh": "輝達黃仁勳醜聞餘波持續：財報亮眼但停售中國 H200 晶片",
+    "title_en": "The fallout from Nvidia's Jensen Huang scandal continues",
+    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+   },
+   {
+    "title_zh": "Anthropic 數學家宣稱借助 Claude 證明黎曼猜想",
+    "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+   },
+   {
+    "title_zh": "Anthropic 創紀錄 IPO，七位創辦人套現近 20 億美元",
+    "title_en": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+   },
+   {
+    "title_zh": "川普揚言對海外建 AI 資料中心課徵「巨額稅」",
+    "title_en": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+   },
+   {
+    "title_zh": "Signal 封鎖 Gemini 與 Siri 等 AI 讀取螢幕",
+    "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十一日，歡迎收聽 AI 科技新聞。首先關注輝達。前執行長黃仁勳因一段婚外情而辭職，此事可能牽涉美國國家安全，尤其在美中競逐最先進 AI 基礎設施的背景下更受矚目。輝達本週在代理執行長克蕾斯帶領下公布第三季財報，成長依然穩健，並承諾好光景會持續，但同時宣布將停止在中國銷售 H200 晶片。不過股價表現疲弱，週四徘徊在每股一百五十美元左右，比十月六日的歷史高點下跌將近四成。接著是數學界的大消息。Anthropic 的數學家阿爾佩格宣稱，他在 Claude 協助下證明了黎曼猜想，這是千禧年大獎難題之一，困擾數學家長達一百六十七年。如果獲得驗證，將是 AI 在數學領域又一項重大突破，而且同時也出現了一個由人類提出的競爭解法，讓數學家們大感震撼。同樣和 Anthropic 有關，該公司完成創紀錄的首次公開發行，以調升後每股八十三美元定價，募得將近一千零五十億美元，七位創辦人每人入袋兩億八千萬美元，合計接近二十億美元。政策方面，美國總統川普揚言，將對在美國境外興建資料中心的企業課徵所謂的巨額稅，他表示不會允許美國企業在國外蓋資料中心，然而美國各地已有州和城市開始限制新的資料中心申請案。最後，通訊軟體 Signal 宣布限制在安卓和 iOS 裝置上截圖，目的是防止作業系統內建的 AI 代理，例如 Gemini 和 Siri，讀取使用者的訊息與資料。Signal 認為，這類分析螢幕內容的代理功能，正在削弱它獨立保障使用者隱私的能力。以上就是今天的 AI 科技新聞，感謝收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-21",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 78,
+  "length": 651945,
+  "headlines": [
+   {
+    "title_zh": "輝達黃仁勳醜聞餘波持續：財報亮眼但停售中國 H200 晶片",
+    "title_en": "The fallout from Nvidia's Jensen Huang scandal continues",
+    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+   },
+   {
+    "title_zh": "Anthropic 數學家宣稱借助 Claude 證明黎曼猜想",
+    "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+   },
+   {
+    "title_zh": "Anthropic 創紀錄 IPO，七位創辦人套現近 20 億美元",
+    "title_en": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+   },
+   {
+    "title_zh": "川普揚言對海外建 AI 資料中心課徵「巨額稅」",
+    "title_en": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+   },
+   {
+    "title_zh": "Signal 封鎖 Gemini 與 Siri 等 AI 讀取螢幕",
+    "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+   }
+  ],
+  "script": "Today is November 21, 2026, and this is AI Tech News. Nvidia is still reeling after Jensen Huang resigned following an affair that may carry national security implications. The company posted healthy third quarter growth under interim CEO Colette Kress, but said it will stop selling H200 chips in China, and its stock has fallen nearly 40 percent from its October high to around 150 dollars. In mathematics, Anthropic mathematician Levent Alpöge claims he proved the Riemann hypothesis with help from Claude, a Millennium Prize problem unsolved for 167 years. If verified, it would be a seismic achievement for AI, and a competing human solution has also emerged. Anthropic also completed a record-breaking IPO at 83 dollars a share, raising nearly 105 billion dollars, with each of its seven founders pocketing 280 million. On policy, President Trump threatened a tremendous tax on companies that build data centers outside the United States, even as some states and cities restrict new projects. Finally, Signal is restricting screenshots on Android and iOS to stop operating system AI agents like Gemini and Siri from reading users' messages, saying such features undermine its ability to guarantee privacy. That's all for today."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-21",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 107,
+  "length": 884348,
+  "headlines": [
+   {
+    "title_zh": "國際法院裁定緬甸對羅興亞人犯下種族滅絕罪",
+    "title_en": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "科技股遭拋售拖累美股，Anthropic股價下滑",
+    "title_en": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普稱普丁為朋友後，澤倫斯基批普丁是「殺手」",
+    "title_en": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙烏地領導的聯軍攔截三枚射向利雅德的胡塞飛彈",
+    "title_en": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+    "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+   },
+   {
+    "title_zh": "丹麥指控俄羅斯密謀暗殺美籍烏克蘭裔饒舌歌手",
+    "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十一日，歡迎收聽國際新聞。首先來看國際司法的重大判決。聯合國最高法院，也就是國際法院，裁定緬甸對少數民族羅興亞人犯下種族滅絕罪。這項前所未有的判決，涉及二零一七年造成數千人死亡的軍事鎮壓行動。本案由甘比亞提出，分析認為，甘比亞如何證明緬甸具有種族滅絕意圖，將成為法律界研究的重點，這項判決可能帶來深遠影響。接著看金融市場。科技股遭到拋售，拖累美國股市，人工智慧公司Anthropic股價下滑，標準普爾五百指數和道瓊工業指數雙雙跌入修正區間。在俄烏局勢方面，美國總統川普本週在中國舉行會談前與俄羅斯總統普丁打招呼，並表示兩人關係很好。對此，烏克蘭總統澤倫斯基直言，普丁是一名殺手。中東方面，沙烏地阿拉伯領導的聯軍攔截了三枚射向首都利雅德的胡塞飛彈。沙國已經連續第三個晚上在利雅德發布緊急警報，胡塞組織也威脅要攻擊港口和發電廠，區域緊張情勢持續升高。最後來看歐洲。丹麥指控俄羅斯密謀暗殺一名美籍烏克蘭裔饒舌歌手。俄羅斯駐丹麥大使館否認這項指控，不過丹麥已經驅逐俄羅斯的國防武官。以上就是今天的國際新聞，感謝您的收聽，我們明天再見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-21",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 67,
+  "length": 559835,
+  "headlines": [
+   {
+    "title_zh": "國際法院裁定緬甸對羅興亞人犯下種族滅絕罪",
+    "title_en": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "科技股遭拋售拖累美股，Anthropic股價下滑",
+    "title_en": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "川普稱普丁為朋友後，澤倫斯基批普丁是「殺手」",
+    "title_en": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "沙烏地領導的聯軍攔截三枚射向利雅德的胡塞飛彈",
+    "title_en": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+    "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+   },
+   {
+    "title_zh": "丹麥指控俄羅斯密謀暗殺美籍烏克蘭裔饒舌歌手",
+    "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is November 21, 2026, and this is International News. The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority, in an unprecedented verdict over a 2017 military crackdown that killed thousands. Analysts say the ruling, brought by The Gambia, could have far-reaching implications. In markets, a tech stock sell-off dragged US shares lower, with Anthropic shares sliding and both the S and P 500 and the Dow Jones Industrial Average pushed into correction territory. Ukrainian President Volodymyr Zelensky has called Vladimir Putin a killer, after Donald Trump greeted the Russian leader ahead of a meeting in China and said the two have a great relationship. In the Middle East, a Saudi-led coalition intercepted three Houthi missiles headed for Riyadh. Saudi Arabia issued emergency alerts in the capital for a third night in a row, as the Houthis threaten ports and a power station. And Denmark has accused Russia of plotting to assassinate a US-Ukrainian rapper. Russia's embassy denied the allegation, but Russia's defence attaché has been expelled. That's International News for today. Thank you for listening."
+ }
+]

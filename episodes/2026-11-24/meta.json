@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-24",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 126,
+  "length": 1046217,
+  "headlines": [
+   {
+    "title_zh": "輝達大逆轉，黃仁勳重返執行長職位",
+    "title_en": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+   },
+   {
+    "title_zh": "川普據報致電輝達董事會，力挺黃仁勳回任",
+    "title_en": "Trump reportedly called into Nvidia board meeting to advocate for Huang's return",
+    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+   },
+   {
+    "title_zh": "Anthropic 推出 Claude Ship，讓 AI 代理審查、修正並核准程式碼",
+    "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+   },
+   {
+    "title_zh": "亞馬遜以 75 億美元收購 Decart 的 AI 最佳化技術，準備銷售 Trainium 晶片",
+    "title_en": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+   },
+   {
+    "title_zh": "Sierra 半年內估值翻倍至 300 億美元",
+    "title_en": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十四日，歡迎收聽 AI 科技新聞。首先是本日最受矚目的消息，輝達大逆轉，讓黃仁勳重新回任執行長。黃仁勳在十一月十二日因外遇爭議辭職，爭議對象包括被懷疑是中國間諜的 Megaspeed 高層黃愛麗絲。如今他重返總部，員工像迎接英雄一樣歡迎他，他也對員工說，第二次當執行長會做得更好。不過風波還沒結束，黃仁勳預定下週到美國參議院出席公開聽證，而風暴核心的 Megaspeed，看來也將被列入美國黑名單，美國企業若未取得特別許可，將無法與其往來。政治層面上，川普據報親自致電輝達董事會，力挺黃仁勳回任，白宮更公開表示川普全程參與。川普也表示，美國沒有證據顯示黃仁勳有不當行為，同時敦促輝達繼續進行出口管制調查。馬斯克等科技領袖紛紛表態慶祝，但也有評論認為，這次復職可能帶來不少後續問題。接著看開發工具，Anthropic 推出 Claude Ship，讓 Claude 能自行審查、修正並核准程式碼合併請求，希望消除 AI 產生大量程式碼後的審查瓶頸。另外，亞馬遜將以據報七十五億美元，收購新創公司 Decart 的 AI 最佳化技術與研究團隊，為銷售自家 Trainium 晶片做準備。最後是募資消息，由前 Salesforce 共同執行長泰勒共同創辦的客戶體驗公司 Sierra，完成十七點五億美元的 F 輪募資，估值在半年內翻倍，達到三百億美元，顯示企業對客服 AI 的需求正快速升溫。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-24",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 73,
+  "length": 608427,
+  "headlines": [
+   {
+    "title_zh": "輝達大逆轉，黃仁勳重返執行長職位",
+    "title_en": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+   },
+   {
+    "title_zh": "川普據報致電輝達董事會，力挺黃仁勳回任",
+    "title_en": "Trump reportedly called into Nvidia board meeting to advocate for Huang's return",
+    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+   },
+   {
+    "title_zh": "Anthropic 推出 Claude Ship，讓 AI 代理審查、修正並核准程式碼",
+    "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+   },
+   {
+    "title_zh": "亞馬遜以 75 億美元收購 Decart 的 AI 最佳化技術，準備銷售 Trainium 晶片",
+    "title_en": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+   },
+   {
+    "title_zh": "Sierra 半年內估值翻倍至 300 億美元",
+    "title_en": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+   }
+  ],
+  "script": "Today is November 24, 2026, and this is AI Tech News. Our top story: Nvidia has reversed course and reinstated Jensen Huang as CEO, after he resigned on November 12 amid scrutiny over alleged affairs, including one with Megaspeed executive Alice Huang, a suspected Chinese spy. Employees greeted him like a hero, and Huang promised to be a better CEO the second time around. He is scheduled to testify before the Senate next week, while Megaspeed appears headed for a US blacklist. President Trump reportedly called into the Nvidia board meeting to advocate for Huang's return, and the White House says he was totally involved. Trump also said the US has no evidence of wrongdoing. In developer tools, Anthropic launched Claude Ship, letting Claude review, fix, and approve pull requests on its own. Amazon is acquiring Decart's AI optimization technology and research team in a reported 7.5 billion dollar deal as it prepares to sell its Trainium chips. And customer experience company Sierra, co-founded by Bret Taylor, raised 1.75 billion dollars in a Series F, doubling its valuation to 30 billion dollars in six months. That's all for today's AI Tech News."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-24",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 110,
+  "length": 910743,
+  "headlines": [
+   {
+    "title_zh": "川普稱「說服」輝達讓黃仁勳復任執行長，引發反彈",
+    "title_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "傳俄羅斯將發射核彈頭衛星，北約秘書長誓言防範太空威脅",
+    "title_en": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "烏克蘭在利比亞港口擊沉俄國軍艦，戰火外溢",
+    "title_en": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "國際法院裁定緬甸種族滅絕後，英國制裁緬甸軍方高層",
+    "title_en": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "糧食計畫署警告：戰爭阻斷全球糧食路線，730萬人援助受威脅",
+    "title_en": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss"
+   }
+  ],
+  "script": "今天是2026年11月24日，歡迎收聽國際新聞。首先關注科技業。黃仁勳重新回任輝達執行長，帶動公司股價市值增加一兆美元，也讓幾天前遭到拋售的人工智慧股重新走強。不過美國總統川普表示，是他說服輝達讓黃仁勳復任，這番話引發外界批評。另外，美國準備將亞洲人工智慧公司Megaspeed列入黑名單，這家公司被指控將人工智慧晶片轉運到中國。接著看國際安全。德國媒體報導，俄羅斯計畫在未來幾週內，把一顆搭載核彈頭的衛星送上太空。北約秘書長隨即表示，將會防範來自太空的威脅。同時，烏克蘭在利比亞一處港口擊沉一艘俄羅斯軍艦，分析認為，這讓戰爭的風險再升高一級，也顯示烏俄戰火正在向外擴散。再來是亞洲人權議題。國際法院日前裁定緬甸對羅興亞少數族群犯下種族滅絕罪，英國與其他幾個國家宣布承認這項裁決，並制裁緬甸軍方高層。但在裁決公布五天後，馬來西亞卻宣布將遣返數千名羅興亞難民回到緬甸。最後是人道危機。世界糧食計畫署警告，多地戰爭阻斷全球糧食運輸路線，使七百三十萬人的援助受到威脅。糧食計畫署執行長表示，這是政治問題，糧食無法送到真正需要的人手中。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-24",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 71,
+  "length": 596458,
+  "headlines": [
+   {
+    "title_zh": "川普稱「說服」輝達讓黃仁勳復任執行長，引發反彈",
+    "title_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "傳俄羅斯將發射核彈頭衛星，北約秘書長誓言防範太空威脅",
+    "title_en": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "烏克蘭在利比亞港口擊沉俄國軍艦，戰火外溢",
+    "title_en": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "國際法院裁定緬甸種族滅絕後，英國制裁緬甸軍方高層",
+    "title_en": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "糧食計畫署警告：戰爭阻斷全球糧食路線，730萬人援助受威脅",
+    "title_en": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss"
+   }
+  ],
+  "script": "It's November 24, 2026, and this is International News. Jensen Huang is back as Nvidia's CEO, a comeback that helped add one trillion dollars to the company's stock value and sparked a market surge. But President Trump faces backlash after saying he convinced Nvidia to reinstate Huang. Separately, the US plans to blacklist Asian AI firm Megaspeed, accused of funneling AI chips to China. NATO's chief has vowed to defend against threats in space, after German media reported Russia plans to launch a satellite carrying a nuclear warhead in the coming weeks. Ukraine has sunk a Russian battleship at a port in Libya, a strike that raises the stakes and shows the war spreading further afield. The UK, joined by several other nations, has sanctioned top Myanmar military leaders after the International Court of Justice ruled Myanmar committed genocide against the Rohingya. Meanwhile, Malaysia says it will return thousands of Rohingya refugees to Myanmar. And the World Food Programme warns that wars are choking global food routes, threatening aid for 7.3 million people. Its executive director called it a political problem, saying grain is not reaching those who need it. That's International News for today."
+ }
+]

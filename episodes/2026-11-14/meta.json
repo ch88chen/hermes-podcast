@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-14",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 119,
+  "length": 987238,
+  "headlines": [
+   {
+    "title_zh": "黃仁勳醜聞始末：與涉嫌中國間諜外遇後辭去輝達執行長",
+    "title_en": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "黃仁勳離任，AI 新創募資恐出現大缺口",
+    "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+   },
+   {
+    "title_zh": "研究指出中國最強 AI 模型以禁運輝達晶片訓練",
+    "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+   },
+   {
+    "title_zh": "ChatGPT 推出 Wallet，讓 AI 代理代你購物結帳",
+    "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+   },
+   {
+    "title_zh": "Google 推出 Gemini 4 Hydrogen，搜尋更懂複雜問題",
+    "title_en": "Google’s new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+   }
+  ],
+  "script": "今天是二零二六年十一月十四日，歡迎收聽AI 科技新聞。首先是本週最受矚目的消息，輝達執行長黃仁勳因外遇醜聞辭職，外遇對象據稱涉嫌是中國間諜。由於美中正在競逐最先進的 AI 基礎設施，這起事件可能牽動國家安全。路透社更報導，黃仁勳還有第三段外遇，對象是一名輝達員工。另外，美國國會民主黨人已對輝達展開調查，聚焦輝達對中國的銷售，以及與川普之間的往來，這已是醜聞爆發以來的第二起國會調查。接著來看產業衝擊。黃仁勳任內，輝達投入數百億美元投資 AI 新創。創業者與創投業者表示，少了他掌舵，未來可能面臨投資金額縮水、估值下滑的局面。同時，一項新研究顯示，中國最先進的 AI 模型，其實是用遭禁止出口的輝達晶片訓練出來的，讓輝達處境更加艱難。在產品方面，OpenAI 推出 ChatGPT Wallet，讓旗下的 Dots AI 代理可以代替使用者購物並完成結帳。目前先開放給美國年滿十八歲、使用美國帳單地址的 ChatGPT Pro 訂閱者，並支援符合資格的美國運通、大通、萬事達與 Visa 卡。最後，Google 發表新模型 Gemini 4 Hydrogen，更擅長理解複雜問題，包括多段式提問、難以辨識的錯字，或非常具體的需求。它能拆解問題並逐一回答，還能提供更豐富的視覺化回應，即日起在搜尋的 AI 模式與 Gemini 應用程式中上線。以上就是今天的AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-14",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 77,
+  "length": 643776,
+  "headlines": [
+   {
+    "title_zh": "黃仁勳醜聞始末：與涉嫌中國間諜外遇後辭去輝達執行長",
+    "title_en": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "黃仁勳離任，AI 新創募資恐出現大缺口",
+    "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+   },
+   {
+    "title_zh": "研究指出中國最強 AI 模型以禁運輝達晶片訓練",
+    "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+   },
+   {
+    "title_zh": "ChatGPT 推出 Wallet，讓 AI 代理代你購物結帳",
+    "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+   },
+   {
+    "title_zh": "Google 推出 Gemini 4 Hydrogen，搜尋更懂複雜問題",
+    "title_en": "Google’s new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+   }
+  ],
+  "script": "Today is November 14, 2026, and this is AI Tech News. Our top story: Jensen Huang has resigned from Nvidia following an affair with an alleged Chinese spy, a scandal that could carry national security implications as the U.S. and China race for AI dominance. Reuters now reports a third affair, involving an Nvidia employee, and Democrats in Congress have launched a second investigation into Nvidia's China sales and dealings with President Trump. The fallout reaches beyond Nvidia. Under Huang, the company poured tens of billions into AI startups, and founders and venture capitalists are now bracing for smaller checks and lower valuations. Meanwhile, new research shows China's most advanced AI models were trained on export-banned Nvidia chips, adding more pressure on the company. In product news, OpenAI launched ChatGPT Wallet, letting its Dots AI agents shop and check out on users' behalf. It starts with a limited rollout to U.S. Pro subscribers using eligible cards. And Google introduced Gemini 4 Hydrogen, a model better at handling complex, multi-part questions, even ones with typos. It's available in Search's AI Mode, the Gemini app, and more, with richer visual answers. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-14",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 124,
+  "length": 1028165,
+  "headlines": [
+   {
+    "title_zh": "川普、普丁與習近平下週將在中國舉行首次三方峰會",
+    "title_en": "Trump, Putin and Xi plan historic joint meeting in China next week",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國九一一以來最長全國航班停飛，官方稱肇因於老舊設備超載",
+    "title_en": "What we know about the longest ground stop since 9/11",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "微軟為全球大當機「深感抱歉」，服務已大致恢復",
+    "title_en": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達醜聞延燒，美國財長貝森特矛頭指向商務部",
+    "title_en": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "FBI：北韓駭客利用假視訊通話竊取四億美元加密貨幣",
+    "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月十四日，歡迎收聽國際新聞。首先來看重大外交消息。白宮表示，美國總統川普、俄羅斯總統普丁與中國國家主席習近平，下週將在中國舉行史上首次三方會談，地點在亞太經合會的場邊。白宮發言人指出，川普將在會中討論削減核武，以及伊朗戰爭等議題。接著是美國航空大亂。美國剛經歷九一一以來時間最長的全國航班停飛，官方說明，原因是老舊設備超載，並不是網路攻擊，也和微軟當機無關。這次停飛影響超過一百五十萬名旅客，美國職籃、職業冰球以及大學美式足球球隊的週末行程也都受到波及，航空公司警告後續還可能出現連鎖延誤。另一方面，微軟也為日前的全球大當機公開道歉，表示深感抱歉，目前服務已經大致恢復。專家認為，這起事件清楚提醒大家，全世界有多麼依賴少數幾家大型科技公司。再來是輝達醜聞持續延燒。美國財政部長貝森特暗示，商務部長盧特尼克領導的商務部，沒有及時禁止輝達晶片出口給一家被認為與中國有關的公司。這起事件也讓新加坡作為晶片樞紐的角色受到關注，外界質疑當地是否成為非法交易的據點。最後是網路安全消息。美國聯邦調查局指出，北韓駭客利用假的視訊通話進行一項名為臉部竊賊的詐騙行動，在過去十八個月內，估計有超過九百名受害者上當，被盜走的加密貨幣高達四億美元。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-14",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 73,
+  "length": 611795,
+  "headlines": [
+   {
+    "title_zh": "川普、普丁與習近平下週將在中國舉行首次三方峰會",
+    "title_en": "Trump, Putin and Xi plan historic joint meeting in China next week",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國九一一以來最長全國航班停飛，官方稱肇因於老舊設備超載",
+    "title_en": "What we know about the longest ground stop since 9/11",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "微軟為全球大當機「深感抱歉」，服務已大致恢復",
+    "title_en": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "輝達醜聞延燒，美國財長貝森特矛頭指向商務部",
+    "title_en": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "FBI：北韓駭客利用假視訊通話竊取四億美元加密貨幣",
+    "title_en": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 14, 2026, and this is International News. The White House says Donald Trump, Vladimir Putin and Xi Jinping will hold their first three-way summit in China next week, on the sidelines of APEC. Trump plans to discuss reducing nuclear weapons and the Iran war. In the United States, officials say the longest nationwide ground stop since 9/11 was caused by old equipment overloading, not a cyber-attack or a Microsoft outage. More than 1.5 million passengers faced disruption, including NBA, NHL and college football teams. Separately, Microsoft says it is deeply sorry for a global outage and reports a broad recovery. Experts call it a stark reminder of how heavily the world relies on a few big tech providers. The fallout from the Nvidia scandal is widening. Treasury Secretary Scott Bessent suggested Howard Lutnick's commerce department failed to ban chip exports to a firm thought to have links with China. The case has also put a spotlight on Singapore as a chip hub. And the FBI says North Korean hackers used fake video calls in a scheme called FaceStealer, stealing 400 million dollars in crypto from more than 900 victims over the last 18 months. That's International News for today."
+ }
+]

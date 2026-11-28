@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-20",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 115,
+  "length": 959781,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 登上那斯達克，開盤價較 IPO 價格高出約三成",
+    "title_en": "Anthropic starts trading on Wall Street",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+   },
+   {
+    "title_zh": "輝達黃仁勳醜聞始末：因婚外情辭職",
+    "title_en": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "Google 讓 Gemini 能直接操作你的 Mac",
+    "title_en": "Google gives Gemini the ability to use your Mac for you",
+    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+   },
+   {
+    "title_zh": "報導：Meta AI 代理 Muse 混淆對話，恐外洩私人資料",
+    "title_en": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+   },
+   {
+    "title_zh": "微軟執行長納德拉解釋為何請六萬名員工自願離職",
+    "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十日，歡迎收聽 AI 科技新聞。首先是本週最受矚目的消息，Anthropic 正式上市了。這家公司以股票代號 ANT 在那斯達克掛牌，開盤價每股一百一十一點五美元，比八十三美元的承銷價高出約三成。這次募資超過八百億美元，被形容是史上規模最大的 IPO，甚至超越 SpaceX。執行長 Dario Amodei 在敲鐘演說中重申，不論面對商業或政治壓力，Anthropic 都會堅持控制 AI 發展的步調。接著看輝達，黃仁勳因為一段婚外情辭去職務，這件事可能牽涉美中 AI 競賽下的國家安全問題。臨時執行長 Colette Kress 在財報會議上表示公司撐得住，不過輝達股價目前在一百五十美元左右，比十月六日的歷史高點跌了將近四成。再來是 AI 代理的競爭，Google 為 Mac 版 Gemini 加入操作電腦的功能，可以跨本機檔案、桌面應用程式和網頁，幫你整理檔案、填寫表單、處理多步驟的工作流程。不過 AI 代理也有隱憂，根據報導，Meta 的 AI 代理 Muse 出現對話混淆的狀況，有員工看到自己從沒提出的托育需求、沒下過的訂單，甚至是別人的銀行帳戶餘額，可能有洩漏私人資料的風險。最後，微軟執行長納德拉說明，十月時他為什麼提供六萬名員工自願離職方案，而不是再進行大規模裁員。簡單來說原因是 AI，但跟大家想的可能不太一樣。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-20",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 77,
+  "length": 639279,
+  "headlines": [
+   {
+    "title_zh": "Anthropic 登上那斯達克，開盤價較 IPO 價格高出約三成",
+    "title_en": "Anthropic starts trading on Wall Street",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+   },
+   {
+    "title_zh": "輝達黃仁勳醜聞始末：因婚外情辭職",
+    "title_en": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+   },
+   {
+    "title_zh": "Google 讓 Gemini 能直接操作你的 Mac",
+    "title_en": "Google gives Gemini the ability to use your Mac for you",
+    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+   },
+   {
+    "title_zh": "報導：Meta AI 代理 Muse 混淆對話，恐外洩私人資料",
+    "title_en": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+   },
+   {
+    "title_zh": "微軟執行長納德拉解釋為何請六萬名員工自願離職",
+    "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+   }
+  ],
+  "script": "It's November 20th, 2026, and this is AI Tech News. Anthropic is officially public. The company began trading on the Nasdaq under the ticker ANT at 111 dollars and 50 cents, well above its 83 dollar IPO price, in what is reported as the biggest IPO of all time, raising more than 80 billion dollars. At the opening bell, CEO Dario Amodei recommitted to pacing AI development regardless of business or political pressure. At Nvidia, Jensen Huang has resigned following an affair that could carry national security implications. Interim CEO Colette Kress says the company has got this, but the stock is hovering around 150 dollars, nearly 40 percent below its October high. Google's Gemini app for Mac can now use your computer, handling multistep tasks across local files, desktop apps, and the web, such as filling out forms and organizing files. Meanwhile, a report says Meta's AI agent Muse has been mixing up conversations, surfacing messages and even bank balances that belonged to other people. And Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 employees instead of another mass layoff. The short answer is AI, but not in the way you might expect. That's AI Tech News for today."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-20",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 126,
+  "length": 1041322,
+  "headlines": [
+   {
+    "title_zh": "川普、普丁與習近平首度三方會晤，發表「和平宣言」",
+    "title_en": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "聯合國最高法院裁定緬甸對羅興亞人犯下種族滅絕",
+    "title_en": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "歐洲領袖表示準備好與俄羅斯談判結束烏克蘭戰爭",
+    "title_en": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "Anthropic股市掛牌，躋身全球市值最高上市公司之列",
+    "title_en": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "英國與歐盟將達成青年交流計畫協議",
+    "title_en": "UK and EU to agree youth mobility scheme, BBC understands",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二〇二六年十一月二十日，歡迎收聽國際新聞。首先關注國際外交。美國總統川普、俄羅斯總統普丁與中國國家主席習近平，舉行史上首次三方會談，會後發表一份和平宣言。三人過去曾分別舉行一對一會面，但三方同時會談還是第一次。分析指出，這對習近平來說是相當重要的外交時刻，不過也伴隨風險，因為有些議題習近平似乎不太願意與普丁和川普討論。接著是一則歷史性的判決。聯合國國際法院裁定，緬甸在二〇一七年對羅興亞少數民族發動軍事鎮壓、造成數千人死亡，構成種族滅絕罪。這是首次有國家被國際法院判定犯下種族滅絕，可能帶來深遠影響。許多羅興亞難民喜極而泣，認為終於獲得公道，但他們能否返回家園，仍是未知數。烏克蘭戰事方面，烏克蘭的歐洲盟友在柏林峰會上表示，已經準備好與俄羅斯展開結束戰爭的談判，而且立場一致。另一方面，克里米亞大橋本週遭到烏克蘭攻擊嚴重受損，普丁誓言將做出更加痛苦的回應。財經消息，人工智慧公司Anthropic股票正式上市，一舉成為全球市值最高的上市公司之一。它是第一家純人工智慧公司掛牌，被視為整個產業的試金石。最後來看歐洲。英國脫歐十年後，倫敦釋出與歐盟在多項政策上更緊密接軌的訊號。預計週五的英國與歐盟峰會將通過青年交流計畫，食品貿易與碳排放的新協議也在討論之列。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-20",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 77,
+  "length": 640922,
+  "headlines": [
+   {
+    "title_zh": "川普、普丁與習近平首度三方會晤，發表「和平宣言」",
+    "title_en": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "聯合國最高法院裁定緬甸對羅興亞人犯下種族滅絕",
+    "title_en": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "歐洲領袖表示準備好與俄羅斯談判結束烏克蘭戰爭",
+    "title_en": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "Anthropic股市掛牌，躋身全球市值最高上市公司之列",
+    "title_en": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "英國與歐盟將達成青年交流計畫協議",
+    "title_en": "UK and EU to agree youth mobility scheme, BBC understands",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "Today is November 20, 2026. Welcome to International News. U.S. President Trump, Russian President Putin and Chinese President Xi have released a peace declaration after their first ever trilateral meeting. Analysts say it is a remarkable diplomatic moment for Xi, though it comes with pitfalls. In a historic ruling, the International Court of Justice has found that Myanmar committed genocide against the Rohingya minority during a 2017 military crackdown that killed thousands. No state had ever before been found guilty of genocide by an international court, and Rohingya refugees greeted the verdict with tears of joy, while still hoping to return home. In Berlin, European allies of Ukraine say they are ready for talks with Russia on ending the war, with a united negotiating position. Meanwhile, Putin has vowed a far more painful response to Ukraine's strikes on the Crimean Bridge. In business, Anthropic has become one of the world's most valuable public companies in its stock market debut, the first purely AI company to be listed, creating a test for the entire industry. And the UK and the European Union are expected to approve a youth mobility scheme at Friday's summit, with new deals on food trade and carbon emissions also on the table, a decade after Brexit. That's International News for today."
+ }
+]

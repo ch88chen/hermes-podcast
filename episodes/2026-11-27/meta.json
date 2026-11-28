@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-27",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 125,
+  "length": 1041007,
+  "headlines": [
+   {
+    "title_zh": "輝達暫停對東南亞的晶片出貨",
+    "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+   },
+   {
+    "title_zh": "《俠盜獵車手六》證明效率並非美德",
+    "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+   },
+   {
+    "title_zh": "標普因治理與關鍵人物風險考慮調降輝達信用評等",
+    "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+   },
+   {
+    "title_zh": "42州檢察長力阻Character.AI出售用戶聊天紀錄",
+    "title_en": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+   },
+   {
+    "title_zh": "Google客製化AI影音專利描繪娛樂業的黯淡未來",
+    "title_en": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+   }
+  ],
+  "script": "今天是2026年11月27日，歡迎收聽AI科技新聞。首先來看輝達。輝達已經通知製造合作夥伴，暫停把伺服器出貨到馬來西亞、新加坡、泰國和印尼，原因是美國正加強力道，防止AI晶片流入中國。這項措施可能牽動東南亞的資料中心布局，值得持續關注。輝達這週的壓力還不只這一項。信用評等機構標普正在考慮調降輝達的信用評等，可能降到AA減，也就是第四高的等級，主要理由是公司治理以及所謂的關鍵人物風險。接著是資本市場與娛樂產業的對照。Anthropic在同一天正式掛牌上市，而同一天推出的《俠盜獵車手六》，這款投入大量人力精心打造的遊戲，成為史上最成功的娛樂產品上市之一。有評論認為，這說明了效率並不一定是美德，人類的用心創作依然有難以取代的價值。在政策與隱私方面，共有42個州的檢察長聯手，試圖阻止正在進行破產法第十一章程序的Character.AI出售用戶資料。這些檢察長幾乎同步發布內容相近的新聞稿，指控這家公司打算拍賣超過兩千一百萬個美國帳號的私人聊天紀錄，引發外界對AI聊天服務資料保護的高度關切。最後一則，Google去年申請了一項名為My Channel的專利，這套系統會根據Google掌握的用戶資訊，產生充滿個人化AI生成影片和廣告的內容推播。這項專利目前已經被駁回，不過Google仍可能提出上訴，或送出修改後的版本，有評論擔心這描繪出娛樂產業相當黯淡的未來。以上就是今天的AI科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-27",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 72,
+  "length": 598779,
+  "headlines": [
+   {
+    "title_zh": "輝達暫停對東南亞的晶片出貨",
+    "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+   },
+   {
+    "title_zh": "《俠盜獵車手六》證明效率並非美德",
+    "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+   },
+   {
+    "title_zh": "標普因治理與關鍵人物風險考慮調降輝達信用評等",
+    "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+   },
+   {
+    "title_zh": "42州檢察長力阻Character.AI出售用戶聊天紀錄",
+    "title_en": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+   },
+   {
+    "title_zh": "Google客製化AI影音專利描繪娛樂業的黯淡未來",
+    "title_en": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+   }
+  ],
+  "script": "It's November 27, 2026, and this is AI Tech News. Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia, as the U.S. tightens its push to keep AI chips out of China. More pressure on Nvidia: S&P is considering a credit downgrade to AA minus, the fourth-highest rating, citing governance and key man risks. In markets, Anthropic went public on the same day Grand Theft Auto VI launched, and the painstakingly human-made game became one of the most successful entertainment launches of all time, a reminder that efficiency isn't always a virtue. On the policy front, a coalition of 42 state attorneys general is trying to stop Character.AI from selling user data during its Chapter 11 bankruptcy. They accuse the company of planning to auction off the private chat histories of more than 21 million U.S. accounts. Finally, Google filed a patent last year for a system called My Channel, designed to create feeds of personalized AI-generated videos and ads based on what it knows about users. The patent was rejected, but Google could appeal or resubmit an amended version. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-27",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 119,
+  "length": 990929,
+  "headlines": [
+   {
+    "title_zh": "澤倫斯基接受BBC專訪，批評川普與普丁「奇怪」的友誼",
+    "title_en": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國宣布對包括中國在內多國加徵新關稅",
+    "title_en": "US announces new tariffs on host of countries including China",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "感恩節強烈風暴襲美，造成淹水與航班延誤",
+    "title_en": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "紐西蘭執政聯盟差一席未過國會半數",
+    "title_en": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "香港大火一週年，168人罹難，家屬仍在等待公道",
+    "title_en": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是2026年11月27日，歡迎收聽國際新聞。首先關注烏克蘭戰事。烏克蘭總統澤倫斯基接受英國廣播公司專訪時，批評美國總統川普與俄羅斯總統普丁之間的友誼「很奇怪」。他表達對美國的不滿，認為美方在終結戰爭的和談中，對俄羅斯施壓不夠。接著是國際貿易消息。美國宣布對多個國家加徵新關稅，衝擊對象包括中國與歐盟等美國最大的貿易夥伴之一，後續影響值得關注。美國國內方面，感恩節連假一開始，就有強烈風暴同時侵襲東西兩岸，帶來強風、豪雨與淹水，多地航班延誤。到了週四晚間，全美有將近一百萬用戶停電，部分地區屋頂被掀翻、街道淹水，數十萬人受到影響。再來看紐西蘭。最新選舉結果顯示，由國家黨領導的右派執政聯盟，距離國會過半只差一席。保守派總理盧克森和民粹派聯盟夥伴，接下來必須與立場中間、握有關鍵席次的政黨展開棘手協商。最後來看香港。香港今天迎來一場大火一週年。去年一場原本為了改善住宅的整修工程，最後演變成大火，延燒七棟公寓大樓，奪走168條人命，是香港史上最致命的火災之一。一年過去了，罹難者家屬表示，他們仍在等待公道。有家屬說，至今還會傳訊息給在火災中過世的丈夫；也有人在灰燼中找到父親停在他過世那一刻的手錶。以上是今天的國際新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-27",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 70,
+  "length": 589245,
+  "headlines": [
+   {
+    "title_zh": "澤倫斯基接受BBC專訪，批評川普與普丁「奇怪」的友誼",
+    "title_en": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "美國宣布對包括中國在內多國加徵新關稅",
+    "title_en": "US announces new tariffs on host of countries including China",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "感恩節強烈風暴襲美，造成淹水與航班延誤",
+    "title_en": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "紐西蘭執政聯盟差一席未過國會半數",
+    "title_en": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "香港大火一週年，168人罹難，家屬仍在等待公道",
+    "title_en": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 27th, 2026, and this is International News. Ukraine's President Volodymyr Zelensky has criticised what he called a strange friendship between Donald Trump and Vladimir Putin. In a BBC interview, he voiced frustration that the United States is not pushing Russia hard enough in peace talks to end the war. In trade, the US has announced new tariffs on a host of countries. The levies would hit many of America's biggest trading partners, including China and the European Union. Meanwhile, a major Thanksgiving storm has struck both US coasts, bringing wind gusts, heavy rain and flooding. Almost one million customers had no power on Thursday evening, and flights were delayed as the holiday weekend began. In New Zealand, the right-leaning ruling bloc led by the National Party has fallen one seat short of a parliamentary majority. Prime Minister Christopher Luxon and his populist partners now face tricky negotiations with a centrist kingmaker. And Hong Kong is marking one year since a huge blaze tore through seven apartment blocks during a renovation, killing 168 people. A year on, families left behind say they are still waiting for justice. That's International News for today."
+ }
+]

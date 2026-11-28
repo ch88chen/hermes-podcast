@@ -1,0 +1,146 @@
+[
+ {
+  "file": "ai_zh.m4a",
+  "title": "AI 科技新聞（繁中） - 2026-11-22",
+  "lang": "zh",
+  "hms": "08:35:00",
+  "duration": 112,
+  "length": 923781,
+  "headlines": [
+   {
+    "title_zh": "AI 宣稱解決 167 年歷史的黎曼猜想，人類數學家也提出解答",
+    "title_en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+   },
+   {
+    "title_zh": "Anthropic 上市後，還能堅持安全優先嗎？",
+    "title_en": "Can Anthropic afford to put safety first?",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+   },
+   {
+    "title_zh": "聯合國未能就「殺手機器人」規範達成共識",
+    "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+   },
+   {
+    "title_zh": "研究員在 AI 供應鏈植入兩百萬個金絲雀測試，揭露隱私災難",
+    "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+   },
+   {
+    "title_zh": "Signal 面對 AI 監控的「生存威脅」，限制手機截圖",
+    "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十二日，歡迎收聽 AI 科技新聞。首先是數學界的重大消息。一套 AI 系統宣稱解決了已有一百六十七年歷史的黎曼猜想，讓許多數學家大感震撼。更有意思的是，同一時間也有一位人類數學家提出了另一個競爭的解答，兩方的成果都受到高度關注。接著來看產業動態。開發 Claude 的 AI 實驗室 Anthropic，上週四正式在那斯達克掛牌上市。The Verge 的資深 AI 記者 Hayden Field 在節目中討論，公司上市之後，面對公開市場的壓力，還能不能繼續把安全擺在第一位，這也是外界關注的焦點。國際方面，聯合國外交官本週在日內瓦開會，議程之一是制定自主武器，也就是俗稱殺手機器人的使用規範。不過經過一整週幾乎沒有進展的談判，各國代表最後只同意開始討論可能的選項，距離真正的規範還很遙遠。再來是資安與隱私議題。一位研究人員在 AI 供應鏈中植入了兩百萬個獨特、可追蹤的秘密，也就是所謂的金絲雀測試。結果證明，使用者輸入的資料並不會保持私密，秘密外洩的速度相當驚人，凸顯 AI 服務在隱私保護上的漏洞。最後，通訊軟體 Signal 宣布，將限制使用者在 Android 和 iOS 應用程式中截圖。Signal 表示，AI 監控已經對私密通訊構成生存層級的威脅，因此必須採取更嚴格的保護措施。以上就是今天的 AI 科技新聞，感謝您的收聽，我們明天見。"
+ },
+ {
+  "file": "ai_en.m4a",
+  "title": "AI Tech News (English) - 2026-11-22",
+  "lang": "en",
+  "hms": "08:35:30",
+  "duration": 73,
+  "length": 610862,
+  "headlines": [
+   {
+    "title_zh": "AI 宣稱解決 167 年歷史的黎曼猜想，人類數學家也提出解答",
+    "title_en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+   },
+   {
+    "title_zh": "Anthropic 上市後，還能堅持安全優先嗎？",
+    "title_en": "Can Anthropic afford to put safety first?",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+   },
+   {
+    "title_zh": "聯合國未能就「殺手機器人」規範達成共識",
+    "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+   },
+   {
+    "title_zh": "研究員在 AI 供應鏈植入兩百萬個金絲雀測試，揭露隱私災難",
+    "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+   },
+   {
+    "title_zh": "Signal 面對 AI 監控的「生存威脅」，限制手機截圖",
+    "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+   }
+  ],
+  "script": "Today is November 22, 2026, and this is AI Tech News. First, a milestone in mathematics: an AI system has claimed a solution to the 167-year-old Riemann hypothesis, and mathematicians are stunned. Adding to the drama, a human mathematician has put forward a competing solution as well. Next, Anthropic, the lab behind Claude, went public on the Nasdaq last Thursday. The Verge's senior AI reporter Hayden Field discusses whether the company can still afford to put safety first now that it faces public market pressure. In Geneva, UN diplomats spent a week negotiating rules for autonomous weapons, often called killer robots. After largely fruitless talks, representatives only agreed to start discussing options. On the privacy front, a researcher planted two million unique, trackable secrets, known as canaries, into prompts across the AI supply chain. The test showed that user data does not stay private, with secrets leaking at an alarming rate. Finally, Signal is now limiting screenshots in its Android and iOS apps, calling AI surveillance an existential threat to private communication. That's all for today's AI Tech News. Thanks for listening."
+ },
+ {
+  "file": "intl_zh.m4a",
+  "title": "國際新聞（繁中） - 2026-11-22",
+  "lang": "zh",
+  "hms": "08:40:00",
+  "duration": 104,
+  "length": 865279,
+  "headlines": [
+   {
+    "title_zh": "COP31氣候峰會化石燃料僵局，談判延長進入第二天",
+    "title_en": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+    "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
+   },
+   {
+    "title_zh": "澤倫斯基稱攻擊克里米亞大橋是「公平回應」",
+    "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "墨西哥毒梟「小矮子伊西德羅」落網，衝突中11人死亡",
+    "title_en": "Eleven killed in burst of violence during Mexican cartel leader's capture",
+    "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+   },
+   {
+    "title_zh": "科技股遭拋售拖累美股，Anthropic股價下滑",
+    "title_en": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "丹麥指控俄羅斯密謀暗殺美籍烏克蘭裔饒舌歌手",
+    "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "今天是二零二六年十一月二十二日，歡迎收聽國際新聞。首先關注氣候議題。在土耳其舉行的聯合國第三十一屆氣候峰會COP31，因各國在化石燃料問題上陷入僵局，談判已延長進入第二天。大會主席庫魯姆請各國談判代表考慮一份最後關頭提出的新協議草案，希望避免談判破局。接著看俄烏戰爭。烏克蘭總統澤倫斯基表示，攻擊克里米亞大橋是「公平的回應」，他指出，俄羅斯先前對烏克蘭境內橋梁發動了一百零九次空襲，基輔才採取行動。澤倫斯基是在會見英國政治人物史崔廷時發表這番談話。在墨西哥，名列美國聯邦調查局十大通緝要犯的毒梟梅薩弗洛雷斯，外號「小矮子伊西德羅」，在與當局槍戰後落網。他被控販毒與酷刑。這次逮捕行動引發激烈衝突，共造成十一人死亡，包括七名疑似幫派槍手和四名士兵。財經方面，科技股遭到拋售，拖累美國股市下跌，人工智慧公司Anthropic股價走低，標普五百指數和道瓊工業指數雙雙進入修正區間。最後，丹麥指控俄羅斯密謀暗殺一名美籍烏克蘭裔饒舌歌手，並因此驅逐俄羅斯駐丹麥的國防武官。俄羅斯駐丹麥大使館則否認相關指控。以上是今天的國際新聞，感謝您的收聽。"
+ },
+ {
+  "file": "intl_en.m4a",
+  "title": "International News (English) - 2026-11-22",
+  "lang": "en",
+  "hms": "08:40:30",
+  "duration": 68,
+  "length": 564850,
+  "headlines": [
+   {
+    "title_zh": "COP31氣候峰會化石燃料僵局，談判延長進入第二天",
+    "title_en": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+    "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
+   },
+   {
+    "title_zh": "澤倫斯基稱攻擊克里米亞大橋是「公平回應」",
+    "title_en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "墨西哥毒梟「小矮子伊西德羅」落網，衝突中11人死亡",
+    "title_en": "Eleven killed in burst of violence during Mexican cartel leader's capture",
+    "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+   },
+   {
+    "title_zh": "科技股遭拋售拖累美股，Anthropic股價下滑",
+    "title_en": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "title_zh": "丹麥指控俄羅斯密謀暗殺美籍烏克蘭裔饒舌歌手",
+    "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+   }
+  ],
+  "script": "It's November 22, 2026, and this is International News. At the UN COP31 climate summit in Turkey, talks have gone into a second day of overtime as countries remain deadlocked over fossil fuels. COP31 President Murat Kurum has asked negotiators to consider a last-minute draft deal to avoid collapse. Ukrainian President Volodymyr Zelensky called strikes on the Crimean Bridge a fair response, saying Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine. He spoke while meeting Britain's Wes Streeting. In Mexico, cartel boss Fausto Isidro Meza Flores, on the FBI's ten most wanted list, was arrested after a shoot-out. Eleven people were killed in the operation, including seven alleged gunmen and four soldiers. On Wall Street, a tech stock sell-off dragged markets lower as Anthropic shares slid, pushing the S&P 500 and the Dow Jones Industrial Average into correction territory. And Denmark has accused Russia of plotting to assassinate a US-Ukrainian rapper, expelling Russia's defence attaché. The Russian embassy denies the allegation. That's International News for today."
+ }
+]
